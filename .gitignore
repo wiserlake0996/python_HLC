@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+
+polygonIO_python/trades_quotes/*.*/
+
 # Distribution / packaging
 .Python
 build/
