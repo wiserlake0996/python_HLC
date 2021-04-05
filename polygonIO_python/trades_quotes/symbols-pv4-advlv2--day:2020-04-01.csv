@@ -1,3 +1,0 @@
-,open_price,open_time,open_size,close_price,close_time,close_size,pre_max_price,pre_min_price,pre_std_price,pre_median_price,pre_volume,intraday_max_price,intraday_min_price,intraday_std_price,intraday_median_price,intraday_volume,post_max_price,post_min_price,post_std_price,post_median_price,post_volume,symbol
-0,504.0,09:30:00.999287,95460,481.56,16:00:00.811478,123597,524.0,497.0,3.0512155533697634,503.01,183481,513.9548,475.1,10.880464617903963,494.5549,4324800,494.7017,475.88,2.7298260863985138,478.0,97206,TSLA
-1,1935.02,09:30:00.977312,86556,1907.7,16:00:00.802902,251921,1949.72,1914.0,4.143834870897978,1921.6,69615,1949.72,1768.99,11.634429089678175,1915.67,2301868,1963.7242,1902.75,2.2377114980092596,1907.7,32844,AMZN
