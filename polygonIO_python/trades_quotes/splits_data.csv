@@ -1,0 +1,1347 @@
+,symbol,splits
+0,SNDL,[]
+1,GNUS,"[{'ticker': 'GNUS', 'exDate': '2016-11-09', 'paymentDate': '2016-11-09', 'declaredDate': '2016-11-09', 'ratio': 3, 'tofactor': 3, 'forfactor': 1}]"
+2,NOK,"[{'ticker': 'NOK', 'exDate': '2000-04-11', 'paymentDate': '2000-04-11', 'ratio': 0.25}, {'ticker': 'NOK', 'exDate': '1999-04-12', 'paymentDate': '1999-04-12', 'ratio': 0.5}, {'ticker': 'NOK', 'exDate': '1998-04-16', 'paymentDate': '1998-04-16', 'ratio': 0.5}]"
+3,TOPS,"[{'ticker': 'TOPS', 'exDate': '2020-08-10', 'paymentDate': '2020-08-10', 'declaredDate': '2020-08-10', 'ratio': 25, 'tofactor': 25, 'forfactor': 1}, {'ticker': 'TOPS', 'exDate': '2019-08-22', 'paymentDate': '2019-08-22', 'declaredDate': '2019-08-22', 'ratio': 20, 'tofactor': 20, 'forfactor': 1}, {'ticker': 'TOPS', 'exDate': '2018-03-26', 'paymentDate': '2018-03-26', 'declaredDate': '2018-03-26', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}, {'ticker': 'TOPS', 'exDate': '2017-10-06', 'paymentDate': '2017-10-06', 'declaredDate': '2017-10-06', 'ratio': 2, 'tofactor': 2, 'forfactor': 1}, {'ticker': 'TOPS', 'exDate': '2017-08-03', 'paymentDate': '2017-08-03', 'declaredDate': '2017-08-03', 'ratio': 30, 'tofactor': 30, 'forfactor': 1}, {'ticker': 'TOPS', 'exDate': '2017-06-23', 'paymentDate': '2017-06-23', 'declaredDate': '2017-06-23', 'ratio': 15, 'tofactor': 15, 'forfactor': 1}, {'ticker': 'TOPS', 'exDate': '2017-05-11', 'paymentDate': '2017-05-11', 'declaredDate': '2017-05-11', 'ratio': 20, 'tofactor': 20, 'forfactor': 1}, {'ticker': 'TOPS', 'exDate': '2016-02-22', 'paymentDate': '2016-02-22', 'declaredDate': '2016-02-22', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}, {'ticker': 'TOPS', 'exDate': '2014-04-21', 'paymentDate': '2014-04-21', 'declaredDate': '2014-04-21', 'ratio': 7, 'tofactor': 7, 'forfactor': 1}, {'ticker': 'TOPS', 'exDate': '2011-06-24', 'paymentDate': '2011-06-24', 'ratio': 10}, {'ticker': 'TOPS', 'exDate': '2008-03-20', 'paymentDate': '2008-03-20', 'ratio': 3.000030000300003}]"
+4,IBIO,"[{'ticker': 'IBIO', 'exDate': '2018-06-11', 'paymentDate': '2018-06-11', 'declaredDate': '2018-06-11', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}]"
+5,SNDL,[]
+6,GNUS,"[{'ticker': 'GNUS', 'exDate': '2016-11-09', 'paymentDate': '2016-11-09', 'declaredDate': '2016-11-09', 'ratio': 3, 'tofactor': 3, 'forfactor': 1}]"
+7,NOK,"[{'ticker': 'NOK', 'exDate': '2000-04-11', 'paymentDate': '2000-04-11', 'ratio': 0.25}, {'ticker': 'NOK', 'exDate': '1999-04-12', 'paymentDate': '1999-04-12', 'ratio': 0.5}, {'ticker': 'NOK', 'exDate': '1998-04-16', 'paymentDate': '1998-04-16', 'ratio': 0.5}]"
+8,TOPS,"[{'ticker': 'TOPS', 'exDate': '2020-08-10', 'paymentDate': '2020-08-10', 'declaredDate': '2020-08-10', 'ratio': 25, 'tofactor': 25, 'forfactor': 1}, {'ticker': 'TOPS', 'exDate': '2019-08-22', 'paymentDate': '2019-08-22', 'declaredDate': '2019-08-22', 'ratio': 20, 'tofactor': 20, 'forfactor': 1}, {'ticker': 'TOPS', 'exDate': '2018-03-26', 'paymentDate': '2018-03-26', 'declaredDate': '2018-03-26', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}, {'ticker': 'TOPS', 'exDate': '2017-10-06', 'paymentDate': '2017-10-06', 'declaredDate': '2017-10-06', 'ratio': 2, 'tofactor': 2, 'forfactor': 1}, {'ticker': 'TOPS', 'exDate': '2017-08-03', 'paymentDate': '2017-08-03', 'declaredDate': '2017-08-03', 'ratio': 30, 'tofactor': 30, 'forfactor': 1}, {'ticker': 'TOPS', 'exDate': '2017-06-23', 'paymentDate': '2017-06-23', 'declaredDate': '2017-06-23', 'ratio': 15, 'tofactor': 15, 'forfactor': 1}, {'ticker': 'TOPS', 'exDate': '2017-05-11', 'paymentDate': '2017-05-11', 'declaredDate': '2017-05-11', 'ratio': 20, 'tofactor': 20, 'forfactor': 1}, {'ticker': 'TOPS', 'exDate': '2016-02-22', 'paymentDate': '2016-02-22', 'declaredDate': '2016-02-22', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}, {'ticker': 'TOPS', 'exDate': '2014-04-21', 'paymentDate': '2014-04-21', 'declaredDate': '2014-04-21', 'ratio': 7, 'tofactor': 7, 'forfactor': 1}, {'ticker': 'TOPS', 'exDate': '2011-06-24', 'paymentDate': '2011-06-24', 'ratio': 10}, {'ticker': 'TOPS', 'exDate': '2008-03-20', 'paymentDate': '2008-03-20', 'ratio': 3.000030000300003}]"
+9,IBIO,"[{'ticker': 'IBIO', 'exDate': '2018-06-11', 'paymentDate': '2018-06-11', 'declaredDate': '2018-06-11', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}]"
+10,ZOM,[]
+11,JAGX,"[{'ticker': 'JAGX', 'exDate': '2019-06-07', 'paymentDate': '2019-06-07', 'declaredDate': '2019-06-07', 'ratio': 70, 'tofactor': 70, 'forfactor': 1}, {'ticker': 'JAGX', 'exDate': '2018-06-01', 'paymentDate': '2018-06-01', 'declaredDate': '2018-06-01', 'ratio': 5, 'tofactor': 5, 'forfactor': 1}]"
+12,NAKD,"[{'ticker': 'NAKD', 'exDate': '2019-12-20', 'paymentDate': '2019-12-20', 'declaredDate': '2019-12-20', 'ratio': 100, 'tofactor': 100, 'forfactor': 1}, {'ticker': 'NAKD', 'exDate': '2015-08-10', 'paymentDate': '2015-08-10', 'declaredDate': '2015-08-10', 'ratio': 40, 'tofactor': 40, 'forfactor': 1}]"
+13,XSPA,"[{'ticker': 'XSPA', 'exDate': '2020-06-11', 'paymentDate': '2020-06-11', 'declaredDate': '2020-06-11', 'ratio': 3, 'tofactor': 3, 'forfactor': 1}, {'ticker': 'XSPA', 'exDate': '2019-02-25', 'paymentDate': '2019-02-25', 'declaredDate': '2019-02-25', 'ratio': 20, 'tofactor': 20, 'forfactor': 1}]"
+14,TNXP,"[{'ticker': 'TNXP', 'exDate': '2019-11-01', 'paymentDate': '2019-11-01', 'declaredDate': '2019-11-01', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}, {'ticker': 'TNXP', 'exDate': '2018-11-28', 'paymentDate': '2018-11-28', 'declaredDate': '2018-11-28', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}, {'ticker': 'TNXP', 'exDate': '2017-03-17', 'paymentDate': '2017-03-17', 'declaredDate': '2017-03-17', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}, {'ticker': 'TNXP', 'exDate': '2013-05-03', 'paymentDate': '2013-05-03', 'ratio': 20}]"
+15,TELL,[]
+16,IVR,[]
+17,VBIV,"[{'ticker': 'VBIV', 'exDate': '2006-03-30', 'paymentDate': '2006-03-30', 'ratio': 0.5}]"
+18,NOVN,[]
+19,OGI,[]
+20,RIG,"[{'ticker': 'RIG', 'exDate': '2007-11-26', 'paymentDate': '2007-11-26', 'ratio': 1.42938822184105}]"
+21,MFA,[]
+22,NAK,[]
+23,ACST,"[{'ticker': 'ACST', 'exDate': '2015-10-15', 'paymentDate': '2015-10-15', 'declaredDate': '2015-10-15', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}, {'ticker': 'ACST', 'exDate': '2015-10-14', 'paymentDate': '2015-10-14', 'declaredDate': '2015-10-14', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}]"
+24,KOS,[]
+25,BOXL,[]
+26,TTOO,[]
+27,OPTT,"[{'ticker': 'OPTT', 'exDate': '2019-03-12', 'paymentDate': '2019-03-12', 'declaredDate': '2019-03-12', 'ratio': 20, 'tofactor': 20, 'forfactor': 1}, {'ticker': 'OPTT', 'exDate': '2015-10-29', 'paymentDate': '2015-10-29', 'declaredDate': '2015-10-29', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}, {'ticker': 'OPTT', 'exDate': '2007-04-26', 'paymentDate': '2007-04-26', 'ratio': 10}]"
+28,CIDM,"[{'ticker': 'CIDM', 'exDate': '2016-05-10', 'paymentDate': '2016-05-10', 'declaredDate': '2016-05-10', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}]"
+29,DGLY,"[{'ticker': 'DGLY', 'exDate': '2012-08-24', 'paymentDate': '2012-08-24', 'ratio': 8}]"
+30,AVGR,"[{'ticker': 'AVGR', 'exDate': '2019-06-24', 'paymentDate': '2019-06-24', 'declaredDate': '2019-06-24', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}, {'ticker': 'AVGR', 'exDate': '2018-01-31', 'paymentDate': '2018-01-31', 'declaredDate': '2018-01-31', 'ratio': 40, 'tofactor': 40, 'forfactor': 1}]"
+31,ONTX,"[{'ticker': 'ONTX', 'exDate': '2018-09-26', 'paymentDate': '2018-09-26', 'declaredDate': '2018-09-26', 'ratio': 15, 'tofactor': 15, 'forfactor': 1}, {'ticker': 'ONTX', 'exDate': '2016-06-01', 'paymentDate': '2016-06-01', 'declaredDate': '2016-06-01', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}]"
+32,NGD,[]
+33,CTRM,[]
+34,DPW,"[{'ticker': 'DPW', 'exDate': '2019-08-06', 'paymentDate': '2019-08-06', 'declaredDate': '2019-08-06', 'ratio': 40, 'tofactor': 40, 'forfactor': 1}, {'ticker': 'DPW', 'exDate': '2019-03-15', 'paymentDate': '2019-03-15', 'declaredDate': '2019-03-15', 'ratio': 20, 'tofactor': 20, 'forfactor': 1}]"
+35,TRVN,[]
+36,ABEV,"[{'ticker': 'ABEV', 'exDate': '2013-11-11', 'paymentDate': '2013-11-11', 'ratio': 0.2}, {'ticker': 'ABEV', 'exDate': '2010-12-28', 'paymentDate': '2010-12-28', 'ratio': 0.2}, {'ticker': 'ABEV', 'exDate': '2005-06-09', 'paymentDate': '2005-06-09', 'ratio': 0.8333333333333334}]"
+37,INPX,"[{'ticker': 'INPX', 'exDate': '2020-01-07', 'paymentDate': '2020-01-07', 'declaredDate': '2020-01-07', 'ratio': 45, 'tofactor': 45, 'forfactor': 1}, {'ticker': 'INPX', 'exDate': '2018-11-02', 'paymentDate': '2018-11-02', 'declaredDate': '2018-11-02', 'ratio': 40, 'tofactor': 40, 'forfactor': 1}, {'ticker': 'INPX', 'exDate': '2018-02-06', 'paymentDate': '2018-02-06', 'declaredDate': '2018-02-06', 'ratio': 30, 'tofactor': 30, 'forfactor': 1}]"
+38,NYMT,"[{'ticker': 'NYMT', 'exDate': '2008-05-29', 'paymentDate': '2008-05-29', 'ratio': 2}, {'ticker': 'NYMT', 'exDate': '2007-10-09', 'paymentDate': '2007-10-09', 'ratio': 5}]"
+39,CRBP,[]
+40,SENS,[]
+41,WTI,[]
+42,MARK,"[{'ticker': 'MARK', 'exDate': '2010-02-17', 'paymentDate': '2010-02-17', 'ratio': 10}]"
+43,TTNP,"[{'ticker': 'TTNP', 'exDate': '2020-12-01', 'paymentDate': '2020-12-01', 'declaredDate': '2020-12-01', 'ratio': 30, 'tofactor': 30, 'forfactor': 1}, {'ticker': 'TTNP', 'exDate': '2019-01-25', 'paymentDate': '2019-01-25', 'declaredDate': '2019-01-25', 'ratio': 6, 'tofactor': 6, 'forfactor': 1}, {'ticker': 'TTNP', 'exDate': '2015-09-29', 'paymentDate': '2015-09-29', 'declaredDate': '2015-09-29', 'ratio': 5.5, 'tofactor': 11, 'forfactor': 2}]"
+44,GSAT,[]
+45,TRXC,"[{'ticker': 'TRXC', 'exDate': '2019-12-12', 'paymentDate': '2019-12-12', 'declaredDate': '2019-12-12', 'ratio': 13, 'tofactor': 13, 'forfactor': 1}, {'ticker': 'TRXC', 'exDate': '1999-01-05', 'paymentDate': '1999-01-05', 'ratio': 10}]"
+46,CEI,"[{'ticker': 'CEI', 'exDate': '2019-10-29', 'paymentDate': '2019-10-29', 'declaredDate': '2019-10-29', 'ratio': 50, 'tofactor': 50, 'forfactor': 1}, {'ticker': 'CEI', 'exDate': '2019-07-08', 'paymentDate': '2019-07-08', 'declaredDate': '2019-07-08', 'ratio': 25, 'tofactor': 25, 'forfactor': 1}, {'ticker': 'CEI', 'exDate': '2018-12-24', 'paymentDate': '2018-12-24', 'declaredDate': '2018-12-24', 'ratio': 25, 'tofactor': 25, 'forfactor': 1}, {'ticker': 'CEI', 'exDate': '2018-03-05', 'paymentDate': '2018-03-05', 'declaredDate': '2018-03-05', 'ratio': 25, 'tofactor': 25, 'forfactor': 1}, {'ticker': 'CEI', 'exDate': '2008-02-04', 'paymentDate': '2008-02-04', 'ratio': 4}]"
+47,BIOL,"[{'ticker': 'BIOL', 'exDate': '2018-05-11', 'paymentDate': '2018-05-11', 'declaredDate': '2018-05-11', 'ratio': 5, 'tofactor': 5, 'forfactor': 1}, {'ticker': 'BIOL', 'exDate': '2014-03-12', 'paymentDate': '2014-03-28', 'ratio': 0.9950248756218906, 'tofactor': 100, 'forfactor': 100.5}, {'ticker': 'BIOL', 'exDate': '2013-12-12', 'paymentDate': '2013-12-12', 'ratio': 0.9950248756218907}, {'ticker': 'BIOL', 'exDate': '2013-08-23', 'paymentDate': '2013-08-23', 'ratio': 0.9950248756218907}, {'ticker': 'BIOL', 'exDate': '2013-06-12', 'paymentDate': '2013-06-12', 'ratio': 0.9950248756218907}, {'ticker': 'BIOL', 'exDate': '2013-03-13', 'paymentDate': '2013-03-13', 'ratio': 0.9950248756218907}, {'ticker': 'BIOL', 'exDate': '2012-12-12', 'paymentDate': '2012-12-12', 'ratio': 0.9950248756218907}, {'ticker': 'BIOL', 'exDate': '2012-09-12', 'paymentDate': '2012-09-12', 'ratio': 0.9950248756218907}, {'ticker': 'BIOL', 'exDate': '2012-06-06', 'paymentDate': '2012-06-06', 'ratio': 0.9950248756218907}, {'ticker': 'BIOL', 'exDate': '2012-03-13', 'paymentDate': '2012-03-13', 'ratio': 0.9950248756218907}, {'ticker': 'BIOL', 'exDate': '2011-11-22', 'paymentDate': '2011-11-22', 'ratio': 0.9900990099009901}, {'ticker': 'BIOL', 'exDate': '2011-08-25', 'paymentDate': '2011-08-25', 'ratio': 0.9900990099009901}, {'ticker': 'BIOL', 'exDate': '2011-06-08', 'paymentDate': '2011-06-08', 'ratio': 0.9900990099009901}, {'ticker': 'BIOL', 'exDate': '2011-03-10', 'paymentDate': '2011-03-10', 'ratio': 0.99009900990099}]"
+48,ADMP,"[{'ticker': 'ADMP', 'exDate': '2013-12-13', 'paymentDate': '2013-12-13', 'ratio': 17.001020061203672}, {'ticker': 'ADMP', 'exDate': '2009-04-22', 'paymentDate': '2009-04-22', 'ratio': 9.928514694201747}]"
+49,LLNW,[]
+50,KXIN,[]
+51,CDEV,[]
+52,SHIP,"[{'ticker': 'SHIP', 'exDate': '2020-06-30', 'paymentDate': '2020-06-30', 'declaredDate': '2020-06-30', 'ratio': 16, 'tofactor': 16, 'forfactor': 1}, {'ticker': 'SHIP', 'exDate': '2019-03-20', 'paymentDate': '2019-03-20', 'declaredDate': '2019-03-20', 'ratio': 15, 'tofactor': 15, 'forfactor': 1}, {'ticker': 'SHIP', 'exDate': '2016-01-08', 'paymentDate': '2016-01-08', 'declaredDate': '2016-01-08', 'ratio': 5, 'tofactor': 5, 'forfactor': 1}, {'ticker': 'SHIP', 'exDate': '2011-06-27', 'paymentDate': '2011-06-27', 'ratio': 14.999250037498127}]"
+53,NXTD,"[{'ticker': 'NXTD', 'exDate': '2016-09-12', 'paymentDate': '2016-09-12', 'declaredDate': '2016-09-12', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}]"
+54,NAT,[]
+55,OGEN,"[{'ticker': 'OGEN', 'exDate': '2018-01-22', 'paymentDate': '2018-01-22', 'declaredDate': '2018-01-22', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}, {'ticker': 'OGEN', 'exDate': '2018-01-19', 'paymentDate': '2018-01-19', 'declaredDate': '2018-01-19', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}, {'ticker': 'OGEN', 'exDate': '2010-09-28', 'paymentDate': '2010-09-28', 'ratio': 20}]"
+56,CHEK,[]
+57,BORR,[]
+58,EXPR,[]
+59,PEI,[]
+60,QEP,[]
+61,ZSAN,"[{'ticker': 'ZSAN', 'exDate': '2018-01-26', 'paymentDate': '2018-01-26', 'declaredDate': '2018-01-26', 'ratio': 20, 'tofactor': 20, 'forfactor': 1}]"
+62,MTNB,[]
+63,DS,"[{'ticker': 'DS', 'exDate': '2013-05-15', 'paymentDate': '2013-05-15', 'ratio': 0.46882325363338}]"
+64,WTRH,[]
+65,RIGL,"[{'ticker': 'RIGL', 'exDate': '2003-06-25', 'paymentDate': '2003-06-25', 'ratio': 9.000090000900009}]"
+66,AHT,"[{'ticker': 'AHT', 'exDate': '2020-07-16', 'paymentDate': '2020-07-16', 'declaredDate': '2020-07-16', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}, {'ticker': 'AHT', 'exDate': '2013-11-19', 'paymentDate': '2013-11-19', 'ratio': 0.671140939597315}]"
+67,ADXS,"[{'ticker': 'ADXS', 'exDate': '2019-03-29', 'paymentDate': '2019-03-29', 'declaredDate': '2019-03-29', 'ratio': 15, 'tofactor': 15, 'forfactor': 1}, {'ticker': 'ADXS', 'exDate': '2013-07-15', 'paymentDate': '2013-07-15', 'ratio': 125}]"
+68,COCP,"[{'ticker': 'COCP', 'exDate': '2018-01-24', 'paymentDate': '2018-01-24', 'declaredDate': '2018-01-24', 'ratio': 30, 'tofactor': 30, 'forfactor': 1}]"
+69,XXII,[]
+70,SAN,"[{'ticker': 'SAN', 'exDate': '2020-11-12', 'paymentDate': '2020-12-14', 'declaredDate': '2020-11-03', 'ratio': 0.9444475926030864, 'tofactor': 100, 'forfactor': 105.882}, {'ticker': 'SAN', 'exDate': '2012-01-10', 'paymentDate': '2012-01-10', 'ratio': 0.978723404255319}, {'ticker': 'SAN', 'exDate': '1999-06-21', 'paymentDate': '1999-06-21', 'ratio': 0.5}, {'ticker': 'SAN', 'exDate': '1998-08-17', 'paymentDate': '1998-08-17', 'ratio': 0.980392156862745}, {'ticker': 'SAN', 'exDate': '1998-07-06', 'paymentDate': '1998-07-06', 'ratio': 0.5}]"
+71,AIKI,[]
+72,NH,[]
+73,TRCH,"[{'ticker': 'TRCH', 'exDate': '2010-12-15', 'paymentDate': '2010-12-15', 'ratio': 0.25}]"
+74,SWN,"[{'ticker': 'SWN', 'exDate': '2008-03-26', 'paymentDate': '2008-03-26', 'ratio': 0.5}, {'ticker': 'SWN', 'exDate': '2005-11-18', 'paymentDate': '2005-11-18', 'ratio': 0.5}, {'ticker': 'SWN', 'exDate': '2005-06-06', 'paymentDate': '2005-06-06', 'ratio': 0.5}]"
+75,CCO,[]
+76,EVFM,[]
+77,LMFA,"[{'ticker': 'LMFA', 'exDate': '2018-10-16', 'paymentDate': '2018-10-16', 'declaredDate': '2018-10-16', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}]"
+78,TXMD,"[{'ticker': 'TXMD', 'exDate': '2011-10-02', 'paymentDate': '2011-10-02', 'ratio': 100}, {'ticker': 'TXMD', 'exDate': '2011-09-29', 'paymentDate': '2011-09-29', 'ratio': 100}, {'ticker': 'TXMD', 'exDate': '2009-07-27', 'paymentDate': '2009-07-27', 'ratio': 0.3333333333333333}]"
+79,IMMP,[]
+80,ACRX,[]
+81,ABUS,"[{'ticker': 'ABUS', 'exDate': '2010-11-04', 'paymentDate': '2010-11-04', 'ratio': 5}]"
+82,NMTR,[]
+83,MUX,[]
+84,AESE,[]
+85,OXBR,[]
+86,GHSI,"[{'ticker': 'GHSI', 'exDate': '2021-03-01', 'paymentDate': '2021-03-01', 'declaredDate': '2021-03-01', 'ratio': 6, 'tofactor': 6, 'forfactor': 1}]"
+87,ADMA,[]
+88,WATT,[]
+89,PLG,"[{'ticker': 'PLG', 'exDate': '2018-12-17', 'paymentDate': '2018-12-17', 'declaredDate': '2018-12-17', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}, {'ticker': 'PLG', 'exDate': '2016-01-28', 'paymentDate': '2016-01-28', 'declaredDate': '2016-01-28', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}]"
+90,BEST,[]
+91,XELA,"[{'ticker': 'XELA', 'exDate': '2021-01-26', 'paymentDate': '2021-01-26', 'declaredDate': '2021-01-26', 'ratio': 3, 'tofactor': 3, 'forfactor': 1}]"
+92,ATOS,"[{'ticker': 'ATOS', 'exDate': '2018-04-20', 'paymentDate': '2018-04-20', 'declaredDate': '2018-04-20', 'ratio': 12, 'tofactor': 12, 'forfactor': 1}, {'ticker': 'ATOS', 'exDate': '2016-08-26', 'paymentDate': '2016-08-26', 'declaredDate': '2016-08-26', 'ratio': 15, 'tofactor': 15, 'forfactor': 1}]"
+93,BLRX,"[{'ticker': 'BLRX', 'exDate': '2019-07-15', 'paymentDate': '2019-07-15', 'declaredDate': '2019-07-15', 'ratio': 15, 'tofactor': 15, 'forfactor': 1}]"
+94,HMY,[]
+95,TBLT,"[{'ticker': 'TBLT', 'exDate': '2020-04-15', 'paymentDate': '2020-04-15', 'declaredDate': '2020-04-15', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}]"
+96,NSPR,"[{'ticker': 'NSPR', 'exDate': '2019-04-01', 'paymentDate': '2019-04-01', 'declaredDate': '2019-04-01', 'ratio': 50, 'tofactor': 50, 'forfactor': 1}, {'ticker': 'NSPR', 'exDate': '2018-02-08', 'paymentDate': '2018-02-08', 'declaredDate': '2018-02-08', 'ratio': 35, 'tofactor': 35, 'forfactor': 1}, {'ticker': 'NSPR', 'exDate': '2016-10-10', 'paymentDate': '2016-10-10', 'declaredDate': '2016-10-10', 'ratio': 25, 'tofactor': 25, 'forfactor': 1}, {'ticker': 'NSPR', 'exDate': '2015-10-01', 'paymentDate': '2015-10-01', 'declaredDate': '2015-10-01', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}, {'ticker': 'NSPR', 'exDate': '2012-12-21', 'paymentDate': '2012-12-21', 'ratio': 4}, {'ticker': 'NSPR', 'exDate': '2011-04-12', 'paymentDate': '2011-04-12', 'ratio': 0.3333333333333333}]"
+97,ITRM,[]
+98,SXTC,"[{'ticker': 'SXTC', 'exDate': '2021-02-22', 'paymentDate': '2021-02-22', 'declaredDate': '2021-02-22', 'ratio': 4, 'tofactor': 4, 'forfactor': 1}]"
+99,AEZS,"[{'ticker': 'AEZS', 'exDate': '2015-11-20', 'paymentDate': '2015-11-20', 'declaredDate': '2015-11-20', 'ratio': 100, 'tofactor': 100, 'forfactor': 1}, {'ticker': 'AEZS', 'exDate': '2012-10-05', 'paymentDate': '2012-10-05', 'ratio': 5.9998800023999515}]"
+100,INUV,"[{'ticker': 'INUV', 'exDate': '2010-12-13', 'paymentDate': '2010-12-13', 'ratio': 10}]"
+101,DNK,[]
+102,EARS,"[{'ticker': 'EARS', 'exDate': '2019-05-01', 'paymentDate': '2019-05-01', 'declaredDate': '2019-05-01', 'ratio': 20, 'tofactor': 20, 'forfactor': 1}, {'ticker': 'EARS', 'exDate': '2018-03-14', 'paymentDate': '2018-03-14', 'declaredDate': '2018-03-14', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}]"
+103,CLSN,"[{'ticker': 'CLSN', 'exDate': '2017-05-30', 'paymentDate': '2017-05-30', 'declaredDate': '2017-05-30', 'ratio': 14, 'tofactor': 14, 'forfactor': 1}, {'ticker': 'CLSN', 'exDate': '2013-10-29', 'paymentDate': '2013-10-29', 'ratio': 4.5000450004500046}, {'ticker': 'CLSN', 'exDate': '2006-02-28', 'paymentDate': '2006-02-28', 'ratio': 14.999250037498127}]"
+104,ATHX,[]
+105,PTE,"[{'ticker': 'PTE', 'exDate': '2008-09-17', 'paymentDate': '2008-09-17', 'ratio': 0.1}, {'ticker': 'PTE', 'exDate': '2004-12-31', 'paymentDate': '2004-12-31', 'ratio': 6.999860002799944}, {'ticker': 'PTE', 'exDate': '2002-03-12', 'paymentDate': '2002-03-12', 'ratio': 10}]"
+106,PHUN,[]
+107,MDGS,"[{'ticker': 'MDGS', 'exDate': '2018-07-16', 'paymentDate': '2018-07-16', 'declaredDate': '2018-07-16', 'ratio': 4, 'tofactor': 4, 'forfactor': 1}, {'ticker': 'MDGS', 'exDate': '2017-03-15', 'paymentDate': '2017-03-15', 'declaredDate': '2017-03-15', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}]"
+108,QD,[]
+109,LPCN,[]
+110,BBI,[]
+111,HLX,"[{'ticker': 'HLX', 'exDate': '2005-12-09', 'paymentDate': '2005-12-09', 'ratio': 0.5}, {'ticker': 'HLX', 'exDate': '2000-11-14', 'paymentDate': '2000-11-14', 'ratio': 0.5}]"
+112,GRNQ,[]
+113,NEOS,[]
+114,ISR,[]
+115,WORX,[]
+116,BRQS,[]
+117,DARE,[]
+118,NBY,"[{'ticker': 'NBY', 'exDate': '2015-12-21', 'paymentDate': '2015-12-21', 'declaredDate': '2015-12-21', 'ratio': 25, 'tofactor': 25, 'forfactor': 1}]"
+119,VSTM,[]
+120,VISL,"[{'ticker': 'VISL', 'exDate': '2020-08-03', 'paymentDate': '2020-08-03', 'declaredDate': '2020-08-03', 'ratio': 6, 'tofactor': 6, 'forfactor': 1}, {'ticker': 'VISL', 'exDate': '2019-05-13', 'paymentDate': '2019-05-13', 'declaredDate': '2019-05-13', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}, {'ticker': 'VISL', 'exDate': '2013-04-10', 'paymentDate': '2013-04-10', 'ratio': 35.00175008750438}]"
+121,NAOV,[]
+122,UXIN,[]
+123,SESN,[]
+124,SYN,"[{'ticker': 'SYN', 'exDate': '2018-08-13', 'paymentDate': '2018-08-13', 'declaredDate': '2018-08-13', 'ratio': 35, 'tofactor': 35, 'forfactor': 1}, {'ticker': 'SYN', 'exDate': '2018-08-10', 'paymentDate': '2018-08-10', 'declaredDate': '2018-08-10', 'ratio': 35, 'tofactor': 35, 'forfactor': 1}, {'ticker': 'SYN', 'exDate': '2007-04-25', 'paymentDate': '2007-04-25', 'ratio': 3.000030000300003}]"
+125,TLGT,"[{'ticker': 'TLGT', 'exDate': '2020-05-28', 'paymentDate': '2020-05-28', 'declaredDate': '2020-05-28', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}]"
+126,AMPE,[]
+127,TANH,[]
+128,VTVT,[]
+129,GERN,[]
+130,NVIV,"[{'ticker': 'NVIV', 'exDate': '2020-02-12', 'paymentDate': '2020-02-12', 'declaredDate': '2020-02-12', 'ratio': 30, 'tofactor': 30, 'forfactor': 1}, {'ticker': 'NVIV', 'exDate': '2018-04-17', 'paymentDate': '2018-04-17', 'declaredDate': '2018-04-17', 'ratio': 25, 'tofactor': 25, 'forfactor': 1}, {'ticker': 'NVIV', 'exDate': '2015-04-08', 'paymentDate': '2015-04-08', 'declaredDate': '2015-04-08', 'ratio': 4, 'tofactor': 4, 'forfactor': 1}]"
+131,HOFV,[]
+132,AIV,"[{'ticker': 'AIV', 'exDate': '2020-12-01', 'paymentDate': '2020-12-01', 'declaredDate': '2020-12-01', 'ratio': 1, 'tofactor': 1, 'forfactor': 1}, {'ticker': 'AIV', 'exDate': '2019-02-21', 'paymentDate': '2019-02-21', 'declaredDate': '2019-02-21', 'ratio': 1, 'tofactor': 1, 'forfactor': 1}, {'ticker': 'AIV', 'exDate': '2011-06-08', 'paymentDate': '2011-06-08', 'ratio': 1.25}]"
+133,ARTL,[]
+134,ENLC,"[{'ticker': 'ENLC', 'exDate': '2006-12-18', 'paymentDate': '2006-12-18', 'ratio': 0.3333333333333333}]"
+135,BBD,"[{'ticker': 'BBD', 'exDate': '2020-04-14', 'paymentDate': '2020-04-21', 'ratio': 0.9090909090909091, 'tofactor': 100, 'forfactor': 110}, {'ticker': 'BBD', 'exDate': '2019-04-01', 'paymentDate': '2019-04-05', 'declaredDate': '2019-03-20', 'ratio': 0.8333333333333334, 'tofactor': 5, 'forfactor': 6}, {'ticker': 'BBD', 'exDate': '2018-04-02', 'paymentDate': '2018-04-06', 'declaredDate': '2018-03-16', 'ratio': 0.9090909090909091, 'tofactor': 100, 'forfactor': 110}, {'ticker': 'BBD', 'exDate': '2017-05-02', 'paymentDate': '2017-05-09', 'declaredDate': '2017-04-18', 'ratio': 0.9090909090909091, 'tofactor': 100, 'forfactor': 110}, {'ticker': 'BBD', 'exDate': '2016-04-18', 'paymentDate': '2016-04-26', 'declaredDate': '2016-04-06', 'ratio': 0.9090909090909091, 'tofactor': 100, 'forfactor': 110}, {'ticker': 'BBD', 'exDate': '2015-03-27', 'paymentDate': '2015-04-03', 'declaredDate': '2015-03-18', 'ratio': 0.8333333333333334, 'tofactor': 5, 'forfactor': 6}, {'ticker': 'BBD', 'exDate': '2013-03-26', 'paymentDate': '2013-03-26', 'ratio': 0.9090909090909091}, {'ticker': 'BBD', 'exDate': '2010-07-14', 'paymentDate': '2010-07-14', 'ratio': 0.9090909090909091}, {'ticker': 'BBD', 'exDate': '2008-04-16', 'paymentDate': '2008-04-16', 'ratio': 0.6666666666666666}, {'ticker': 'BBD', 'exDate': '2007-04-03', 'paymentDate': '2007-04-03', 'ratio': 0.5}, {'ticker': 'BBD', 'exDate': '2005-12-02', 'paymentDate': '2005-12-02', 'ratio': 0.5}, {'ticker': 'BBD', 'exDate': '2004-12-22', 'paymentDate': '2004-12-22', 'ratio': 0.3333333333333333}, {'ticker': 'BBD', 'exDate': '2004-03-22', 'paymentDate': '2004-03-22', 'ratio': 2}]"
+136,IAG,[]
+137,OBLN,"[{'ticker': 'OBLN', 'exDate': '2019-07-25', 'paymentDate': '2019-07-25', 'declaredDate': '2019-07-25', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}]"
+138,PTN,"[{'ticker': 'PTN', 'exDate': '2010-09-27', 'paymentDate': '2010-09-27', 'ratio': 10}]"
+139,YJ,[]
+140,GSM,[]
+141,SOS,[]
+142,WISA,"[{'ticker': 'WISA', 'exDate': '2020-04-09', 'paymentDate': '2020-04-09', 'declaredDate': '2020-04-09', 'ratio': 20, 'tofactor': 20, 'forfactor': 1}]"
+143,TRVG,[]
+144,LKCO,[]
+145,OBSV,[]
+146,EYES,"[{'ticker': 'EYES', 'exDate': '2020-01-06', 'paymentDate': '2020-01-06', 'declaredDate': '2020-01-06', 'ratio': 8, 'tofactor': 8, 'forfactor': 1}]"
+147,IGC,"[{'ticker': 'IGC', 'exDate': '2013-04-19', 'paymentDate': '2013-04-19', 'ratio': 10}]"
+148,REI,"[{'ticker': 'REI', 'exDate': '2008-06-02', 'paymentDate': '2008-06-02', 'ratio': 17.998560115190784}]"
+149,XBIO,"[{'ticker': 'XBIO', 'exDate': '2019-06-25', 'paymentDate': '2019-06-25', 'declaredDate': '2019-06-25', 'ratio': 12, 'tofactor': 12, 'forfactor': 1}, {'ticker': 'XBIO', 'exDate': '2016-06-01', 'paymentDate': '2016-06-01', 'declaredDate': '2016-06-01', 'ratio': 33, 'tofactor': 33, 'forfactor': 1}]"
+150,AZRX,[]
+151,MTC,[]
+152,ATIF,[]
+153,ALRN,[]
+154,ARPO,[]
+155,SNCA,[]
+156,BXRX,[]
+157,ITP,"[{'ticker': 'ITP', 'exDate': '2009-11-05', 'paymentDate': '2009-11-05', 'ratio': 4}]"
+158,LYG,[]
+159,ASRT,[]
+160,ABEO,"[{'ticker': 'ABEO', 'exDate': '2006-06-05', 'paymentDate': '2006-06-05', 'ratio': 5}, {'ticker': 'ABEO', 'exDate': '1998-06-18', 'paymentDate': '1998-06-18', 'ratio': 20}, {'ticker': 'ABEO', 'exDate': '1998-06-05', 'paymentDate': '1998-06-05', 'ratio': 20}]"
+161,TMBR,[]
+162,SPCB,"[{'ticker': 'SPCB', 'exDate': '2013-08-23', 'paymentDate': '2013-08-23', 'ratio': 4.250074376301585}, {'ticker': 'SPCB', 'exDate': '2007-05-14', 'paymentDate': '2007-05-14', 'ratio': 5.88200694076819}]"
+163,MBIO,[]
+164,CHS,"[{'ticker': 'CHS', 'exDate': '2005-02-23', 'paymentDate': '2005-02-23', 'ratio': 0.5}, {'ticker': 'CHS', 'exDate': '2002-07-30', 'paymentDate': '2002-07-30', 'ratio': 0.5}, {'ticker': 'CHS', 'exDate': '2002-01-22', 'paymentDate': '2002-01-22', 'ratio': 0.6666666666666666}, {'ticker': 'CHS', 'exDate': '2001-05-17', 'paymentDate': '2001-05-17', 'ratio': 0.6666666666666666}, {'ticker': 'CHS', 'exDate': '2000-01-18', 'paymentDate': '2000-01-18', 'ratio': 0.5}]"
+165,BTU,[]
+166,VEON,"[{'ticker': 'VEON', 'exDate': '2007-08-22', 'paymentDate': '2007-08-22', 'ratio': 0.2}, {'ticker': 'VEON', 'exDate': '2004-11-23', 'paymentDate': '2004-11-23', 'ratio': 0.3333333333333333}]"
+167,TENX,"[{'ticker': 'TENX', 'exDate': '2018-02-26', 'paymentDate': '2018-02-26', 'declaredDate': '2018-02-26', 'ratio': 20, 'tofactor': 20, 'forfactor': 1}, {'ticker': 'TENX', 'exDate': '2013-05-13', 'paymentDate': '2013-05-13', 'ratio': 20}, {'ticker': 'TENX', 'exDate': '2009-11-09', 'paymentDate': '2009-11-09', 'ratio': 14.999250037498127}]"
+168,CNET,"[{'ticker': 'CNET', 'exDate': '2016-08-19', 'paymentDate': '2016-08-19', 'declaredDate': '2016-08-19', 'ratio': 2.5, 'tofactor': 5, 'forfactor': 2}]"
+169,UEC,[]
+170,GNW,[]
+171,DNN,"[{'ticker': 'DNN', 'exDate': '2006-12-06', 'paymentDate': '2006-12-06', 'ratio': 0.347222222222222}]"
+172,AIHS,[]
+173,IPDN,"[{'ticker': 'IPDN', 'exDate': '2016-09-27', 'paymentDate': '2016-09-27', 'declaredDate': '2016-09-27', 'ratio': 8, 'tofactor': 8, 'forfactor': 1}]"
+174,HOTH,[]
+175,QTT,[]
+176,URG,[]
+177,SNGX,"[{'ticker': 'SNGX', 'exDate': '2016-10-07', 'paymentDate': '2016-10-07', 'declaredDate': '2016-10-07', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}, {'ticker': 'SNGX', 'exDate': '2012-02-01', 'paymentDate': '2012-02-01', 'ratio': 20}]"
+178,ADTX,[]
+179,CATB,"[{'ticker': 'CATB', 'exDate': '2018-12-31', 'paymentDate': '2018-12-31', 'declaredDate': '2018-12-31', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}]"
+180,VTNR,"[{'ticker': 'VTNR', 'exDate': '2009-05-04', 'paymentDate': '2009-05-04', 'ratio': 10}, {'ticker': 'VTNR', 'exDate': '2004-08-30', 'paymentDate': '2004-08-30', 'ratio': 59.98800239952009}]"
+181,CLBS,"[{'ticker': 'CLBS', 'exDate': '2013-07-16', 'paymentDate': '2013-07-16', 'ratio': 10}, {'ticker': 'CLBS', 'exDate': '2007-08-09', 'paymentDate': '2007-08-09', 'ratio': 10}, {'ticker': 'CLBS', 'exDate': '2006-08-31', 'paymentDate': '2006-08-31', 'ratio': 10}]"
+182,VTGN,[]
+183,CPG,[]
+184,BGCP,[]
+185,USWS,[]
+186,CIG,"[{'ticker': 'CIG', 'exDate': '2020-08-13', 'paymentDate': '2020-08-19', 'declaredDate': '2020-08-04', 'ratio': 0.9604948469451462, 'tofactor': 100, 'forfactor': 104.113}, {'ticker': 'CIG', 'exDate': '2014-01-13', 'paymentDate': '2014-01-10', 'ratio': 0.7647058823529411, 'tofactor': 13, 'forfactor': 17}, {'ticker': 'CIG', 'exDate': '2013-05-02', 'paymentDate': '2013-05-02', 'ratio': 0.8865248226950355}, {'ticker': 'CIG', 'exDate': '2012-05-14', 'paymentDate': '2012-05-14', 'ratio': 0.8}, {'ticker': 'CIG', 'exDate': '2009-05-14', 'paymentDate': '2009-05-14', 'ratio': 0.8}, {'ticker': 'CIG', 'exDate': '2007-06-12', 'paymentDate': '2007-06-12', 'ratio': 0.5}, {'ticker': 'CIG', 'exDate': '2007-05-08', 'paymentDate': '2007-05-08', 'ratio': 0.6666666666666666}, {'ticker': 'CIG', 'exDate': '1998-05-05', 'paymentDate': '1998-05-05', 'ratio': 0.8171937566396993}]"
+187,UAMY,[]
+188,MKD,[]
+189,GTE,[]
+190,VYNE,"[{'ticker': 'VYNE', 'exDate': '2021-02-16', 'paymentDate': '2021-02-16', 'declaredDate': '2021-02-16', 'ratio': 4, 'tofactor': 4, 'forfactor': 1}]"
+191,ASM,[]
+192,TMDI,[]
+193,GGB,"[{'ticker': 'GGB', 'exDate': '2008-06-20', 'paymentDate': '2008-06-20', 'ratio': 0.5}, {'ticker': 'GGB', 'exDate': '2006-04-21', 'paymentDate': '2006-04-21', 'ratio': 0.6666666666666666}, {'ticker': 'GGB', 'exDate': '2005-04-19', 'paymentDate': '2005-04-19', 'ratio': 0.6666666666666666}, {'ticker': 'GGB', 'exDate': '2004-05-07', 'paymentDate': '2004-05-07', 'ratio': 0.5}, {'ticker': 'GGB', 'exDate': '2003-05-13', 'paymentDate': '2003-05-13', 'ratio': 0.7692307692307692}, {'ticker': 'GGB', 'exDate': '2000-05-09', 'paymentDate': '2000-05-09', 'ratio': 0.5}]"
+194,BRFS,"[{'ticker': 'BRFS', 'exDate': '2010-04-08', 'paymentDate': '2010-04-08', 'ratio': 0.25}, {'ticker': 'BRFS', 'exDate': '2006-04-20', 'paymentDate': '2006-04-20', 'ratio': 0.3333333333333333}]"
+195,LODE,"[{'ticker': 'LODE', 'exDate': '2019-11-29', 'paymentDate': '2019-11-29', 'declaredDate': '2019-11-29', 'ratio': 5, 'tofactor': 5, 'forfactor': 1}, {'ticker': 'LODE', 'exDate': '2017-11-10', 'paymentDate': '2017-11-10', 'declaredDate': '2017-11-10', 'ratio': 5, 'tofactor': 5, 'forfactor': 1}]"
+196,BBIG,[]
+197,ACB,"[{'ticker': 'ACB', 'exDate': '2020-05-11', 'paymentDate': '2020-05-11', 'declaredDate': '2020-05-11', 'ratio': 12, 'tofactor': 12, 'forfactor': 1}]"
+198,F,"[{'ticker': 'F', 'exDate': '2000-08-03', 'paymentDate': '2000-08-03', 'ratio': 0.6365372374283896}, {'ticker': 'F', 'exDate': '2000-06-28', 'paymentDate': '2000-06-28', 'ratio': 0.9607}, {'ticker': 'F', 'exDate': '1998-04-07', 'paymentDate': '1998-04-07', 'ratio': 0.6641}]"
+199,AAL,[]
+200,GE,"[{'ticker': 'GE', 'exDate': '2000-05-08', 'paymentDate': '2000-05-08', 'ratio': 0.3333333333333333}]"
+201,AMC,[]
+202,INO,"[{'ticker': 'INO', 'exDate': '2014-06-05', 'paymentDate': '2014-06-05', 'declaredDate': '2014-06-05', 'ratio': 4, 'tofactor': 4, 'forfactor': 1}, {'ticker': 'INO', 'exDate': '2004-09-13', 'paymentDate': '2004-09-13', 'ratio': 4}]"
+203,HEXO,"[{'ticker': 'HEXO', 'exDate': '2020-12-23', 'paymentDate': '2020-12-23', 'declaredDate': '2020-12-23', 'ratio': 4, 'tofactor': 4, 'forfactor': 1}]"
+204,BNGO,[]
+205,SNDL,[]
+206,GNUS,"[{'ticker': 'GNUS', 'exDate': '2016-11-09', 'paymentDate': '2016-11-09', 'declaredDate': '2016-11-09', 'ratio': 3, 'tofactor': 3, 'forfactor': 1}]"
+207,NOK,"[{'ticker': 'NOK', 'exDate': '2000-04-11', 'paymentDate': '2000-04-11', 'ratio': 0.25}, {'ticker': 'NOK', 'exDate': '1999-04-12', 'paymentDate': '1999-04-12', 'ratio': 0.5}, {'ticker': 'NOK', 'exDate': '1998-04-16', 'paymentDate': '1998-04-16', 'ratio': 0.5}]"
+208,TOPS,"[{'ticker': 'TOPS', 'exDate': '2020-08-10', 'paymentDate': '2020-08-10', 'declaredDate': '2020-08-10', 'ratio': 25, 'tofactor': 25, 'forfactor': 1}, {'ticker': 'TOPS', 'exDate': '2019-08-22', 'paymentDate': '2019-08-22', 'declaredDate': '2019-08-22', 'ratio': 20, 'tofactor': 20, 'forfactor': 1}, {'ticker': 'TOPS', 'exDate': '2018-03-26', 'paymentDate': '2018-03-26', 'declaredDate': '2018-03-26', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}, {'ticker': 'TOPS', 'exDate': '2017-10-06', 'paymentDate': '2017-10-06', 'declaredDate': '2017-10-06', 'ratio': 2, 'tofactor': 2, 'forfactor': 1}, {'ticker': 'TOPS', 'exDate': '2017-08-03', 'paymentDate': '2017-08-03', 'declaredDate': '2017-08-03', 'ratio': 30, 'tofactor': 30, 'forfactor': 1}, {'ticker': 'TOPS', 'exDate': '2017-06-23', 'paymentDate': '2017-06-23', 'declaredDate': '2017-06-23', 'ratio': 15, 'tofactor': 15, 'forfactor': 1}, {'ticker': 'TOPS', 'exDate': '2017-05-11', 'paymentDate': '2017-05-11', 'declaredDate': '2017-05-11', 'ratio': 20, 'tofactor': 20, 'forfactor': 1}, {'ticker': 'TOPS', 'exDate': '2016-02-22', 'paymentDate': '2016-02-22', 'declaredDate': '2016-02-22', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}, {'ticker': 'TOPS', 'exDate': '2014-04-21', 'paymentDate': '2014-04-21', 'declaredDate': '2014-04-21', 'ratio': 7, 'tofactor': 7, 'forfactor': 1}, {'ticker': 'TOPS', 'exDate': '2011-06-24', 'paymentDate': '2011-06-24', 'ratio': 10}, {'ticker': 'TOPS', 'exDate': '2008-03-20', 'paymentDate': '2008-03-20', 'ratio': 3.000030000300003}]"
+209,IBIO,"[{'ticker': 'IBIO', 'exDate': '2018-06-11', 'paymentDate': '2018-06-11', 'declaredDate': '2018-06-11', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}]"
+210,ZOM,[]
+211,JAGX,"[{'ticker': 'JAGX', 'exDate': '2019-06-07', 'paymentDate': '2019-06-07', 'declaredDate': '2019-06-07', 'ratio': 70, 'tofactor': 70, 'forfactor': 1}, {'ticker': 'JAGX', 'exDate': '2018-06-01', 'paymentDate': '2018-06-01', 'declaredDate': '2018-06-01', 'ratio': 5, 'tofactor': 5, 'forfactor': 1}]"
+212,NAKD,"[{'ticker': 'NAKD', 'exDate': '2019-12-20', 'paymentDate': '2019-12-20', 'declaredDate': '2019-12-20', 'ratio': 100, 'tofactor': 100, 'forfactor': 1}, {'ticker': 'NAKD', 'exDate': '2015-08-10', 'paymentDate': '2015-08-10', 'declaredDate': '2015-08-10', 'ratio': 40, 'tofactor': 40, 'forfactor': 1}]"
+213,XSPA,"[{'ticker': 'XSPA', 'exDate': '2020-06-11', 'paymentDate': '2020-06-11', 'declaredDate': '2020-06-11', 'ratio': 3, 'tofactor': 3, 'forfactor': 1}, {'ticker': 'XSPA', 'exDate': '2019-02-25', 'paymentDate': '2019-02-25', 'declaredDate': '2019-02-25', 'ratio': 20, 'tofactor': 20, 'forfactor': 1}]"
+214,TNXP,"[{'ticker': 'TNXP', 'exDate': '2019-11-01', 'paymentDate': '2019-11-01', 'declaredDate': '2019-11-01', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}, {'ticker': 'TNXP', 'exDate': '2018-11-28', 'paymentDate': '2018-11-28', 'declaredDate': '2018-11-28', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}, {'ticker': 'TNXP', 'exDate': '2017-03-17', 'paymentDate': '2017-03-17', 'declaredDate': '2017-03-17', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}, {'ticker': 'TNXP', 'exDate': '2013-05-03', 'paymentDate': '2013-05-03', 'ratio': 20}]"
+215,TELL,[]
+216,IVR,[]
+217,VBIV,"[{'ticker': 'VBIV', 'exDate': '2006-03-30', 'paymentDate': '2006-03-30', 'ratio': 0.5}]"
+218,NOVN,[]
+219,OGI,[]
+220,RIG,"[{'ticker': 'RIG', 'exDate': '2007-11-26', 'paymentDate': '2007-11-26', 'ratio': 1.42938822184105}]"
+221,MFA,[]
+222,NAK,[]
+223,ACST,"[{'ticker': 'ACST', 'exDate': '2015-10-15', 'paymentDate': '2015-10-15', 'declaredDate': '2015-10-15', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}, {'ticker': 'ACST', 'exDate': '2015-10-14', 'paymentDate': '2015-10-14', 'declaredDate': '2015-10-14', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}]"
+224,KOS,[]
+225,BOXL,[]
+226,TTOO,[]
+227,OPTT,"[{'ticker': 'OPTT', 'exDate': '2019-03-12', 'paymentDate': '2019-03-12', 'declaredDate': '2019-03-12', 'ratio': 20, 'tofactor': 20, 'forfactor': 1}, {'ticker': 'OPTT', 'exDate': '2015-10-29', 'paymentDate': '2015-10-29', 'declaredDate': '2015-10-29', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}, {'ticker': 'OPTT', 'exDate': '2007-04-26', 'paymentDate': '2007-04-26', 'ratio': 10}]"
+228,CIDM,"[{'ticker': 'CIDM', 'exDate': '2016-05-10', 'paymentDate': '2016-05-10', 'declaredDate': '2016-05-10', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}]"
+229,DGLY,"[{'ticker': 'DGLY', 'exDate': '2012-08-24', 'paymentDate': '2012-08-24', 'ratio': 8}]"
+230,AVGR,"[{'ticker': 'AVGR', 'exDate': '2019-06-24', 'paymentDate': '2019-06-24', 'declaredDate': '2019-06-24', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}, {'ticker': 'AVGR', 'exDate': '2018-01-31', 'paymentDate': '2018-01-31', 'declaredDate': '2018-01-31', 'ratio': 40, 'tofactor': 40, 'forfactor': 1}]"
+231,ONTX,"[{'ticker': 'ONTX', 'exDate': '2018-09-26', 'paymentDate': '2018-09-26', 'declaredDate': '2018-09-26', 'ratio': 15, 'tofactor': 15, 'forfactor': 1}, {'ticker': 'ONTX', 'exDate': '2016-06-01', 'paymentDate': '2016-06-01', 'declaredDate': '2016-06-01', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}]"
+232,NGD,[]
+233,CTRM,[]
+234,DPW,"[{'ticker': 'DPW', 'exDate': '2019-08-06', 'paymentDate': '2019-08-06', 'declaredDate': '2019-08-06', 'ratio': 40, 'tofactor': 40, 'forfactor': 1}, {'ticker': 'DPW', 'exDate': '2019-03-15', 'paymentDate': '2019-03-15', 'declaredDate': '2019-03-15', 'ratio': 20, 'tofactor': 20, 'forfactor': 1}]"
+235,TRVN,[]
+236,ABEV,"[{'ticker': 'ABEV', 'exDate': '2013-11-11', 'paymentDate': '2013-11-11', 'ratio': 0.2}, {'ticker': 'ABEV', 'exDate': '2010-12-28', 'paymentDate': '2010-12-28', 'ratio': 0.2}, {'ticker': 'ABEV', 'exDate': '2005-06-09', 'paymentDate': '2005-06-09', 'ratio': 0.8333333333333334}]"
+237,INPX,"[{'ticker': 'INPX', 'exDate': '2020-01-07', 'paymentDate': '2020-01-07', 'declaredDate': '2020-01-07', 'ratio': 45, 'tofactor': 45, 'forfactor': 1}, {'ticker': 'INPX', 'exDate': '2018-11-02', 'paymentDate': '2018-11-02', 'declaredDate': '2018-11-02', 'ratio': 40, 'tofactor': 40, 'forfactor': 1}, {'ticker': 'INPX', 'exDate': '2018-02-06', 'paymentDate': '2018-02-06', 'declaredDate': '2018-02-06', 'ratio': 30, 'tofactor': 30, 'forfactor': 1}]"
+238,NYMT,"[{'ticker': 'NYMT', 'exDate': '2008-05-29', 'paymentDate': '2008-05-29', 'ratio': 2}, {'ticker': 'NYMT', 'exDate': '2007-10-09', 'paymentDate': '2007-10-09', 'ratio': 5}]"
+239,CRBP,[]
+240,SENS,[]
+241,WTI,[]
+242,MARK,"[{'ticker': 'MARK', 'exDate': '2010-02-17', 'paymentDate': '2010-02-17', 'ratio': 10}]"
+243,TTNP,"[{'ticker': 'TTNP', 'exDate': '2020-12-01', 'paymentDate': '2020-12-01', 'declaredDate': '2020-12-01', 'ratio': 30, 'tofactor': 30, 'forfactor': 1}, {'ticker': 'TTNP', 'exDate': '2019-01-25', 'paymentDate': '2019-01-25', 'declaredDate': '2019-01-25', 'ratio': 6, 'tofactor': 6, 'forfactor': 1}, {'ticker': 'TTNP', 'exDate': '2015-09-29', 'paymentDate': '2015-09-29', 'declaredDate': '2015-09-29', 'ratio': 5.5, 'tofactor': 11, 'forfactor': 2}]"
+244,GSAT,[]
+245,TRXC,"[{'ticker': 'TRXC', 'exDate': '2019-12-12', 'paymentDate': '2019-12-12', 'declaredDate': '2019-12-12', 'ratio': 13, 'tofactor': 13, 'forfactor': 1}, {'ticker': 'TRXC', 'exDate': '1999-01-05', 'paymentDate': '1999-01-05', 'ratio': 10}]"
+246,CEI,"[{'ticker': 'CEI', 'exDate': '2019-10-29', 'paymentDate': '2019-10-29', 'declaredDate': '2019-10-29', 'ratio': 50, 'tofactor': 50, 'forfactor': 1}, {'ticker': 'CEI', 'exDate': '2019-07-08', 'paymentDate': '2019-07-08', 'declaredDate': '2019-07-08', 'ratio': 25, 'tofactor': 25, 'forfactor': 1}, {'ticker': 'CEI', 'exDate': '2018-12-24', 'paymentDate': '2018-12-24', 'declaredDate': '2018-12-24', 'ratio': 25, 'tofactor': 25, 'forfactor': 1}, {'ticker': 'CEI', 'exDate': '2018-03-05', 'paymentDate': '2018-03-05', 'declaredDate': '2018-03-05', 'ratio': 25, 'tofactor': 25, 'forfactor': 1}, {'ticker': 'CEI', 'exDate': '2008-02-04', 'paymentDate': '2008-02-04', 'ratio': 4}]"
+247,BIOL,"[{'ticker': 'BIOL', 'exDate': '2018-05-11', 'paymentDate': '2018-05-11', 'declaredDate': '2018-05-11', 'ratio': 5, 'tofactor': 5, 'forfactor': 1}, {'ticker': 'BIOL', 'exDate': '2014-03-12', 'paymentDate': '2014-03-28', 'ratio': 0.9950248756218906, 'tofactor': 100, 'forfactor': 100.5}, {'ticker': 'BIOL', 'exDate': '2013-12-12', 'paymentDate': '2013-12-12', 'ratio': 0.9950248756218907}, {'ticker': 'BIOL', 'exDate': '2013-08-23', 'paymentDate': '2013-08-23', 'ratio': 0.9950248756218907}, {'ticker': 'BIOL', 'exDate': '2013-06-12', 'paymentDate': '2013-06-12', 'ratio': 0.9950248756218907}, {'ticker': 'BIOL', 'exDate': '2013-03-13', 'paymentDate': '2013-03-13', 'ratio': 0.9950248756218907}, {'ticker': 'BIOL', 'exDate': '2012-12-12', 'paymentDate': '2012-12-12', 'ratio': 0.9950248756218907}, {'ticker': 'BIOL', 'exDate': '2012-09-12', 'paymentDate': '2012-09-12', 'ratio': 0.9950248756218907}, {'ticker': 'BIOL', 'exDate': '2012-06-06', 'paymentDate': '2012-06-06', 'ratio': 0.9950248756218907}, {'ticker': 'BIOL', 'exDate': '2012-03-13', 'paymentDate': '2012-03-13', 'ratio': 0.9950248756218907}, {'ticker': 'BIOL', 'exDate': '2011-11-22', 'paymentDate': '2011-11-22', 'ratio': 0.9900990099009901}, {'ticker': 'BIOL', 'exDate': '2011-08-25', 'paymentDate': '2011-08-25', 'ratio': 0.9900990099009901}, {'ticker': 'BIOL', 'exDate': '2011-06-08', 'paymentDate': '2011-06-08', 'ratio': 0.9900990099009901}, {'ticker': 'BIOL', 'exDate': '2011-03-10', 'paymentDate': '2011-03-10', 'ratio': 0.99009900990099}]"
+248,ADMP,"[{'ticker': 'ADMP', 'exDate': '2013-12-13', 'paymentDate': '2013-12-13', 'ratio': 17.001020061203672}, {'ticker': 'ADMP', 'exDate': '2009-04-22', 'paymentDate': '2009-04-22', 'ratio': 9.928514694201747}]"
+249,LLNW,[]
+250,KXIN,[]
+251,CDEV,[]
+252,SHIP,"[{'ticker': 'SHIP', 'exDate': '2020-06-30', 'paymentDate': '2020-06-30', 'declaredDate': '2020-06-30', 'ratio': 16, 'tofactor': 16, 'forfactor': 1}, {'ticker': 'SHIP', 'exDate': '2019-03-20', 'paymentDate': '2019-03-20', 'declaredDate': '2019-03-20', 'ratio': 15, 'tofactor': 15, 'forfactor': 1}, {'ticker': 'SHIP', 'exDate': '2016-01-08', 'paymentDate': '2016-01-08', 'declaredDate': '2016-01-08', 'ratio': 5, 'tofactor': 5, 'forfactor': 1}, {'ticker': 'SHIP', 'exDate': '2011-06-27', 'paymentDate': '2011-06-27', 'ratio': 14.999250037498127}]"
+253,NXTD,"[{'ticker': 'NXTD', 'exDate': '2016-09-12', 'paymentDate': '2016-09-12', 'declaredDate': '2016-09-12', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}]"
+254,NAT,[]
+255,OGEN,"[{'ticker': 'OGEN', 'exDate': '2018-01-22', 'paymentDate': '2018-01-22', 'declaredDate': '2018-01-22', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}, {'ticker': 'OGEN', 'exDate': '2018-01-19', 'paymentDate': '2018-01-19', 'declaredDate': '2018-01-19', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}, {'ticker': 'OGEN', 'exDate': '2010-09-28', 'paymentDate': '2010-09-28', 'ratio': 20}]"
+256,CHEK,[]
+257,BORR,[]
+258,EXPR,[]
+259,PEI,[]
+260,QEP,[]
+261,ZSAN,"[{'ticker': 'ZSAN', 'exDate': '2018-01-26', 'paymentDate': '2018-01-26', 'declaredDate': '2018-01-26', 'ratio': 20, 'tofactor': 20, 'forfactor': 1}]"
+262,MTNB,[]
+263,DS,"[{'ticker': 'DS', 'exDate': '2013-05-15', 'paymentDate': '2013-05-15', 'ratio': 0.46882325363338}]"
+264,WTRH,[]
+265,RIGL,"[{'ticker': 'RIGL', 'exDate': '2003-06-25', 'paymentDate': '2003-06-25', 'ratio': 9.000090000900009}]"
+266,AHT,"[{'ticker': 'AHT', 'exDate': '2020-07-16', 'paymentDate': '2020-07-16', 'declaredDate': '2020-07-16', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}, {'ticker': 'AHT', 'exDate': '2013-11-19', 'paymentDate': '2013-11-19', 'ratio': 0.671140939597315}]"
+267,ADXS,"[{'ticker': 'ADXS', 'exDate': '2019-03-29', 'paymentDate': '2019-03-29', 'declaredDate': '2019-03-29', 'ratio': 15, 'tofactor': 15, 'forfactor': 1}, {'ticker': 'ADXS', 'exDate': '2013-07-15', 'paymentDate': '2013-07-15', 'ratio': 125}]"
+268,COCP,"[{'ticker': 'COCP', 'exDate': '2018-01-24', 'paymentDate': '2018-01-24', 'declaredDate': '2018-01-24', 'ratio': 30, 'tofactor': 30, 'forfactor': 1}]"
+269,XXII,[]
+270,SAN,"[{'ticker': 'SAN', 'exDate': '2020-11-12', 'paymentDate': '2020-12-14', 'declaredDate': '2020-11-03', 'ratio': 0.9444475926030864, 'tofactor': 100, 'forfactor': 105.882}, {'ticker': 'SAN', 'exDate': '2012-01-10', 'paymentDate': '2012-01-10', 'ratio': 0.978723404255319}, {'ticker': 'SAN', 'exDate': '1999-06-21', 'paymentDate': '1999-06-21', 'ratio': 0.5}, {'ticker': 'SAN', 'exDate': '1998-08-17', 'paymentDate': '1998-08-17', 'ratio': 0.980392156862745}, {'ticker': 'SAN', 'exDate': '1998-07-06', 'paymentDate': '1998-07-06', 'ratio': 0.5}]"
+271,AIKI,[]
+272,NH,[]
+273,TRCH,"[{'ticker': 'TRCH', 'exDate': '2010-12-15', 'paymentDate': '2010-12-15', 'ratio': 0.25}]"
+274,SWN,"[{'ticker': 'SWN', 'exDate': '2008-03-26', 'paymentDate': '2008-03-26', 'ratio': 0.5}, {'ticker': 'SWN', 'exDate': '2005-11-18', 'paymentDate': '2005-11-18', 'ratio': 0.5}, {'ticker': 'SWN', 'exDate': '2005-06-06', 'paymentDate': '2005-06-06', 'ratio': 0.5}]"
+275,CCO,[]
+276,EVFM,[]
+277,LMFA,"[{'ticker': 'LMFA', 'exDate': '2018-10-16', 'paymentDate': '2018-10-16', 'declaredDate': '2018-10-16', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}]"
+278,TXMD,"[{'ticker': 'TXMD', 'exDate': '2011-10-02', 'paymentDate': '2011-10-02', 'ratio': 100}, {'ticker': 'TXMD', 'exDate': '2011-09-29', 'paymentDate': '2011-09-29', 'ratio': 100}, {'ticker': 'TXMD', 'exDate': '2009-07-27', 'paymentDate': '2009-07-27', 'ratio': 0.3333333333333333}]"
+279,IMMP,[]
+280,ACRX,[]
+281,ABUS,"[{'ticker': 'ABUS', 'exDate': '2010-11-04', 'paymentDate': '2010-11-04', 'ratio': 5}]"
+282,NMTR,[]
+283,MUX,[]
+284,AESE,[]
+285,OXBR,[]
+286,GHSI,"[{'ticker': 'GHSI', 'exDate': '2021-03-01', 'paymentDate': '2021-03-01', 'declaredDate': '2021-03-01', 'ratio': 6, 'tofactor': 6, 'forfactor': 1}]"
+287,ADMA,[]
+288,WATT,[]
+289,PLG,"[{'ticker': 'PLG', 'exDate': '2018-12-17', 'paymentDate': '2018-12-17', 'declaredDate': '2018-12-17', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}, {'ticker': 'PLG', 'exDate': '2016-01-28', 'paymentDate': '2016-01-28', 'declaredDate': '2016-01-28', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}]"
+290,BEST,[]
+291,XELA,"[{'ticker': 'XELA', 'exDate': '2021-01-26', 'paymentDate': '2021-01-26', 'declaredDate': '2021-01-26', 'ratio': 3, 'tofactor': 3, 'forfactor': 1}]"
+292,ATOS,"[{'ticker': 'ATOS', 'exDate': '2018-04-20', 'paymentDate': '2018-04-20', 'declaredDate': '2018-04-20', 'ratio': 12, 'tofactor': 12, 'forfactor': 1}, {'ticker': 'ATOS', 'exDate': '2016-08-26', 'paymentDate': '2016-08-26', 'declaredDate': '2016-08-26', 'ratio': 15, 'tofactor': 15, 'forfactor': 1}]"
+293,BLRX,"[{'ticker': 'BLRX', 'exDate': '2019-07-15', 'paymentDate': '2019-07-15', 'declaredDate': '2019-07-15', 'ratio': 15, 'tofactor': 15, 'forfactor': 1}]"
+294,HMY,[]
+295,TBLT,"[{'ticker': 'TBLT', 'exDate': '2020-04-15', 'paymentDate': '2020-04-15', 'declaredDate': '2020-04-15', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}]"
+296,NSPR,"[{'ticker': 'NSPR', 'exDate': '2019-04-01', 'paymentDate': '2019-04-01', 'declaredDate': '2019-04-01', 'ratio': 50, 'tofactor': 50, 'forfactor': 1}, {'ticker': 'NSPR', 'exDate': '2018-02-08', 'paymentDate': '2018-02-08', 'declaredDate': '2018-02-08', 'ratio': 35, 'tofactor': 35, 'forfactor': 1}, {'ticker': 'NSPR', 'exDate': '2016-10-10', 'paymentDate': '2016-10-10', 'declaredDate': '2016-10-10', 'ratio': 25, 'tofactor': 25, 'forfactor': 1}, {'ticker': 'NSPR', 'exDate': '2015-10-01', 'paymentDate': '2015-10-01', 'declaredDate': '2015-10-01', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}, {'ticker': 'NSPR', 'exDate': '2012-12-21', 'paymentDate': '2012-12-21', 'ratio': 4}, {'ticker': 'NSPR', 'exDate': '2011-04-12', 'paymentDate': '2011-04-12', 'ratio': 0.3333333333333333}]"
+297,ITRM,[]
+298,SXTC,"[{'ticker': 'SXTC', 'exDate': '2021-02-22', 'paymentDate': '2021-02-22', 'declaredDate': '2021-02-22', 'ratio': 4, 'tofactor': 4, 'forfactor': 1}]"
+299,AEZS,"[{'ticker': 'AEZS', 'exDate': '2015-11-20', 'paymentDate': '2015-11-20', 'declaredDate': '2015-11-20', 'ratio': 100, 'tofactor': 100, 'forfactor': 1}, {'ticker': 'AEZS', 'exDate': '2012-10-05', 'paymentDate': '2012-10-05', 'ratio': 5.9998800023999515}]"
+300,INUV,"[{'ticker': 'INUV', 'exDate': '2010-12-13', 'paymentDate': '2010-12-13', 'ratio': 10}]"
+301,DNK,[]
+302,EARS,"[{'ticker': 'EARS', 'exDate': '2019-05-01', 'paymentDate': '2019-05-01', 'declaredDate': '2019-05-01', 'ratio': 20, 'tofactor': 20, 'forfactor': 1}, {'ticker': 'EARS', 'exDate': '2018-03-14', 'paymentDate': '2018-03-14', 'declaredDate': '2018-03-14', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}]"
+303,CLSN,"[{'ticker': 'CLSN', 'exDate': '2017-05-30', 'paymentDate': '2017-05-30', 'declaredDate': '2017-05-30', 'ratio': 14, 'tofactor': 14, 'forfactor': 1}, {'ticker': 'CLSN', 'exDate': '2013-10-29', 'paymentDate': '2013-10-29', 'ratio': 4.5000450004500046}, {'ticker': 'CLSN', 'exDate': '2006-02-28', 'paymentDate': '2006-02-28', 'ratio': 14.999250037498127}]"
+304,ATHX,[]
+305,PTE,"[{'ticker': 'PTE', 'exDate': '2008-09-17', 'paymentDate': '2008-09-17', 'ratio': 0.1}, {'ticker': 'PTE', 'exDate': '2004-12-31', 'paymentDate': '2004-12-31', 'ratio': 6.999860002799944}, {'ticker': 'PTE', 'exDate': '2002-03-12', 'paymentDate': '2002-03-12', 'ratio': 10}]"
+306,PHUN,[]
+307,MDGS,"[{'ticker': 'MDGS', 'exDate': '2018-07-16', 'paymentDate': '2018-07-16', 'declaredDate': '2018-07-16', 'ratio': 4, 'tofactor': 4, 'forfactor': 1}, {'ticker': 'MDGS', 'exDate': '2017-03-15', 'paymentDate': '2017-03-15', 'declaredDate': '2017-03-15', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}]"
+308,QD,[]
+309,LPCN,[]
+310,BBI,[]
+311,HLX,"[{'ticker': 'HLX', 'exDate': '2005-12-09', 'paymentDate': '2005-12-09', 'ratio': 0.5}, {'ticker': 'HLX', 'exDate': '2000-11-14', 'paymentDate': '2000-11-14', 'ratio': 0.5}]"
+312,GRNQ,[]
+313,NEOS,[]
+314,ISR,[]
+315,WORX,[]
+316,BRQS,[]
+317,DARE,[]
+318,NBY,"[{'ticker': 'NBY', 'exDate': '2015-12-21', 'paymentDate': '2015-12-21', 'declaredDate': '2015-12-21', 'ratio': 25, 'tofactor': 25, 'forfactor': 1}]"
+319,VSTM,[]
+320,VISL,"[{'ticker': 'VISL', 'exDate': '2020-08-03', 'paymentDate': '2020-08-03', 'declaredDate': '2020-08-03', 'ratio': 6, 'tofactor': 6, 'forfactor': 1}, {'ticker': 'VISL', 'exDate': '2019-05-13', 'paymentDate': '2019-05-13', 'declaredDate': '2019-05-13', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}, {'ticker': 'VISL', 'exDate': '2013-04-10', 'paymentDate': '2013-04-10', 'ratio': 35.00175008750438}]"
+321,NAOV,[]
+322,UXIN,[]
+323,SESN,[]
+324,SYN,"[{'ticker': 'SYN', 'exDate': '2018-08-13', 'paymentDate': '2018-08-13', 'declaredDate': '2018-08-13', 'ratio': 35, 'tofactor': 35, 'forfactor': 1}, {'ticker': 'SYN', 'exDate': '2018-08-10', 'paymentDate': '2018-08-10', 'declaredDate': '2018-08-10', 'ratio': 35, 'tofactor': 35, 'forfactor': 1}, {'ticker': 'SYN', 'exDate': '2007-04-25', 'paymentDate': '2007-04-25', 'ratio': 3.000030000300003}]"
+325,TLGT,"[{'ticker': 'TLGT', 'exDate': '2020-05-28', 'paymentDate': '2020-05-28', 'declaredDate': '2020-05-28', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}]"
+326,AMPE,[]
+327,TANH,[]
+328,VTVT,[]
+329,GERN,[]
+330,NVIV,"[{'ticker': 'NVIV', 'exDate': '2020-02-12', 'paymentDate': '2020-02-12', 'declaredDate': '2020-02-12', 'ratio': 30, 'tofactor': 30, 'forfactor': 1}, {'ticker': 'NVIV', 'exDate': '2018-04-17', 'paymentDate': '2018-04-17', 'declaredDate': '2018-04-17', 'ratio': 25, 'tofactor': 25, 'forfactor': 1}, {'ticker': 'NVIV', 'exDate': '2015-04-08', 'paymentDate': '2015-04-08', 'declaredDate': '2015-04-08', 'ratio': 4, 'tofactor': 4, 'forfactor': 1}]"
+331,HOFV,[]
+332,AIV,"[{'ticker': 'AIV', 'exDate': '2020-12-01', 'paymentDate': '2020-12-01', 'declaredDate': '2020-12-01', 'ratio': 1, 'tofactor': 1, 'forfactor': 1}, {'ticker': 'AIV', 'exDate': '2019-02-21', 'paymentDate': '2019-02-21', 'declaredDate': '2019-02-21', 'ratio': 1, 'tofactor': 1, 'forfactor': 1}, {'ticker': 'AIV', 'exDate': '2011-06-08', 'paymentDate': '2011-06-08', 'ratio': 1.25}]"
+333,ARTL,[]
+334,ENLC,"[{'ticker': 'ENLC', 'exDate': '2006-12-18', 'paymentDate': '2006-12-18', 'ratio': 0.3333333333333333}]"
+335,BBD,"[{'ticker': 'BBD', 'exDate': '2020-04-14', 'paymentDate': '2020-04-21', 'ratio': 0.9090909090909091, 'tofactor': 100, 'forfactor': 110}, {'ticker': 'BBD', 'exDate': '2019-04-01', 'paymentDate': '2019-04-05', 'declaredDate': '2019-03-20', 'ratio': 0.8333333333333334, 'tofactor': 5, 'forfactor': 6}, {'ticker': 'BBD', 'exDate': '2018-04-02', 'paymentDate': '2018-04-06', 'declaredDate': '2018-03-16', 'ratio': 0.9090909090909091, 'tofactor': 100, 'forfactor': 110}, {'ticker': 'BBD', 'exDate': '2017-05-02', 'paymentDate': '2017-05-09', 'declaredDate': '2017-04-18', 'ratio': 0.9090909090909091, 'tofactor': 100, 'forfactor': 110}, {'ticker': 'BBD', 'exDate': '2016-04-18', 'paymentDate': '2016-04-26', 'declaredDate': '2016-04-06', 'ratio': 0.9090909090909091, 'tofactor': 100, 'forfactor': 110}, {'ticker': 'BBD', 'exDate': '2015-03-27', 'paymentDate': '2015-04-03', 'declaredDate': '2015-03-18', 'ratio': 0.8333333333333334, 'tofactor': 5, 'forfactor': 6}, {'ticker': 'BBD', 'exDate': '2013-03-26', 'paymentDate': '2013-03-26', 'ratio': 0.9090909090909091}, {'ticker': 'BBD', 'exDate': '2010-07-14', 'paymentDate': '2010-07-14', 'ratio': 0.9090909090909091}, {'ticker': 'BBD', 'exDate': '2008-04-16', 'paymentDate': '2008-04-16', 'ratio': 0.6666666666666666}, {'ticker': 'BBD', 'exDate': '2007-04-03', 'paymentDate': '2007-04-03', 'ratio': 0.5}, {'ticker': 'BBD', 'exDate': '2005-12-02', 'paymentDate': '2005-12-02', 'ratio': 0.5}, {'ticker': 'BBD', 'exDate': '2004-12-22', 'paymentDate': '2004-12-22', 'ratio': 0.3333333333333333}, {'ticker': 'BBD', 'exDate': '2004-03-22', 'paymentDate': '2004-03-22', 'ratio': 2}]"
+336,IAG,[]
+337,OBLN,"[{'ticker': 'OBLN', 'exDate': '2019-07-25', 'paymentDate': '2019-07-25', 'declaredDate': '2019-07-25', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}]"
+338,PTN,"[{'ticker': 'PTN', 'exDate': '2010-09-27', 'paymentDate': '2010-09-27', 'ratio': 10}]"
+339,YJ,[]
+340,GSM,[]
+341,SOS,[]
+342,WISA,"[{'ticker': 'WISA', 'exDate': '2020-04-09', 'paymentDate': '2020-04-09', 'declaredDate': '2020-04-09', 'ratio': 20, 'tofactor': 20, 'forfactor': 1}]"
+343,TRVG,[]
+344,LKCO,[]
+345,OBSV,[]
+346,EYES,"[{'ticker': 'EYES', 'exDate': '2020-01-06', 'paymentDate': '2020-01-06', 'declaredDate': '2020-01-06', 'ratio': 8, 'tofactor': 8, 'forfactor': 1}]"
+347,IGC,"[{'ticker': 'IGC', 'exDate': '2013-04-19', 'paymentDate': '2013-04-19', 'ratio': 10}]"
+348,REI,"[{'ticker': 'REI', 'exDate': '2008-06-02', 'paymentDate': '2008-06-02', 'ratio': 17.998560115190784}]"
+349,XBIO,"[{'ticker': 'XBIO', 'exDate': '2019-06-25', 'paymentDate': '2019-06-25', 'declaredDate': '2019-06-25', 'ratio': 12, 'tofactor': 12, 'forfactor': 1}, {'ticker': 'XBIO', 'exDate': '2016-06-01', 'paymentDate': '2016-06-01', 'declaredDate': '2016-06-01', 'ratio': 33, 'tofactor': 33, 'forfactor': 1}]"
+350,AZRX,[]
+351,MTC,[]
+352,ATIF,[]
+353,ALRN,[]
+354,ARPO,[]
+355,SNCA,[]
+356,BXRX,[]
+357,ITP,"[{'ticker': 'ITP', 'exDate': '2009-11-05', 'paymentDate': '2009-11-05', 'ratio': 4}]"
+358,LYG,[]
+359,ASRT,[]
+360,ABEO,"[{'ticker': 'ABEO', 'exDate': '2006-06-05', 'paymentDate': '2006-06-05', 'ratio': 5}, {'ticker': 'ABEO', 'exDate': '1998-06-18', 'paymentDate': '1998-06-18', 'ratio': 20}, {'ticker': 'ABEO', 'exDate': '1998-06-05', 'paymentDate': '1998-06-05', 'ratio': 20}]"
+361,TMBR,[]
+362,SPCB,"[{'ticker': 'SPCB', 'exDate': '2013-08-23', 'paymentDate': '2013-08-23', 'ratio': 4.250074376301585}, {'ticker': 'SPCB', 'exDate': '2007-05-14', 'paymentDate': '2007-05-14', 'ratio': 5.88200694076819}]"
+363,MBIO,[]
+364,CHS,"[{'ticker': 'CHS', 'exDate': '2005-02-23', 'paymentDate': '2005-02-23', 'ratio': 0.5}, {'ticker': 'CHS', 'exDate': '2002-07-30', 'paymentDate': '2002-07-30', 'ratio': 0.5}, {'ticker': 'CHS', 'exDate': '2002-01-22', 'paymentDate': '2002-01-22', 'ratio': 0.6666666666666666}, {'ticker': 'CHS', 'exDate': '2001-05-17', 'paymentDate': '2001-05-17', 'ratio': 0.6666666666666666}, {'ticker': 'CHS', 'exDate': '2000-01-18', 'paymentDate': '2000-01-18', 'ratio': 0.5}]"
+365,BTU,[]
+366,VEON,"[{'ticker': 'VEON', 'exDate': '2007-08-22', 'paymentDate': '2007-08-22', 'ratio': 0.2}, {'ticker': 'VEON', 'exDate': '2004-11-23', 'paymentDate': '2004-11-23', 'ratio': 0.3333333333333333}]"
+367,TENX,"[{'ticker': 'TENX', 'exDate': '2018-02-26', 'paymentDate': '2018-02-26', 'declaredDate': '2018-02-26', 'ratio': 20, 'tofactor': 20, 'forfactor': 1}, {'ticker': 'TENX', 'exDate': '2013-05-13', 'paymentDate': '2013-05-13', 'ratio': 20}, {'ticker': 'TENX', 'exDate': '2009-11-09', 'paymentDate': '2009-11-09', 'ratio': 14.999250037498127}]"
+368,CNET,"[{'ticker': 'CNET', 'exDate': '2016-08-19', 'paymentDate': '2016-08-19', 'declaredDate': '2016-08-19', 'ratio': 2.5, 'tofactor': 5, 'forfactor': 2}]"
+369,UEC,[]
+370,GNW,[]
+371,DNN,"[{'ticker': 'DNN', 'exDate': '2006-12-06', 'paymentDate': '2006-12-06', 'ratio': 0.347222222222222}]"
+372,AIHS,[]
+373,IPDN,"[{'ticker': 'IPDN', 'exDate': '2016-09-27', 'paymentDate': '2016-09-27', 'declaredDate': '2016-09-27', 'ratio': 8, 'tofactor': 8, 'forfactor': 1}]"
+374,HOTH,[]
+375,QTT,[]
+376,URG,[]
+377,SNGX,"[{'ticker': 'SNGX', 'exDate': '2016-10-07', 'paymentDate': '2016-10-07', 'declaredDate': '2016-10-07', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}, {'ticker': 'SNGX', 'exDate': '2012-02-01', 'paymentDate': '2012-02-01', 'ratio': 20}]"
+378,ADTX,[]
+379,CATB,"[{'ticker': 'CATB', 'exDate': '2018-12-31', 'paymentDate': '2018-12-31', 'declaredDate': '2018-12-31', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}]"
+380,VTNR,"[{'ticker': 'VTNR', 'exDate': '2009-05-04', 'paymentDate': '2009-05-04', 'ratio': 10}, {'ticker': 'VTNR', 'exDate': '2004-08-30', 'paymentDate': '2004-08-30', 'ratio': 59.98800239952009}]"
+381,CLBS,"[{'ticker': 'CLBS', 'exDate': '2013-07-16', 'paymentDate': '2013-07-16', 'ratio': 10}, {'ticker': 'CLBS', 'exDate': '2007-08-09', 'paymentDate': '2007-08-09', 'ratio': 10}, {'ticker': 'CLBS', 'exDate': '2006-08-31', 'paymentDate': '2006-08-31', 'ratio': 10}]"
+382,VTGN,[]
+383,CPG,[]
+384,BGCP,[]
+385,USWS,[]
+386,CIG,"[{'ticker': 'CIG', 'exDate': '2020-08-13', 'paymentDate': '2020-08-19', 'declaredDate': '2020-08-04', 'ratio': 0.9604948469451462, 'tofactor': 100, 'forfactor': 104.113}, {'ticker': 'CIG', 'exDate': '2014-01-13', 'paymentDate': '2014-01-10', 'ratio': 0.7647058823529411, 'tofactor': 13, 'forfactor': 17}, {'ticker': 'CIG', 'exDate': '2013-05-02', 'paymentDate': '2013-05-02', 'ratio': 0.8865248226950355}, {'ticker': 'CIG', 'exDate': '2012-05-14', 'paymentDate': '2012-05-14', 'ratio': 0.8}, {'ticker': 'CIG', 'exDate': '2009-05-14', 'paymentDate': '2009-05-14', 'ratio': 0.8}, {'ticker': 'CIG', 'exDate': '2007-06-12', 'paymentDate': '2007-06-12', 'ratio': 0.5}, {'ticker': 'CIG', 'exDate': '2007-05-08', 'paymentDate': '2007-05-08', 'ratio': 0.6666666666666666}, {'ticker': 'CIG', 'exDate': '1998-05-05', 'paymentDate': '1998-05-05', 'ratio': 0.8171937566396993}]"
+387,UAMY,[]
+388,MKD,[]
+389,GTE,[]
+390,VYNE,"[{'ticker': 'VYNE', 'exDate': '2021-02-16', 'paymentDate': '2021-02-16', 'declaredDate': '2021-02-16', 'ratio': 4, 'tofactor': 4, 'forfactor': 1}]"
+391,ASM,[]
+392,TMDI,[]
+393,GGB,"[{'ticker': 'GGB', 'exDate': '2008-06-20', 'paymentDate': '2008-06-20', 'ratio': 0.5}, {'ticker': 'GGB', 'exDate': '2006-04-21', 'paymentDate': '2006-04-21', 'ratio': 0.6666666666666666}, {'ticker': 'GGB', 'exDate': '2005-04-19', 'paymentDate': '2005-04-19', 'ratio': 0.6666666666666666}, {'ticker': 'GGB', 'exDate': '2004-05-07', 'paymentDate': '2004-05-07', 'ratio': 0.5}, {'ticker': 'GGB', 'exDate': '2003-05-13', 'paymentDate': '2003-05-13', 'ratio': 0.7692307692307692}, {'ticker': 'GGB', 'exDate': '2000-05-09', 'paymentDate': '2000-05-09', 'ratio': 0.5}]"
+394,BRFS,"[{'ticker': 'BRFS', 'exDate': '2010-04-08', 'paymentDate': '2010-04-08', 'ratio': 0.25}, {'ticker': 'BRFS', 'exDate': '2006-04-20', 'paymentDate': '2006-04-20', 'ratio': 0.3333333333333333}]"
+395,LODE,"[{'ticker': 'LODE', 'exDate': '2019-11-29', 'paymentDate': '2019-11-29', 'declaredDate': '2019-11-29', 'ratio': 5, 'tofactor': 5, 'forfactor': 1}, {'ticker': 'LODE', 'exDate': '2017-11-10', 'paymentDate': '2017-11-10', 'declaredDate': '2017-11-10', 'ratio': 5, 'tofactor': 5, 'forfactor': 1}]"
+396,BBIG,[]
+397,ACB,"[{'ticker': 'ACB', 'exDate': '2020-05-11', 'paymentDate': '2020-05-11', 'declaredDate': '2020-05-11', 'ratio': 12, 'tofactor': 12, 'forfactor': 1}]"
+398,F,"[{'ticker': 'F', 'exDate': '2000-08-03', 'paymentDate': '2000-08-03', 'ratio': 0.6365372374283896}, {'ticker': 'F', 'exDate': '2000-06-28', 'paymentDate': '2000-06-28', 'ratio': 0.9607}, {'ticker': 'F', 'exDate': '1998-04-07', 'paymentDate': '1998-04-07', 'ratio': 0.6641}]"
+399,AAL,[]
+400,GE,"[{'ticker': 'GE', 'exDate': '2000-05-08', 'paymentDate': '2000-05-08', 'ratio': 0.3333333333333333}]"
+401,AMC,[]
+402,INO,"[{'ticker': 'INO', 'exDate': '2014-06-05', 'paymentDate': '2014-06-05', 'declaredDate': '2014-06-05', 'ratio': 4, 'tofactor': 4, 'forfactor': 1}, {'ticker': 'INO', 'exDate': '2004-09-13', 'paymentDate': '2004-09-13', 'ratio': 4}]"
+403,HEXO,"[{'ticker': 'HEXO', 'exDate': '2020-12-23', 'paymentDate': '2020-12-23', 'declaredDate': '2020-12-23', 'ratio': 4, 'tofactor': 4, 'forfactor': 1}]"
+404,BNGO,[]
+405,SOLO,[]
+406,SRNE,"[{'ticker': 'SRNE', 'exDate': '2013-08-01', 'paymentDate': '2013-08-01', 'ratio': 25}, {'ticker': 'SRNE', 'exDate': '2008-10-07', 'paymentDate': '2008-10-07', 'ratio': 10}]"
+407,CRON,[]
+408,VXRT,"[{'ticker': 'VXRT', 'exDate': '2012-11-09', 'paymentDate': '2012-11-09', 'ratio': 5.9998800023999515}]"
+409,APHA,[]
+410,MVIS,"[{'ticker': 'MVIS', 'exDate': '2012-02-21', 'paymentDate': '2012-02-21', 'ratio': 8}]"
+411,JBLU,"[{'ticker': 'JBLU', 'exDate': '2005-12-27', 'paymentDate': '2005-12-27', 'ratio': 0.6666666666666666}, {'ticker': 'JBLU', 'exDate': '2003-11-21', 'paymentDate': '2003-11-21', 'ratio': 0.6666666666666666}, {'ticker': 'JBLU', 'exDate': '2002-12-13', 'paymentDate': '2002-12-13', 'ratio': 0.6666666666666666}]"
+412,ZNGA,[]
+413,KODK,[]
+414,NNDM,"[{'ticker': 'NNDM', 'exDate': '2019-10-22', 'paymentDate': '2019-10-22', 'declaredDate': '2019-10-22', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}]"
+415,NRZ,[]
+416,OCGN,[]
+417,GEVO,"[{'ticker': 'GEVO', 'exDate': '2018-06-04', 'paymentDate': '2018-06-04', 'declaredDate': '2018-06-04', 'ratio': 20, 'tofactor': 20, 'forfactor': 1}, {'ticker': 'GEVO', 'exDate': '2017-01-06', 'paymentDate': '2017-01-06', 'declaredDate': '2017-01-06', 'ratio': 20, 'tofactor': 20, 'forfactor': 1}, {'ticker': 'GEVO', 'exDate': '2015-04-21', 'paymentDate': '2015-04-21', 'declaredDate': '2015-04-21', 'ratio': 15, 'tofactor': 15, 'forfactor': 1}]"
+418,HYLN,[]
+419,IDEX,"[{'ticker': 'IDEX', 'exDate': '2012-02-13', 'paymentDate': '2012-02-13', 'ratio': 75.01875468867217}]"
+420,CPE,"[{'ticker': 'CPE', 'exDate': '2020-08-10', 'paymentDate': '2020-08-10', 'declaredDate': '2020-08-10', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}]"
+421,MRO,"[{'ticker': 'MRO', 'exDate': '2011-06-30', 'paymentDate': '2011-06-30', 'ratio': 0.5965}, {'ticker': 'MRO', 'exDate': '2007-06-19', 'paymentDate': '2007-06-19', 'ratio': 0.5}]"
+422,M,"[{'ticker': 'M', 'exDate': '2006-06-12', 'paymentDate': '2006-06-12', 'ratio': 0.5}]"
+423,BB,"[{'ticker': 'BB', 'exDate': '2007-08-21', 'paymentDate': '2007-08-21', 'ratio': 0.3333333333333333}, {'ticker': 'BB', 'exDate': '2004-06-07', 'paymentDate': '2004-06-07', 'ratio': 0.5}]"
+424,CODX,[]
+425,ET,[]
+426,FSR,[]
+427,SKT,"[{'ticker': 'SKT', 'exDate': '2011-01-25', 'paymentDate': '2011-01-25', 'ratio': 0.5}, {'ticker': 'SKT', 'exDate': '2004-12-29', 'paymentDate': '2004-12-29', 'ratio': 0.5}]"
+428,HTBX,"[{'ticker': 'HTBX', 'exDate': '2020-12-11', 'paymentDate': '2020-12-11', 'declaredDate': '2020-12-11', 'ratio': 7, 'tofactor': 7, 'forfactor': 1}, {'ticker': 'HTBX', 'exDate': '2018-01-22', 'paymentDate': '2018-01-22', 'declaredDate': '2018-01-22', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}]"
+429,UAVS,"[{'ticker': 'UAVS', 'exDate': '2008-07-28', 'paymentDate': '2008-07-28', 'ratio': 5}]"
+430,SDC,[]
+431,UA,"[{'ticker': 'UA', 'exDate': '2014-04-15', 'paymentDate': '2014-04-14', 'declaredDate': '2014-03-17', 'ratio': 0.5, 'tofactor': 1, 'forfactor': 2}, {'ticker': 'UA', 'exDate': '2012-07-10', 'paymentDate': '2012-07-10', 'ratio': 0.5}]"
+432,CNK,[]
+433,AYRO,[]
+434,KNDI,[]
+435,WWR,"[{'ticker': 'WWR', 'exDate': '2019-04-23', 'paymentDate': '2019-04-23', 'declaredDate': '2019-04-23', 'ratio': 50, 'tofactor': 50, 'forfactor': 1}, {'ticker': 'WWR', 'exDate': '2013-01-23', 'paymentDate': '2013-01-23', 'ratio': 10}, {'ticker': 'WWR', 'exDate': '2006-04-11', 'paymentDate': '2006-04-11', 'ratio': 4}]"
+436,OPK,[]
+437,AUY,[]
+438,CBAT,"[{'ticker': 'CBAT', 'exDate': '2014-12-19', 'paymentDate': '2014-12-19', 'declaredDate': '2014-12-19', 'ratio': 100, 'tofactor': 100, 'forfactor': 1}, {'ticker': 'CBAT', 'exDate': '2012-10-26', 'paymentDate': '2012-10-26', 'ratio': 5}]"
+439,X,[]
+440,COTY,[]
+441,PCG,[]
+442,VFF,[]
+443,FRSX,[]
+444,INSG,"[{'ticker': 'INSG', 'exDate': '2002-10-29', 'paymentDate': '2002-10-29', 'ratio': 14.999250037498127}]"
+445,CLNE,[]
+446,PRTY,[]
+447,ERIC,"[{'ticker': 'ERIC', 'exDate': '2008-06-09', 'paymentDate': '2008-06-09', 'ratio': 0.5}, {'ticker': 'ERIC', 'exDate': '2002-10-23', 'paymentDate': '2002-10-23', 'ratio': 10}, {'ticker': 'ERIC', 'exDate': '2000-05-08', 'paymentDate': '2000-05-08', 'ratio': 0.25}, {'ticker': 'ERIC', 'exDate': '1998-05-22', 'paymentDate': '1998-05-22', 'ratio': 0.5}]"
+448,AMRN,"[{'ticker': 'AMRN', 'exDate': '2008-01-18', 'paymentDate': '2008-01-18', 'ratio': 10}, {'ticker': 'AMRN', 'exDate': '1998-10-19', 'paymentDate': '1998-10-19', 'ratio': 10}]"
+449,BTG,[]
+450,UONE,"[{'ticker': 'UONE', 'exDate': '2000-06-06', 'paymentDate': '2000-06-06', 'ratio': 0.333333333333333}]"
+451,TEVA,"[{'ticker': 'TEVA', 'exDate': '2004-07-01', 'paymentDate': '2004-07-01', 'ratio': 0.5}, {'ticker': 'TEVA', 'exDate': '2002-12-06', 'paymentDate': '2002-12-06', 'ratio': 0.5}, {'ticker': 'TEVA', 'exDate': '2000-02-23', 'paymentDate': '2000-02-23', 'ratio': 0.5}]"
+452,SWBI,[]
+453,SIRI,"[{'ticker': 'SIRI', 'exDate': '2011-10-09', 'paymentDate': '2011-10-09', 'ratio': 4}, {'ticker': 'SIRI', 'exDate': '2011-05-02', 'paymentDate': '2011-05-02', 'ratio': 1.16666666666667}]"
+454,APXT,[]
+455,DVAX,"[{'ticker': 'DVAX', 'exDate': '2014-11-10', 'paymentDate': '2014-11-10', 'declaredDate': '2014-11-10', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}]"
+456,SPI,"[{'ticker': 'SPI', 'exDate': '2018-11-16', 'paymentDate': '2018-11-16', 'declaredDate': '2018-11-16', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}, {'ticker': 'SPI', 'exDate': '2017-11-08', 'paymentDate': '2017-11-08', 'declaredDate': '2017-11-08', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}]"
+457,OIS,[]
+458,APT,[]
+459,CUK,[]
+460,AMCR,[]
+461,PK,[]
+462,NTEC,"[{'ticker': 'NTEC', 'exDate': '2020-10-30', 'paymentDate': '2020-10-30', 'declaredDate': '2020-10-30', 'ratio': 20, 'tofactor': 20, 'forfactor': 1}]"
+463,BFT,[]
+464,CAN,[]
+465,KGC,"[{'ticker': 'KGC', 'exDate': '2003-02-03', 'paymentDate': '2003-02-03', 'ratio': 3.000030000300003}]"
+466,VERU,[]
+467,AGNC,[]
+468,POLA,[]
+469,TWO,"[{'ticker': 'TWO', 'exDate': '2017-11-02', 'paymentDate': '2017-11-02', 'declaredDate': '2017-11-02', 'ratio': 2, 'tofactor': 2, 'forfactor': 1}, {'ticker': 'TWO', 'exDate': '2017-11-01', 'paymentDate': '2017-11-01', 'declaredDate': '2017-11-01', 'ratio': 2, 'tofactor': 2, 'forfactor': 1}, {'ticker': 'TWO', 'exDate': '2013-03-27', 'paymentDate': '2013-03-27', 'ratio': 0.931098696461825}]"
+470,ADT,[]
+471,HPR,"[{'ticker': 'HPR', 'exDate': '2020-10-30', 'paymentDate': '2020-10-30', 'declaredDate': '2020-10-30', 'ratio': 50, 'tofactor': 50, 'forfactor': 1}]"
+472,OXLC,[]
+473,FTEK,[]
+474,VUZI,"[{'ticker': 'VUZI', 'exDate': '2013-02-06', 'paymentDate': '2013-02-06', 'ratio': 75.01875468867217}]"
+475,GLUU,[]
+476,GPRO,[]
+477,FTFT,"[{'ticker': 'FTFT', 'exDate': '2009-10-26', 'paymentDate': '2009-10-26', 'ratio': 1.5}, {'ticker': 'FTFT', 'exDate': '2008-06-12', 'paymentDate': '2008-06-12', 'ratio': 328.9473684210526}]"
+478,EVRI,[]
+479,NLY,[]
+480,BCRX,[]
+481,APA,"[{'ticker': 'APA', 'exDate': '2004-01-15', 'paymentDate': '2004-01-15', 'ratio': 0.5}, {'ticker': 'APA', 'exDate': '2003-03-09', 'paymentDate': '2003-03-09', 'ratio': 0.952380952380952}, {'ticker': 'APA', 'exDate': '2001-12-26', 'paymentDate': '2001-12-26', 'ratio': 0.909090909090909}]"
+482,GOGO,[]
+483,CLF,"[{'ticker': 'CLF', 'exDate': '2008-05-16', 'paymentDate': '2008-05-16', 'ratio': 0.5}, {'ticker': 'CLF', 'exDate': '2006-07-03', 'paymentDate': '2006-07-03', 'ratio': 0.5}, {'ticker': 'CLF', 'exDate': '2005-01-03', 'paymentDate': '2005-01-03', 'ratio': 0.5}]"
+484,CLVS,[]
+485,SM,"[{'ticker': 'SM', 'exDate': '2005-04-01', 'paymentDate': '2005-04-01', 'ratio': 0.5}, {'ticker': 'SM', 'exDate': '2000-09-06', 'paymentDate': '2000-09-06', 'ratio': 0.5}]"
+486,ACI,[]
+487,LXRX,"[{'ticker': 'LXRX', 'exDate': '2015-05-21', 'paymentDate': '2015-05-21', 'declaredDate': '2015-05-21', 'ratio': 7, 'tofactor': 7, 'forfactor': 1}]"
+488,PBCT,"[{'ticker': 'PBCT', 'exDate': '2007-04-16', 'paymentDate': '2007-04-16', 'ratio': 0.47619047619047616}, {'ticker': 'PBCT', 'exDate': '2005-05-16', 'paymentDate': '2005-05-16', 'ratio': 0.6666666666666666}, {'ticker': 'PBCT', 'exDate': '2004-05-17', 'paymentDate': '2004-05-17', 'ratio': 0.6666666666666666}]"
+489,WIMI,[]
+490,AMRS,"[{'ticker': 'AMRS', 'exDate': '2017-06-06', 'paymentDate': '2017-06-06', 'declaredDate': '2017-06-06', 'ratio': 15, 'tofactor': 15, 'forfactor': 1}]"
+491,DVN,"[{'ticker': 'DVN', 'exDate': '2004-11-16', 'paymentDate': '2004-11-16', 'ratio': 0.5}]"
+492,GT,[]
+493,VVPR,[]
+494,VTRS,[]
+495,YCBD,[]
+496,PSEC,[]
+497,POWW,[]
+498,LUMN,[]
+499,SGBX,"[{'ticker': 'SGBX', 'exDate': '2020-02-06', 'paymentDate': '2020-02-06', 'declaredDate': '2020-02-06', 'ratio': 20, 'tofactor': 20, 'forfactor': 1}]"
+500,RWT,[]
+501,ALT,"[{'ticker': 'ALT', 'exDate': '2018-09-14', 'paymentDate': '2018-09-14', 'declaredDate': '2018-09-14', 'ratio': 30, 'tofactor': 30, 'forfactor': 1}]"
+502,CLDR,[]
+503,AM,[]
+504,LEVI,[]
+505,HPE,[]
+506,MAC,"[{'ticker': 'MAC', 'exDate': '2010-02-10', 'paymentDate': '2010-02-10', 'ratio': 0.986193293885602}, {'ticker': 'MAC', 'exDate': '2009-11-08', 'paymentDate': '2009-11-08', 'ratio': 0.982414775518224}, {'ticker': 'MAC', 'exDate': '2009-08-09', 'paymentDate': '2009-08-09', 'ratio': 0.981450583963097}, {'ticker': 'MAC', 'exDate': '2009-05-06', 'paymentDate': '2009-05-06', 'ratio': 0.973709834469328}]"
+507,UMC,"[{'ticker': 'UMC', 'exDate': '2008-08-07', 'paymentDate': '2008-08-07', 'ratio': 0.956937799043062}, {'ticker': 'UMC', 'exDate': '2007-10-09', 'paymentDate': '2007-10-09', 'ratio': 1.4347202295552368}, {'ticker': 'UMC', 'exDate': '2004-07-12', 'paymentDate': '2004-07-12', 'ratio': 0.925925925925926}, {'ticker': 'UMC', 'exDate': '2003-07-14', 'paymentDate': '2003-07-14', 'ratio': 0.961446014806269}, {'ticker': 'UMC', 'exDate': '2001-07-12', 'paymentDate': '2001-07-12', 'ratio': 0.869565217391304}]"
+508,KMI,[]
+509,SABR,[]
+510,EBON,[]
+511,MGI,"[{'ticker': 'MGI', 'exDate': '2011-11-15', 'paymentDate': '2011-11-15', 'ratio': 8}]"
+512,PPSI,[]
+513,AG,[]
+514,RESN,[]
+515,ORC,[]
+516,AQB,[]
+517,TGI,"[{'ticker': 'TGI', 'exDate': '2011-07-15', 'paymentDate': '2011-07-15', 'ratio': 0.5}]"
+518,AKBA,[]
+519,NETE,"[{'ticker': 'NETE', 'exDate': '2017-10-05', 'paymentDate': '2017-10-05', 'declaredDate': '2017-10-05', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}, {'ticker': 'NETE', 'exDate': '2016-05-25', 'paymentDate': '2016-05-25', 'declaredDate': '2016-05-25', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}]"
+520,GENE,"[{'ticker': 'GENE', 'exDate': '2019-08-15', 'paymentDate': '2019-08-15', 'declaredDate': '2019-08-15', 'ratio': 4, 'tofactor': 4, 'forfactor': 1}, {'ticker': 'GENE', 'exDate': '2015-01-20', 'paymentDate': '2015-01-20', 'declaredDate': '2015-01-20', 'ratio': 5, 'tofactor': 5, 'forfactor': 1}]"
+521,FRO,"[{'ticker': 'FRO', 'exDate': '2016-02-04', 'paymentDate': '2016-02-04', 'declaredDate': '2016-02-04', 'ratio': 5, 'tofactor': 5, 'forfactor': 1}, {'ticker': 'FRO', 'exDate': '2016-02-03', 'paymentDate': '2016-02-03', 'declaredDate': '2016-02-03', 'ratio': 5, 'tofactor': 5, 'forfactor': 1}]"
+522,CEMI,"[{'ticker': 'CEMI', 'exDate': '2012-05-30', 'paymentDate': '2012-05-30', 'ratio': 8}, {'ticker': 'CEMI', 'exDate': '2004-03-11', 'paymentDate': '2004-03-11', 'ratio': 17}]"
+523,SU,"[{'ticker': 'SU', 'exDate': '2008-05-27', 'paymentDate': '2008-05-27', 'ratio': 0.5}, {'ticker': 'SU', 'exDate': '2002-05-23', 'paymentDate': '2002-05-23', 'ratio': 0.5}, {'ticker': 'SU', 'exDate': '2000-05-16', 'paymentDate': '2000-05-16', 'ratio': 0.5}]"
+524,KERN,[]
+525,CMRX,[]
+526,CRIS,"[{'ticker': 'CRIS', 'exDate': '2018-05-30', 'paymentDate': '2018-05-30', 'declaredDate': '2018-05-30', 'ratio': 5, 'tofactor': 5, 'forfactor': 1}]"
+527,DOYU,[]
+528,CLNY,[]
+529,HMHC,[]
+530,GFI,"[{'ticker': 'GFI', 'exDate': '2013-02-20', 'paymentDate': '2013-02-20', 'ratio': 0.861326442721792}]"
+531,DENN,[]
+532,AGI,[]
+533,PBR,"[{'ticker': 'PBR', 'exDate': '2008-05-08', 'paymentDate': '2008-05-08', 'ratio': 0.5}, {'ticker': 'PBR', 'exDate': '2007-07-02', 'paymentDate': '2007-07-02', 'ratio': 0.5}]"
+534,ARR,"[{'ticker': 'ARR', 'exDate': '2015-08-03', 'paymentDate': '2015-08-03', 'declaredDate': '2015-08-03', 'ratio': 8, 'tofactor': 8, 'forfactor': 1}]"
+535,FLDM,[]
+536,VALE,"[{'ticker': 'VALE', 'exDate': '2007-09-13', 'paymentDate': '2007-09-13', 'ratio': 0.5}, {'ticker': 'VALE', 'exDate': '2006-06-07', 'paymentDate': '2006-06-07', 'ratio': 0.5}, {'ticker': 'VALE', 'exDate': '2004-09-07', 'paymentDate': '2004-09-07', 'ratio': 0.3333333333333333}]"
+537,APLE,[]
+538,GOEV,[]
+539,GCI,[]
+540,SFT,[]
+541,DHT,"[{'ticker': 'DHT', 'exDate': '2012-07-17', 'paymentDate': '2012-07-17', 'ratio': 12.000480019200769}]"
+542,HL,[]
+543,SVM,[]
+544,REV,"[{'ticker': 'REV', 'exDate': '2008-09-16', 'paymentDate': '2008-09-16', 'ratio': 10}, {'ticker': 'REV', 'exDate': '2003-05-14', 'paymentDate': '2003-05-14', 'ratio': 0.943396226415094}]"
+545,MIK,[]
+546,BPY,[]
+547,GRTS,[]
+548,SLS,[]
+549,MUR,"[{'ticker': 'MUR', 'exDate': '2013-09-02', 'paymentDate': '2013-09-02', 'ratio': 0.863557858376511}, {'ticker': 'MUR', 'exDate': '2005-06-06', 'paymentDate': '2005-06-06', 'ratio': 0.5}, {'ticker': 'MUR', 'exDate': '2002-12-31', 'paymentDate': '2002-12-31', 'ratio': 0.5}]"
+550,SWI,[]
+551,EB,[]
+552,SRG,[]
+553,BCS,"[{'ticker': 'BCS', 'exDate': '2013-09-18', 'paymentDate': '2013-09-18', 'ratio': 0.921658986175115}, {'ticker': 'BCS', 'exDate': '2002-05-06', 'paymentDate': '2002-05-06', 'ratio': 0.25}]"
+554,HBI,"[{'ticker': 'HBI', 'exDate': '2015-03-04', 'paymentDate': '2015-03-03', 'declaredDate': '2015-01-28', 'ratio': 0.25, 'tofactor': 1, 'forfactor': 4}]"
+555,EQ,[]
+556,DBVT,[]
+557,NOG,"[{'ticker': 'NOG', 'exDate': '2020-09-21', 'paymentDate': '2020-09-21', 'declaredDate': '2020-09-21', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}]"
+558,ENDP,[]
+559,APDN,"[{'ticker': 'APDN', 'exDate': '2019-11-01', 'paymentDate': '2019-11-01', 'declaredDate': '2019-11-01', 'ratio': 40, 'tofactor': 40, 'forfactor': 1}]"
+560,JE,"[{'ticker': 'JE', 'exDate': '2020-09-29', 'paymentDate': '2020-09-29', 'declaredDate': '2020-09-29', 'ratio': 33, 'tofactor': 33, 'forfactor': 1}]"
+561,ADAP,[]
+562,XERS,[]
+563,FSM,[]
+564,SSL,[]
+565,PLYA,[]
+566,GEO,"[{'ticker': 'GEO', 'exDate': '2017-04-25', 'paymentDate': '2017-04-24', 'ratio': 0.6666666666666666, 'tofactor': 2, 'forfactor': 3}, {'ticker': 'GEO', 'exDate': '2007-06-01', 'paymentDate': '2007-06-01', 'ratio': 0.5}, {'ticker': 'GEO', 'exDate': '2006-10-02', 'paymentDate': '2006-10-02', 'ratio': 0.6666666666666666}]"
+567,CNDT,[]
+568,ACOR,"[{'ticker': 'ACOR', 'exDate': '2021-01-04', 'paymentDate': '2021-01-04', 'declaredDate': '2021-01-04', 'ratio': 6, 'tofactor': 6, 'forfactor': 1}]"
+569,ARLO,[]
+570,HIMX,[]
+571,IMGN,[]
+572,VKTX,[]
+573,MNKD,"[{'ticker': 'MNKD', 'exDate': '2017-03-03', 'paymentDate': '2017-03-03', 'declaredDate': '2017-03-03', 'ratio': 5, 'tofactor': 5, 'forfactor': 1}]"
+574,ORBC,[]
+575,IPOF,[]
+576,GIK,[]
+577,EXK,[]
+578,AQMS,[]
+579,CLOV,[]
+580,CDE,"[{'ticker': 'CDE', 'exDate': '2009-05-27', 'paymentDate': '2009-05-27', 'ratio': 10}]"
+581,NAVI,[]
+582,MOGO,[]
+583,CBAY,[]
+584,MTDR,[]
+585,SAND,"[{'ticker': 'SAND', 'exDate': '2012-05-09', 'paymentDate': '2012-05-09', 'ratio': 5}]"
+586,AGEN,"[{'ticker': 'AGEN', 'exDate': '2011-10-03', 'paymentDate': '2011-10-03', 'ratio': 5.9998800023999515}]"
+587,NBAC,[]
+588,ABR,[]
+589,CURO,[]
+590,UUUU,"[{'ticker': 'UUUU', 'exDate': '2013-11-05', 'paymentDate': '2013-11-05', 'ratio': 50}]"
+591,WPRT,[]
+592,ORTX,[]
+593,ZUO,[]
+594,BGFV,[]
+595,ENG,[]
+596,AMRX,[]
+597,VGAC,[]
+598,ELYS,[]
+599,GNOG,[]
+600,PUMP,[]
+601,ZYNE,[]
+602,AR,[]
+603,BTWN,[]
+604,MAT,[]
+605,VET,[]
+606,RRC,"[{'ticker': 'RRC', 'exDate': '2005-12-05', 'paymentDate': '2005-12-05', 'ratio': 0.6666666666666666}]"
+607,MOMO,"[{'ticker': 'MOMO', 'exDate': '2011-11-13', 'paymentDate': '2011-11-13', 'ratio': 0.0333333333333333}]"
+608,ERJ,[]
+609,STNG,"[{'ticker': 'STNG', 'exDate': '2019-01-18', 'paymentDate': '2019-01-18', 'declaredDate': '2019-01-18', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}]"
+610,EGO,"[{'ticker': 'EGO', 'exDate': '2018-12-31', 'paymentDate': '2018-12-31', 'declaredDate': '2018-12-31', 'ratio': 5, 'tofactor': 5, 'forfactor': 1}]"
+611,INFY,"[{'ticker': 'INFY', 'exDate': '2018-09-12', 'paymentDate': '2018-09-11', 'declaredDate': '2018-08-24', 'ratio': 0.5, 'tofactor': 1, 'forfactor': 2}, {'ticker': 'INFY', 'exDate': '2015-06-25', 'paymentDate': '2015-06-24', 'declaredDate': '2015-06-08', 'ratio': 0.5, 'tofactor': 1, 'forfactor': 2}, {'ticker': 'INFY', 'exDate': '2014-12-08', 'paymentDate': '2014-12-05', 'declaredDate': '2014-11-24', 'ratio': 0.5, 'tofactor': 1, 'forfactor': 2}, {'ticker': 'INFY', 'exDate': '2006-07-18', 'paymentDate': '2006-07-18', 'ratio': 0.5}, {'ticker': 'INFY', 'exDate': '2004-07-07', 'paymentDate': '2004-07-07', 'ratio': 0.5}, {'ticker': 'INFY', 'exDate': '2000-02-15', 'paymentDate': '2000-02-15', 'ratio': 0.5}]"
+612,BCLI,[]
+613,AVXL,"[{'ticker': 'AVXL', 'exDate': '2015-10-07', 'paymentDate': '2015-10-07', 'declaredDate': '2015-10-07', 'ratio': 4, 'tofactor': 4, 'forfactor': 1}]"
+614,GEL,"[{'ticker': 'GEL', 'exDate': '2013-04-03', 'paymentDate': '2013-04-03', 'ratio': 1.1}, {'ticker': 'GEL', 'exDate': '2011-04-11', 'paymentDate': '2011-04-11', 'ratio': 0.1}]"
+615,PAA,"[{'ticker': 'PAA', 'exDate': '2012-10-02', 'paymentDate': '2012-10-02', 'ratio': 0.5}]"
+616,THBR,[]
+617,CX,"[{'ticker': 'CX', 'exDate': '2017-05-03', 'paymentDate': '2017-05-12', 'declaredDate': '2017-04-03', 'ratio': 0.9615384615384616, 'tofactor': 100, 'forfactor': 104}, {'ticker': 'CX', 'exDate': '2016-04-29', 'paymentDate': '2016-05-10', 'declaredDate': '2016-04-04', 'ratio': 0.9615384615384616, 'tofactor': 100, 'forfactor': 104}, {'ticker': 'CX', 'exDate': '2015-04-28', 'paymentDate': '2015-05-08', 'declaredDate': '2015-03-30', 'ratio': 0.9615384615384616, 'tofactor': 100, 'forfactor': 104}, {'ticker': 'CX', 'exDate': '2014-04-22', 'paymentDate': '2014-04-29', 'declaredDate': '2014-03-24', 'ratio': 0.9615384615384616, 'tofactor': 100, 'forfactor': 104}, {'ticker': 'CX', 'exDate': '2013-04-22', 'paymentDate': '2013-04-22', 'ratio': 0.961538461538462}, {'ticker': 'CX', 'exDate': '2012-03-26', 'paymentDate': '2012-03-26', 'ratio': 0.961538461538462}, {'ticker': 'CX', 'exDate': '2009-05-28', 'paymentDate': '2009-05-28', 'ratio': 0.961538461538462}, {'ticker': 'CX', 'exDate': '2006-07-24', 'paymentDate': '2006-07-24', 'ratio': 0.5}, {'ticker': 'CX', 'exDate': '1999-09-21', 'paymentDate': '1999-09-21', 'ratio': 0.3333333333333333}]"
+618,SHLX,[]
+619,EVGN,"[{'ticker': 'EVGN', 'exDate': '2013-11-19', 'paymentDate': '2013-11-19', 'ratio': 2}]"
+620,ORI,"[{'ticker': 'ORI', 'exDate': '2006-01-03', 'paymentDate': '2006-01-03', 'ratio': 0.8}, {'ticker': 'ORI', 'exDate': '2003-12-31', 'paymentDate': '2003-12-31', 'ratio': 0.6666666666666666}, {'ticker': 'ORI', 'exDate': '1998-05-05', 'paymentDate': '1998-05-05', 'ratio': 0.6666666666666666}]"
+621,IGT,"[{'ticker': 'IGT', 'exDate': '2003-07-03', 'paymentDate': '2003-07-03', 'ratio': 0.25}]"
+622,CIM,"[{'ticker': 'CIM', 'exDate': '2015-04-05', 'paymentDate': '2015-04-06', 'declaredDate': '2015-04-06', 'ratio': 5, 'tofactor': 5, 'forfactor': 1}]"
+623,ITUB,"[{'ticker': 'ITUB', 'exDate': '2018-11-28', 'paymentDate': '2018-11-27', 'ratio': 0.6666666666666666, 'tofactor': 2, 'forfactor': 3}, {'ticker': 'ITUB', 'exDate': '2016-10-18', 'paymentDate': '2016-10-25', 'declaredDate': '2016-10-03', 'ratio': 0.9090909090909091, 'tofactor': 100, 'forfactor': 110}, {'ticker': 'ITUB', 'exDate': '2015-07-14', 'paymentDate': '2015-07-21', 'ratio': 0.9090909090909091, 'tofactor': 100, 'forfactor': 110}, {'ticker': 'ITUB', 'exDate': '2014-06-06', 'paymentDate': '2014-06-12', 'declaredDate': '2014-05-27', 'ratio': 0.9090909090909091, 'tofactor': 100, 'forfactor': 110}, {'ticker': 'ITUB', 'exDate': '2013-05-21', 'paymentDate': '2013-05-21', 'ratio': 0.9090909090909091}, {'ticker': 'ITUB', 'exDate': '2008-06-10', 'paymentDate': '2008-06-10', 'ratio': 0.8}, {'ticker': 'ITUB', 'exDate': '2007-10-09', 'paymentDate': '2007-10-09', 'ratio': 0.5}, {'ticker': 'ITUB', 'exDate': '2005-10-07', 'paymentDate': '2005-10-07', 'ratio': 0.2}]"
+624,IZEA,"[{'ticker': 'IZEA', 'exDate': '2016-01-11', 'paymentDate': '2016-01-11', 'declaredDate': '2016-01-11', 'ratio': 20, 'tofactor': 20, 'forfactor': 1}, {'ticker': 'IZEA', 'exDate': '2012-08-02', 'paymentDate': '2012-08-02', 'ratio': 40}]"
+625,SLDB,[]
+626,FIII,[]
+627,EURN,[]
+628,AREC,"[{'ticker': 'AREC', 'exDate': '2017-05-24', 'paymentDate': '2017-05-24', 'declaredDate': '2017-05-24', 'ratio': 30, 'tofactor': 30, 'forfactor': 1}]"
+629,DTIL,[]
+630,NMRK,[]
+631,EQOS,[]
+632,PBF,[]
+633,TRIL,[]
+634,CAAS,[]
+635,CRNT,[]
+636,SSRM,[]
+637,RMO,[]
+638,BCDA,"[{'ticker': 'BCDA', 'exDate': '2019-06-06', 'paymentDate': '2019-06-06', 'declaredDate': '2019-06-06', 'ratio': 9, 'tofactor': 9, 'forfactor': 1}, {'ticker': 'BCDA', 'exDate': '2017-11-03', 'paymentDate': '2017-11-03', 'declaredDate': '2017-11-03', 'ratio': 12, 'tofactor': 12, 'forfactor': 1}, {'ticker': 'BCDA', 'exDate': '2008-03-14', 'paymentDate': '2008-03-14', 'ratio': 10}, {'ticker': 'BCDA', 'exDate': '2004-01-06', 'paymentDate': '2004-01-06', 'ratio': 0.16666666666666666}, {'ticker': 'BCDA', 'exDate': '2001-08-23', 'paymentDate': '2001-08-23', 'ratio': 3.000030000300003}]"
+639,IPV,[]
+640,SPWH,[]
+641,APRE,"[{'ticker': 'APRE', 'exDate': '2018-12-27', 'paymentDate': '2018-12-27', 'declaredDate': '2018-12-27', 'ratio': 1000, 'tofactor': 1000, 'forfactor': 1}]"
+642,KEY,"[{'ticker': 'KEY', 'exDate': '1998-03-09', 'paymentDate': '1998-03-09', 'ratio': 0.5}]"
+643,BOX,[]
+644,SURF,[]
+645,LX,[]
+646,LIZI,[]
+647,ETM,[]
+648,SGMO,[]
+649,LADR,[]
+650,LC,"[{'ticker': 'LC', 'exDate': '2019-07-08', 'paymentDate': '2019-07-08', 'declaredDate': '2019-07-08', 'ratio': 5, 'tofactor': 5, 'forfactor': 1}]"
+651,GTEC,[]
+652,RVP,[]
+653,FHN,"[{'ticker': 'FHN', 'exDate': '2009-09-08', 'paymentDate': '2009-09-08', 'ratio': 0.984348853233586}, {'ticker': 'FHN', 'exDate': '2008-09-09', 'paymentDate': '2008-09-09', 'ratio': 0.970308558121483}, {'ticker': 'FHN', 'exDate': '1998-02-23', 'paymentDate': '1998-02-23', 'ratio': 0.5}]"
+654,YEXT,[]
+655,CERS,[]
+656,HBAN,"[{'ticker': 'HBAN', 'exDate': '2000-07-11', 'paymentDate': '2000-07-11', 'ratio': 0.909090909090909}, {'ticker': 'HBAN', 'exDate': '1999-07-11', 'paymentDate': '1999-07-11', 'ratio': 0.909090909090909}, {'ticker': 'HBAN', 'exDate': '1998-07-12', 'paymentDate': '1998-07-12', 'ratio': 0.909090909090909}]"
+657,GIX,[]
+658,YRCW,"[{'ticker': 'YRCW', 'exDate': '2011-12-02', 'paymentDate': '2011-12-02', 'ratio': 300.3003003003003}, {'ticker': 'YRCW', 'exDate': '2010-10-01', 'paymentDate': '2010-10-01', 'ratio': 25}]"
+659,IPOD,[]
+660,CVE,[]
+661,CGRO,[]
+662,EQX,[]
+663,PHYS,[]
+664,ASX,"[{'ticker': 'ASX', 'exDate': '2010-07-26', 'paymentDate': '2010-07-26', 'ratio': 0.917431192660551}, {'ticker': 'ASX', 'exDate': '2008-08-13', 'paymentDate': '2008-08-13', 'ratio': 0.9718172983479106}, {'ticker': 'ASX', 'exDate': '2007-08-20', 'paymentDate': '2007-08-20', 'ratio': 0.8711560240439064}, {'ticker': 'ASX', 'exDate': '2005-09-07', 'paymentDate': '2005-09-07', 'ratio': 0.9092562284051645}, {'ticker': 'ASX', 'exDate': '2004-08-25', 'paymentDate': '2004-08-25', 'ratio': 0.9457159069415548}, {'ticker': 'ASX', 'exDate': '2003-08-22', 'paymentDate': '2003-08-22', 'ratio': 0.9090909090909091}, {'ticker': 'ASX', 'exDate': '2001-07-17', 'paymentDate': '2001-07-17', 'ratio': 0.8547008547008548}]"
+665,XNET,[]
+666,WBAI,[]
+667,MFGP,"[{'ticker': 'MFGP', 'exDate': '2019-04-30', 'paymentDate': '2019-04-30', 'declaredDate': '2019-04-30', 'ratio': 1, 'tofactor': 1, 'forfactor': 1}]"
+668,ARCC,[]
+669,RF,"[{'ticker': 'RF', 'exDate': '2004-07-01', 'paymentDate': '2004-07-01', 'ratio': 0.8097165991902834}]"
+670,PGEN,[]
+671,CYH,[]
+672,FOLD,[]
+673,PSLV,[]
+674,GILT,"[{'ticker': 'GILT', 'exDate': '2003-04-16', 'paymentDate': '2003-04-16', 'ratio': 20}]"
+675,INN,[]
+676,HRB,"[{'ticker': 'HRB', 'exDate': '2005-08-23', 'paymentDate': '2005-08-23', 'ratio': 0.5}, {'ticker': 'HRB', 'exDate': '2001-08-02', 'paymentDate': '2001-08-02', 'ratio': 0.5}]"
+677,ETRN,[]
+678,ENBL,[]
+679,ANGI,[]
+680,KDMN,[]
+681,TAK,[]
+682,WES,[]
+683,ACY,[]
+684,INFI,"[{'ticker': 'INFI', 'exDate': '2006-09-13', 'paymentDate': '2006-09-13', 'ratio': 4}]"
+685,DB,[]
+686,FOSL,"[{'ticker': 'FOSL', 'exDate': '2004-04-12', 'paymentDate': '2004-04-12', 'ratio': 0.6666666666666666}, {'ticker': 'FOSL', 'exDate': '2002-06-10', 'paymentDate': '2002-06-10', 'ratio': 0.6666666666666666}, {'ticker': 'FOSL', 'exDate': '1999-08-18', 'paymentDate': '1999-08-18', 'ratio': 0.6666666666666666}, {'ticker': 'FOSL', 'exDate': '1998-04-09', 'paymentDate': '1998-04-09', 'ratio': 0.6666666666666666}]"
+687,AUPH,[]
+688,GOCO,[]
+689,LMNL,[]
+690,TCS,[]
+691,KALA,[]
+692,KIM,"[{'ticker': 'KIM', 'exDate': '2005-08-24', 'paymentDate': '2005-08-24', 'ratio': 0.5}, {'ticker': 'KIM', 'exDate': '2001-12-24', 'paymentDate': '2001-12-24', 'ratio': 0.6666666666666666}]"
+693,SLCA,[]
+694,LTRPA,[]
+695,CLA,[]
+696,OCUL,[]
+697,SNOA,"[{'ticker': 'SNOA', 'exDate': '2019-06-20', 'paymentDate': '2019-06-20', 'declaredDate': '2019-06-20', 'ratio': 9, 'tofactor': 9, 'forfactor': 1}, {'ticker': 'SNOA', 'exDate': '2013-04-01', 'paymentDate': '2013-04-01', 'ratio': 6.999860002799944}]"
+698,FUSE,[]
+699,GNPX,[]
+700,AMTX,[]
+701,TRIT,[]
+702,FTI,"[{'ticker': 'FTI', 'exDate': '2011-04-01', 'paymentDate': '2011-04-01', 'ratio': 0.5}, {'ticker': 'FTI', 'exDate': '2007-09-04', 'paymentDate': '2007-09-04', 'ratio': 0.5}]"
+703,CRDF,[]
+704,INFN,[]
+705,GOL,"[{'ticker': 'GOL', 'exDate': '2017-11-22', 'paymentDate': '2017-11-21', 'declaredDate': '2017-11-10', 'ratio': 0.4, 'tofactor': 2, 'forfactor': 5}, {'ticker': 'GOL', 'exDate': '2017-05-02', 'paymentDate': '2017-05-01', 'ratio': 0.5, 'tofactor': 1, 'forfactor': 2}, {'ticker': 'GOL', 'exDate': '2016-02-26', 'paymentDate': '2016-02-26', 'declaredDate': '2016-02-26', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}, {'ticker': 'GOL', 'exDate': '2005-12-13', 'paymentDate': '2005-12-13', 'ratio': 0.5}]"
+706,GOVX,"[{'ticker': 'GOVX', 'exDate': '2020-01-24', 'paymentDate': '2020-01-24', 'declaredDate': '2020-01-24', 'ratio': 2000, 'tofactor': 2000, 'forfactor': 1}, {'ticker': 'GOVX', 'exDate': '2020-01-15', 'paymentDate': '2020-01-15', 'declaredDate': '2020-01-15', 'ratio': 2000, 'tofactor': 2000, 'forfactor': 1}, {'ticker': 'GOVX', 'exDate': '2019-05-02', 'paymentDate': '2019-05-02', 'declaredDate': '2019-05-02', 'ratio': 500, 'tofactor': 500, 'forfactor': 1}, {'ticker': 'GOVX', 'exDate': '2010-04-28', 'paymentDate': '2010-04-28', 'ratio': 50}]"
+707,PBI,"[{'ticker': 'PBI', 'exDate': '1998-01-20', 'paymentDate': '1998-01-20', 'ratio': 0.5}]"
+708,KPTI,[]
+709,LU,"[{'ticker': 'LU', 'exDate': '1999-04-05', 'paymentDate': '1999-04-05', 'ratio': 0.5}, {'ticker': 'LU', 'exDate': '1998-04-02', 'paymentDate': '1998-04-02', 'ratio': 0.5}]"
+710,VIAV,"[{'ticker': 'VIAV', 'exDate': '2006-10-17', 'paymentDate': '2006-10-17', 'ratio': 8}, {'ticker': 'VIAV', 'exDate': '2000-03-13', 'paymentDate': '2000-03-13', 'ratio': 0.5}, {'ticker': 'VIAV', 'exDate': '1999-12-30', 'paymentDate': '1999-12-30', 'ratio': 0.5}, {'ticker': 'VIAV', 'exDate': '1999-07-27', 'paymentDate': '1999-07-27', 'ratio': 0.5}]"
+711,EIGI,[]
+712,ATI,"[{'ticker': 'ATI', 'exDate': '1999-12-02', 'paymentDate': '1999-12-02', 'ratio': 2}, {'ticker': 'ATI', 'exDate': '1999-11-29', 'paymentDate': '1999-11-29', 'ratio': 2}]"
+713,RUBY,[]
+714,OSUR,[]
+715,CRK,[]
+716,DBI,"[{'ticker': 'DBI', 'exDate': '2013-11-04', 'paymentDate': '2013-11-04', 'ratio': 0.5}]"
+717,OCX,[]
+718,GSKY,[]
+719,ANPC,[]
+720,HST,"[{'ticker': 'HST', 'exDate': '2009-11-03', 'paymentDate': '2009-11-03', 'ratio': 0.978952520802741}]"
+721,SID,"[{'ticker': 'SID', 'exDate': '2010-04-07', 'paymentDate': '2010-04-07', 'ratio': 0.5}, {'ticker': 'SID', 'exDate': '2008-02-11', 'paymentDate': '2008-02-11', 'ratio': 0.3333333333333333}, {'ticker': 'SID', 'exDate': '2004-06-10', 'paymentDate': '2004-06-10', 'ratio': 0.25}]"
+722,CHX,[]
+723,IMMR,[]
+724,EQT,"[{'ticker': 'EQT', 'exDate': '2005-09-02', 'paymentDate': '2005-09-02', 'ratio': 0.5}, {'ticker': 'EQT', 'exDate': '2001-06-12', 'paymentDate': '2001-06-12', 'ratio': 0.5}]"
+725,VG,[]
+726,SWCH,[]
+727,SBSW,[]
+728,BBVA,"[{'ticker': 'BBVA', 'exDate': '2012-04-10', 'paymentDate': '2012-04-10', 'ratio': 0.979166666666667}, {'ticker': 'BBVA', 'exDate': '2011-03-28', 'paymentDate': '2011-03-28', 'ratio': 0.983333333333333}, {'ticker': 'BBVA', 'exDate': '2009-04-06', 'paymentDate': '2009-04-06', 'ratio': 0.984155102844208}, {'ticker': 'BBVA', 'exDate': '1998-07-14', 'paymentDate': '1998-07-14', 'ratio': 0.3333333333333333}]"
+729,JG,[]
+730,VRAY,[]
+731,CXW,"[{'ticker': 'CXW', 'exDate': '2007-07-09', 'paymentDate': '2007-07-09', 'ratio': 0.5}, {'ticker': 'CXW', 'exDate': '2006-09-14', 'paymentDate': '2006-09-14', 'ratio': 0.6666666666666666}, {'ticker': 'CXW', 'exDate': '2001-05-18', 'paymentDate': '2001-05-18', 'ratio': 10}]"
+732,SVC,[]
+733,QELL,[]
+734,QLI,[]
+735,TALO,[]
+736,NG,[]
+737,NPA,[]
+738,HRTX,"[{'ticker': 'HRTX', 'exDate': '2007-05-25', 'paymentDate': '2007-05-25', 'ratio': 4}]"
+739,MGY,[]
+740,OII,"[{'ticker': 'OII', 'exDate': '2011-06-13', 'paymentDate': '2011-06-13', 'ratio': 0.5}, {'ticker': 'OII', 'exDate': '2006-06-19', 'paymentDate': '2006-06-19', 'ratio': 0.5}]"
+741,SOGO,[]
+742,SBRA,"[{'ticker': 'SBRA', 'exDate': '2010-11-16', 'paymentDate': '2010-11-16', 'ratio': 3.000030000300003}]"
+743,MBT,"[{'ticker': 'MBT', 'exDate': '2010-05-03', 'paymentDate': '2010-05-03', 'ratio': 0.4}, {'ticker': 'MBT', 'exDate': '2005-01-03', 'paymentDate': '2005-01-03', 'ratio': 0.25}]"
+744,VOD,"[{'ticker': 'VOD', 'exDate': '2014-02-24', 'paymentDate': '2014-02-24', 'declaredDate': '2014-02-24', 'ratio': 1.8333333333333333, 'tofactor': 11, 'forfactor': 6}, {'ticker': 'VOD', 'exDate': '2006-07-31', 'paymentDate': '2006-07-31', 'ratio': 1.1428571428571428}, {'ticker': 'VOD', 'exDate': '2006-07-28', 'paymentDate': '2006-07-28', 'ratio': 1.1428571428571428}, {'ticker': 'VOD', 'exDate': '1999-10-04', 'paymentDate': '1999-10-04', 'ratio': 0.2}]"
+745,ONCT,[]
+746,KAR,[]
+747,CCX,[]
+748,BKD,[]
+749,CCJ,"[{'ticker': 'CCJ', 'exDate': '2006-02-23', 'paymentDate': '2006-02-23', 'ratio': 0.5}, {'ticker': 'CCJ', 'exDate': '2005-01-07', 'paymentDate': '2005-01-07', 'ratio': 0.3333333333333333}]"
+750,COG,"[{'ticker': 'COG', 'exDate': '2013-08-15', 'paymentDate': '2013-08-15', 'ratio': 0.5}, {'ticker': 'COG', 'exDate': '2012-01-26', 'paymentDate': '2012-01-26', 'ratio': 0.5}, {'ticker': 'COG', 'exDate': '2007-04-02', 'paymentDate': '2007-04-02', 'ratio': 0.5}, {'ticker': 'COG', 'exDate': '2005-04-01', 'paymentDate': '2005-04-01', 'ratio': 0.6666666666666666}]"
+751,UNIT,[]
+752,CNHI,[]
+753,PTEN,"[{'ticker': 'PTEN', 'exDate': '2004-07-01', 'paymentDate': '2004-07-01', 'ratio': 0.5}, {'ticker': 'PTEN', 'exDate': '1998-01-26', 'paymentDate': '1998-01-26', 'ratio': 0.5}]"
+754,ESRT,[]
+755,MDXG,"[{'ticker': 'MDXG', 'exDate': '2008-04-02', 'paymentDate': '2008-04-02', 'ratio': 3.0864197530864197}]"
+756,QRTEA,[]
+757,EXTR,"[{'ticker': 'EXTR', 'exDate': '2000-08-25', 'paymentDate': '2000-08-25', 'ratio': 0.5}]"
+758,INAQ,[]
+759,MPLN,[]
+760,TV,"[{'ticker': 'TV', 'exDate': '2006-03-22', 'paymentDate': '2006-03-22', 'ratio': 0.25}]"
+761,STIC,[]
+762,GPK,"[{'ticker': 'GPK', 'exDate': '2000-01-03', 'paymentDate': '2000-01-03', 'ratio': 0.5555555555555556}]"
+763,FLEX,"[{'ticker': 'FLEX', 'exDate': '2000-10-17', 'paymentDate': '2000-10-17', 'ratio': 0.5}, {'ticker': 'FLEX', 'exDate': '1999-12-23', 'paymentDate': '1999-12-23', 'ratio': 0.5}, {'ticker': 'FLEX', 'exDate': '1999-01-12', 'paymentDate': '1999-01-12', 'ratio': 0.5}]"
+764,ARI,[]
+765,BDN,[]
+766,YQ,[]
+767,IBN,"[{'ticker': 'IBN', 'exDate': '2017-06-19', 'paymentDate': '2017-06-19', 'declaredDate': '2017-06-05', 'ratio': 0.9090909090909091, 'tofactor': 100, 'forfactor': 110}, {'ticker': 'IBN', 'exDate': '2014-12-09', 'paymentDate': '2014-12-08', 'ratio': 0.2, 'tofactor': 1, 'forfactor': 5}]"
+768,GSAH,[]
+769,RHE,"[{'ticker': 'RHE', 'exDate': '2019-01-02', 'paymentDate': '2019-01-02', 'declaredDate': '2019-01-02', 'ratio': 12, 'tofactor': 12, 'forfactor': 1}, {'ticker': 'RHE', 'exDate': '2012-10-03', 'paymentDate': '2012-10-03', 'ratio': 0.9523809523809523}, {'ticker': 'RHE', 'exDate': '2011-09-28', 'paymentDate': '2011-09-28', 'ratio': 0.9523809523809523}, {'ticker': 'RHE', 'exDate': '2010-09-28', 'paymentDate': '2010-09-28', 'ratio': 0.9523809523809523}]"
+770,MDRX,[]
+771,RLGY,[]
+772,NOV,"[{'ticker': 'NOV', 'exDate': '2007-10-01', 'paymentDate': '2007-10-01', 'ratio': 0.5}]"
+773,EAF,[]
+774,APWC,[]
+775,AMKR,[]
+776,CNX,"[{'ticker': 'CNX', 'exDate': '2006-06-01', 'paymentDate': '2006-06-01', 'ratio': 0.5}]"
+777,AROC,[]
+778,PIPP,[]
+779,ASMB,[]
+780,DOC,[]
+781,ATNF,[]
+782,WIT,"[{'ticker': 'WIT', 'exDate': '2019-03-15', 'paymentDate': '2019-03-14', 'ratio': 0.75, 'tofactor': 3, 'forfactor': 4}, {'ticker': 'WIT', 'exDate': '2017-06-22', 'paymentDate': '2017-06-21', 'ratio': 0.5, 'tofactor': 1, 'forfactor': 2}, {'ticker': 'WIT', 'exDate': '2013-04-08', 'paymentDate': '2013-04-08', 'ratio': 0.892060660124888}, {'ticker': 'WIT', 'exDate': '2010-06-23', 'paymentDate': '2010-06-23', 'ratio': 0.5999988000023999}, {'ticker': 'WIT', 'exDate': '2005-09-02', 'paymentDate': '2005-09-02', 'ratio': 0.5}, {'ticker': 'WIT', 'exDate': '2004-07-02', 'paymentDate': '2004-07-02', 'ratio': 0.3333333333333333}]"
+783,AACQ,[]
+784,CFII,[]
+785,ADVM,[]
+786,ZIOP,"[{'ticker': 'ZIOP', 'exDate': '2005-08-24', 'paymentDate': '2005-08-24', 'ratio': 40}]"
+787,CGEN,[]
+788,PSAC,[]
+789,AJAX,[]
+790,ORCC,[]
+791,TECK,"[{'ticker': 'TECK', 'exDate': '2007-05-11', 'paymentDate': '2007-05-11', 'ratio': 0.5}]"
+792,NYCB,"[{'ticker': 'NYCB', 'exDate': '2004-02-18', 'paymentDate': '2004-02-18', 'ratio': 0.7500018750046875}, {'ticker': 'NYCB', 'exDate': '2003-05-22', 'paymentDate': '2003-05-22', 'ratio': 0.7500018750046875}, {'ticker': 'NYCB', 'exDate': '2001-09-21', 'paymentDate': '2001-09-21', 'ratio': 0.6666666666666666}, {'ticker': 'NYCB', 'exDate': '2001-03-30', 'paymentDate': '2001-03-30', 'ratio': 0.6666666666666666}, {'ticker': 'NYCB', 'exDate': '1998-09-30', 'paymentDate': '1998-09-30', 'ratio': 0.6666666666666666}]"
+793,FSRV,[]
+794,ING,"[{'ticker': 'ING', 'exDate': '2001-07-13', 'paymentDate': '2001-07-13', 'ratio': 0.5}]"
+795,BRX,[]
+796,KYN,[]
+797,ICLK,[]
+798,TROX,"[{'ticker': 'TROX', 'exDate': '2012-07-26', 'paymentDate': '2012-07-26', 'ratio': 0.2}]"
+799,VIRI,[]
+800,CYTH,[]
+801,GLNG,[]
+802,KOSS,"[{'ticker': 'KOSS', 'exDate': '2009-12-02', 'paymentDate': '2009-12-02', 'ratio': 0.5}, {'ticker': 'KOSS', 'exDate': '2001-11-06', 'paymentDate': '2001-11-06', 'ratio': 0.5}]"
+803,AXL,[]
+804,UBS,"[{'ticker': 'UBS', 'exDate': '2006-07-09', 'paymentDate': '2006-07-09', 'ratio': 0.5}, {'ticker': 'UBS', 'exDate': '2001-07-15', 'paymentDate': '2001-07-15', 'ratio': 0.333333333333333}]"
+805,KOPN,"[{'ticker': 'KOPN', 'exDate': '2000-07-13', 'paymentDate': '2000-07-13', 'ratio': 0.5}, {'ticker': 'KOPN', 'exDate': '1999-12-30', 'paymentDate': '1999-12-30', 'ratio': 0.5}]"
+806,NCZ,[]
+807,EQNR,[]
+808,AFMD,[]
+809,EPZM,[]
+810,WPF,[]
+811,MFC,"[{'ticker': 'MFC', 'exDate': '2006-06-05', 'paymentDate': '2006-06-05', 'ratio': 0.5}]"
+812,PVG,[]
+813,CLVR,[]
+814,EXPC,[]
+815,OI,[]
+816,MACK,"[{'ticker': 'MACK', 'exDate': '2017-09-06', 'paymentDate': '2017-09-06', 'declaredDate': '2017-09-06', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}]"
+817,RLJ,[]
+818,TGNA,[]
+819,SBH,[]
+820,SLM,"[{'ticker': 'SLM', 'exDate': '2003-06-23', 'paymentDate': '2003-06-23', 'ratio': 0.3333333333333333}, {'ticker': 'SLM', 'exDate': '1998-01-05', 'paymentDate': '1998-01-05', 'ratio': 0.2857142857142857}]"
+821,PAGP,"[{'ticker': 'PAGP', 'exDate': '2016-11-16', 'paymentDate': '2016-11-16', 'declaredDate': '2016-11-16', 'ratio': 2, 'tofactor': 2, 'forfactor': 1}, {'ticker': 'PAGP', 'exDate': '2016-11-15', 'paymentDate': '2016-11-15', 'declaredDate': '2016-11-15', 'ratio': 2, 'tofactor': 2, 'forfactor': 1}]"
+822,SMFG,"[{'ticker': 'SMFG', 'exDate': '2010-10-31', 'paymentDate': '2010-10-31', 'ratio': 2}]"
+823,SFL,[]
+824,MTG,[]
+825,GBR,"[{'ticker': 'GBR', 'exDate': '2003-10-29', 'paymentDate': '2003-10-29', 'ratio': 0.5}, {'ticker': 'GBR', 'exDate': '2002-02-05', 'paymentDate': '2002-02-05', 'ratio': 0.8}, {'ticker': 'GBR', 'exDate': '2001-12-03', 'paymentDate': '2001-12-03', 'ratio': 25}]"
+826,COMM,[]
+827,STAY,[]
+828,HBM,[]
+829,MLCO,[]
+830,CS,"[{'ticker': 'CS', 'exDate': '2013-04-30', 'paymentDate': '2013-04-30', 'ratio': 0.9765625}]"
+831,VLY,"[{'ticker': 'VLY', 'exDate': '2012-05-09', 'paymentDate': '2012-05-09', 'ratio': 0.9523809523809523}, {'ticker': 'VLY', 'exDate': '2011-05-04', 'paymentDate': '2011-05-04', 'ratio': 0.9523809523809523}, {'ticker': 'VLY', 'exDate': '2010-05-05', 'paymentDate': '2010-05-05', 'ratio': 0.9523809523809523}, {'ticker': 'VLY', 'exDate': '2009-05-06', 'paymentDate': '2009-05-06', 'ratio': 0.9523809523809523}, {'ticker': 'VLY', 'exDate': '2008-05-07', 'paymentDate': '2008-05-07', 'ratio': 0.9523809523809523}, {'ticker': 'VLY', 'exDate': '2007-05-09', 'paymentDate': '2007-05-09', 'ratio': 0.9523809523809523}, {'ticker': 'VLY', 'exDate': '2006-05-04', 'paymentDate': '2006-05-04', 'ratio': 0.9523809523809523}, {'ticker': 'VLY', 'exDate': '2005-05-04', 'paymentDate': '2005-05-04', 'ratio': 0.9523809523809523}, {'ticker': 'VLY', 'exDate': '2004-04-28', 'paymentDate': '2004-04-28', 'ratio': 0.952380952380952}, {'ticker': 'VLY', 'exDate': '2003-04-30', 'paymentDate': '2003-04-30', 'ratio': 0.9523809523809523}, {'ticker': 'VLY', 'exDate': '2002-05-20', 'paymentDate': '2002-05-20', 'ratio': 0.8}, {'ticker': 'VLY', 'exDate': '2001-05-02', 'paymentDate': '2001-05-02', 'ratio': 0.9523809523809523}, {'ticker': 'VLY', 'exDate': '2000-05-03', 'paymentDate': '2000-05-03', 'ratio': 0.9523809523809523}, {'ticker': 'VLY', 'exDate': '1999-05-05', 'paymentDate': '1999-05-05', 'ratio': 0.9523809523809523}, {'ticker': 'VLY', 'exDate': '1998-05-19', 'paymentDate': '1998-05-19', 'ratio': 0.8}]"
+832,FTOC,[]
+833,JWS,[]
+834,SHO,[]
+835,DRH,[]
+836,TWNK,[]
+837,TS,"[{'ticker': 'TS', 'exDate': '2006-04-27', 'paymentDate': '2006-04-27', 'ratio': 0.2}]"
+838,IRWD,[]
+839,DNOW,[]
+840,WBT,[]
+841,SITC,"[{'ticker': 'SITC', 'exDate': '1998-08-04', 'paymentDate': '1998-08-04', 'ratio': 0.5}]"
+842,HEC,[]
+843,PGRE,[]
+844,ISBC,[]
+845,RPAI,[]
+846,ZNTE,[]
+847,AACG,[]
+848,SVFAU,[]
+849,CHRS,[]
+850,BVN,"[{'ticker': 'BVN', 'exDate': '2008-07-23', 'paymentDate': '2008-07-23', 'ratio': 0.5}, {'ticker': 'BVN', 'exDate': '2003-11-13', 'paymentDate': '2003-11-13', 'ratio': 0.5}]"
+851,APG,[]
+852,UMPQ,[]
+853,FBP,"[{'ticker': 'FBP', 'exDate': '2011-01-07', 'paymentDate': '2011-01-07', 'ratio': 14.999250037498127}, {'ticker': 'FBP', 'exDate': '2005-07-01', 'paymentDate': '2005-07-01', 'ratio': 0.5}, {'ticker': 'FBP', 'exDate': '2002-10-01', 'paymentDate': '2002-10-01', 'ratio': 0.6666666666666666}, {'ticker': 'FBP', 'exDate': '1998-06-01', 'paymentDate': '1998-06-01', 'ratio': 0.5}]"
+854,EC,[]
+855,BSBR,[]
+856,AMX,"[{'ticker': 'AMX', 'exDate': '2011-07-01', 'paymentDate': '2011-07-01', 'ratio': 0.5}, {'ticker': 'AMX', 'exDate': '2005-07-21', 'paymentDate': '2005-07-21', 'ratio': 0.3333333333333333}]"
+857,FNB,"[{'ticker': 'FNB', 'exDate': '2003-05-12', 'paymentDate': '2003-05-12', 'ratio': 0.952380952380952}, {'ticker': 'FNB', 'exDate': '2002-05-14', 'paymentDate': '2002-05-14', 'ratio': 0.952380952380952}, {'ticker': 'FNB', 'exDate': '2001-04-30', 'paymentDate': '2001-04-30', 'ratio': 0.952380952380952}, {'ticker': 'FNB', 'exDate': '2000-04-25', 'paymentDate': '2000-04-25', 'ratio': 0.952380952380952}, {'ticker': 'FNB', 'exDate': '1999-05-03', 'paymentDate': '1999-05-03', 'ratio': 0.952380952380952}, {'ticker': 'FNB', 'exDate': '1998-04-15', 'paymentDate': '1998-04-15', 'ratio': 0.952380952380952}]"
+858,VSPR,[]
+859,EBC,[]
+860,TTMI,[]
+861,SBS,"[{'ticker': 'SBS', 'exDate': '2013-04-30', 'paymentDate': '2013-04-30', 'ratio': 0.3333333333333333}, {'ticker': 'SBS', 'exDate': '2013-01-24', 'paymentDate': '2013-01-24', 'ratio': 0.5}]"
+862,CADE,[]
+863,UE,[]
+864,PRMW,[]
+865,AAME,[]
+866,VIV,[]
+867,LXP,[]
+868,ESI,[]
+869,BPFH,[]
+870,ROIC,[]
+871,AGCB,[]
+872,STLA,[]
+873,GMBTU,[]
+874,ASB,"[{'ticker': 'ASB', 'exDate': '2004-05-13', 'paymentDate': '2004-05-13', 'ratio': 0.6666666666666666}, {'ticker': 'ASB', 'exDate': '2002-04-24', 'paymentDate': '2002-04-24', 'ratio': 0.909090909090909}, {'ticker': 'ASB', 'exDate': '2000-05-29', 'paymentDate': '2000-05-29', 'ratio': 0.909090909090909}, {'ticker': 'ASB', 'exDate': '1998-06-15', 'paymentDate': '1998-06-15', 'ratio': 0.8}]"
+875,GCMG,[]
+876,TZPSU,[]
+877,SPRQ,[]
+878,TBA,[]
+879,FINMU,[]
+880,NIO,[]
+881,DAL,[]
+882,PFE,"[{'ticker': 'PFE', 'exDate': '1999-07-01', 'paymentDate': '1999-07-01', 'ratio': 0.3333333333333333}]"
+883,T,"[{'ticker': 'T', 'exDate': '1998-03-20', 'paymentDate': '1998-03-20', 'ratio': 0.5}]"
+884,NKLA,[]
+885,CCL,"[{'ticker': 'CCL', 'exDate': '1998-06-15', 'paymentDate': '1998-06-15', 'ratio': 0.5}]"
+886,SPCE,[]
+887,XOM,"[{'ticker': 'XOM', 'exDate': '2001-07-19', 'paymentDate': '2001-07-19', 'ratio': 0.5}]"
+888,KO,"[{'ticker': 'KO', 'exDate': '2012-08-13', 'paymentDate': '2012-08-13', 'ratio': 0.5}]"
+889,LUV,"[{'ticker': 'LUV', 'exDate': '2001-02-16', 'paymentDate': '2001-02-16', 'ratio': 0.6666666666666666}, {'ticker': 'LUV', 'exDate': '1999-07-20', 'paymentDate': '1999-07-20', 'ratio': 0.6666666666666666}, {'ticker': 'LUV', 'exDate': '1998-08-21', 'paymentDate': '1998-08-21', 'ratio': 0.6666666666666666}]"
+890,WKHS,"[{'ticker': 'WKHS', 'exDate': '2015-12-11', 'paymentDate': '2015-12-11', 'declaredDate': '2015-12-11', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}]"
+891,PLTR,[]
+892,UBER,[]
+893,FCEL,"[{'ticker': 'FCEL', 'exDate': '2019-05-09', 'paymentDate': '2019-05-09', 'declaredDate': '2019-05-09', 'ratio': 12, 'tofactor': 12, 'forfactor': 1}, {'ticker': 'FCEL', 'exDate': '2015-12-04', 'paymentDate': '2015-12-04', 'declaredDate': '2015-12-04', 'ratio': 12, 'tofactor': 12, 'forfactor': 1}, {'ticker': 'FCEL', 'exDate': '2001-06-20', 'paymentDate': '2001-06-20', 'ratio': 0.5}, {'ticker': 'FCEL', 'exDate': '2000-09-14', 'paymentDate': '2000-09-14', 'ratio': 0.5}, {'ticker': 'FCEL', 'exDate': '1999-11-17', 'paymentDate': '1999-11-17', 'ratio': 0.6666666666666666}]"
+894,NCLH,[]
+895,BAC,"[{'ticker': 'BAC', 'exDate': '2004-08-30', 'paymentDate': '2004-08-30', 'ratio': 0.5}]"
+896,CGC,[]
+897,WORK,[]
+898,UAL,[]
+899,INTC,"[{'ticker': 'INTC', 'exDate': '2000-07-31', 'paymentDate': '2000-07-31', 'ratio': 0.5}, {'ticker': 'INTC', 'exDate': '1999-04-12', 'paymentDate': '1999-04-12', 'ratio': 0.5}]"
+900,TLRY,[]
+901,WFC,"[{'ticker': 'WFC', 'exDate': '2006-08-14', 'paymentDate': '2006-08-14', 'ratio': 0.5}]"
+902,VZ,"[{'ticker': 'VZ', 'exDate': '2010-07-01', 'paymentDate': '2010-07-01', 'ratio': 0.937889}, {'ticker': 'VZ', 'exDate': '2008-03-31', 'paymentDate': '2008-03-31', 'ratio': 0.99537}, {'ticker': 'VZ', 'exDate': '2006-11-19', 'paymentDate': '2006-11-19', 'ratio': 0.96334}, {'ticker': 'VZ', 'exDate': '1998-06-30', 'paymentDate': '1998-06-30', 'ratio': 0.5}]"
+903,BP,"[{'ticker': 'BP', 'exDate': '1999-10-04', 'paymentDate': '1999-10-04', 'ratio': 0.5}]"
+904,GM,[]
+905,BLNK,"[{'ticker': 'BLNK', 'exDate': '2011-03-08', 'paymentDate': '2011-03-08', 'ratio': 50}, {'ticker': 'BLNK', 'exDate': '2011-02-24', 'paymentDate': '2011-02-24', 'ratio': 50}]"
+906,SAVE,[]
+907,MARA,"[{'ticker': 'MARA', 'exDate': '2019-04-08', 'paymentDate': '2019-04-08', 'declaredDate': '2019-04-08', 'ratio': 4, 'tofactor': 4, 'forfactor': 1}, {'ticker': 'MARA', 'exDate': '2017-10-30', 'paymentDate': '2017-10-30', 'declaredDate': '2017-10-30', 'ratio': 4, 'tofactor': 4, 'forfactor': 1}, {'ticker': 'MARA', 'exDate': '2014-12-23', 'paymentDate': '2014-12-22', 'declaredDate': '2014-11-25', 'ratio': 0.5, 'tofactor': 1, 'forfactor': 2}, {'ticker': 'MARA', 'exDate': '2013-07-22', 'paymentDate': '2013-07-22', 'ratio': 13.000520020800831}]"
+908,MGM,"[{'ticker': 'MGM', 'exDate': '2005-05-19', 'paymentDate': '2005-05-19', 'ratio': 0.5}, {'ticker': 'MGM', 'exDate': '2000-02-28', 'paymentDate': '2000-02-28', 'ratio': 0.5}]"
+909,CSCO,"[{'ticker': 'CSCO', 'exDate': '2000-03-23', 'paymentDate': '2000-03-23', 'ratio': 0.5}, {'ticker': 'CSCO', 'exDate': '1999-06-22', 'paymentDate': '1999-06-22', 'ratio': 0.5}, {'ticker': 'CSCO', 'exDate': '1998-09-16', 'paymentDate': '1998-09-16', 'ratio': 0.6666666666666666}]"
+910,RKT,[]
+911,XPEV,[]
+912,LYFT,[]
+913,RIOT,"[{'ticker': 'RIOT', 'exDate': '2012-06-20', 'paymentDate': '2012-06-20', 'ratio': 5.9998800023999515}, {'ticker': 'RIOT', 'exDate': '2011-07-29', 'paymentDate': '2011-07-29', 'ratio': 5}]"
+914,TWTR,[]
+915,GME,"[{'ticker': 'GME', 'exDate': '2007-03-19', 'paymentDate': '2007-03-19', 'ratio': 0.5}]"
+916,LI,[]
+917,OXY,"[{'ticker': 'OXY', 'exDate': '2006-08-16', 'paymentDate': '2006-08-16', 'ratio': 0.5}]"
+918,AZN,"[{'ticker': 'AZN', 'exDate': '2015-07-27', 'paymentDate': '2015-07-24', 'ratio': 0.5, 'tofactor': 1, 'forfactor': 2}, {'ticker': 'AZN', 'exDate': '1998-04-08', 'paymentDate': '1998-04-08', 'ratio': 0.3333333333333333}]"
+919,PLAY,[]
+920,KR,"[{'ticker': 'KR', 'exDate': '2015-07-14', 'paymentDate': '2015-07-13', 'declaredDate': '2015-06-25', 'ratio': 0.5, 'tofactor': 1, 'forfactor': 2}, {'ticker': 'KR', 'exDate': '1999-06-29', 'paymentDate': '1999-06-29', 'ratio': 0.5}]"
+921,MO,[]
+922,GOLD,[]
+923,QS,[]
+924,LAC,[]
+925,SBE,[]
+926,SUNW,"[{'ticker': 'SUNW', 'exDate': '2019-08-30', 'paymentDate': '2019-08-30', 'declaredDate': '2019-08-30', 'ratio': 7, 'tofactor': 7, 'forfactor': 1}, {'ticker': 'SUNW', 'exDate': '2010-10-24', 'paymentDate': '2010-10-24', 'ratio': 5}]"
+927,HAL,"[{'ticker': 'HAL', 'exDate': '2006-07-17', 'paymentDate': '2006-07-17', 'ratio': 0.5}]"
+928,IRM,"[{'ticker': 'IRM', 'exDate': '2007-01-03', 'paymentDate': '2007-01-03', 'ratio': 0.6666666666666666}, {'ticker': 'IRM', 'exDate': '2004-07-01', 'paymentDate': '2004-07-01', 'ratio': 0.6666666666666666}, {'ticker': 'IRM', 'exDate': '2002-01-02', 'paymentDate': '2002-01-02', 'ratio': 0.6666666666666666}, {'ticker': 'IRM', 'exDate': '1998-08-03', 'paymentDate': '1998-08-03', 'ratio': 0.6666666666666666}]"
+929,IPOE,[]
+930,CCIV,[]
+931,KHC,[]
+932,LAZR,[]
+933,FUBO,[]
+934,SPWR,"[{'ticker': 'SPWR', 'exDate': '2020-08-27', 'paymentDate': '2020-08-27', 'declaredDate': '2020-08-14', 'ratio': 0.6548788474, 'tofactor': 1000, 'forfactor': 1527}]"
+935,FUV,[]
+936,CMCSA,"[{'ticker': 'CMCSA', 'exDate': '2017-02-18', 'paymentDate': '2017-02-18', 'declaredDate': '2017-01-24', 'ratio': 0.5, 'tofactor': 1, 'forfactor': 2}, {'ticker': 'CMCSA', 'exDate': '2007-02-22', 'paymentDate': '2007-02-22', 'ratio': 0.6666666666666666}, {'ticker': 'CMCSA', 'exDate': '1999-05-05', 'paymentDate': '1999-05-05', 'ratio': 0.5}]"
+937,ALK,"[{'ticker': 'ALK', 'exDate': '2014-07-10', 'paymentDate': '2014-07-10', 'declaredDate': '2014-06-12', 'ratio': 0.5, 'tofactor': 1, 'forfactor': 2}, {'ticker': 'ALK', 'exDate': '2012-03-19', 'paymentDate': '2012-03-19', 'ratio': 0.5}]"
+938,RIDE,[]
+939,BE,[]
+940,CLSK,"[{'ticker': 'CLSK', 'exDate': '2019-12-11', 'paymentDate': '2019-12-11', 'declaredDate': '2019-12-11', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}]"
+941,BBBY,"[{'ticker': 'BBBY', 'exDate': '2000-08-14', 'paymentDate': '2000-08-14', 'ratio': 0.5}, {'ticker': 'BBBY', 'exDate': '1998-08-03', 'paymentDate': '1998-08-03', 'ratio': 0.5}]"
+942,CRSR,[]
+943,WBA,"[{'ticker': 'WBA', 'exDate': '1999-02-16', 'paymentDate': '1999-02-16', 'ratio': 0.5}]"
+944,GPS,"[{'ticker': 'GPS', 'exDate': '1999-06-22', 'paymentDate': '1999-06-22', 'ratio': 0.6666666666666666}, {'ticker': 'GPS', 'exDate': '1998-12-01', 'paymentDate': '1998-12-01', 'ratio': 0.6666666666666666}]"
+945,KSS,"[{'ticker': 'KSS', 'exDate': '2000-04-25', 'paymentDate': '2000-04-25', 'ratio': 0.5}, {'ticker': 'KSS', 'exDate': '1998-04-28', 'paymentDate': '1998-04-28', 'ratio': 0.5}]"
+946,CIIC,[]
+947,JWN,"[{'ticker': 'JWN', 'exDate': '2005-07-01', 'paymentDate': '2005-07-01', 'ratio': 0.5}, {'ticker': 'JWN', 'exDate': '1998-07-01', 'paymentDate': '1998-07-01', 'ratio': 0.5}]"
+948,DDD,"[{'ticker': 'DDD', 'exDate': '2013-02-25', 'paymentDate': '2013-02-25', 'ratio': 0.6666666666666666}, {'ticker': 'DDD', 'exDate': '2011-05-19', 'paymentDate': '2011-05-19', 'ratio': 0.5}]"
+949,MRVL,"[{'ticker': 'MRVL', 'exDate': '2006-07-25', 'paymentDate': '2006-07-25', 'ratio': 0.5}, {'ticker': 'MRVL', 'exDate': '2004-06-29', 'paymentDate': '2004-06-29', 'ratio': 0.5}]"
+950,EPD,"[{'ticker': 'EPD', 'exDate': '2014-08-22', 'paymentDate': '2014-08-21', 'declaredDate': '2014-07-15', 'ratio': 0.5, 'tofactor': 1, 'forfactor': 2}, {'ticker': 'EPD', 'exDate': '2002-05-16', 'paymentDate': '2002-05-16', 'ratio': 0.5}]"
+951,DBX,[]
+952,UPWK,[]
+953,RAD,"[{'ticker': 'RAD', 'exDate': '2019-04-22', 'paymentDate': '2019-04-22', 'declaredDate': '2019-04-22', 'ratio': 20, 'tofactor': 20, 'forfactor': 1}, {'ticker': 'RAD', 'exDate': '1998-02-03', 'paymentDate': '1998-02-03', 'ratio': 0.5}]"
+954,NVTA,[]
+955,VLDR,[]
+956,ALLY,[]
+957,IQ,[]
+958,BLDP,"[{'ticker': 'BLDP', 'exDate': '1998-06-03', 'paymentDate': '1998-06-03', 'ratio': 0.3333333333333333}]"
+959,VIAC,[]
+960,BTBT,"[{'ticker': 'BTBT', 'exDate': '2000-01-24', 'paymentDate': '2000-01-24', 'ratio': 5}, {'ticker': 'BTBT', 'exDate': '1999-03-31', 'paymentDate': '1999-03-31', 'ratio': 5}]"
+961,WMB,"[{'ticker': 'WMB', 'exDate': '2012-01-02', 'paymentDate': '2012-01-02', 'ratio': 0.8152}, {'ticker': 'WMB', 'exDate': '2001-04-23', 'paymentDate': '2001-04-23', 'ratio': 0.918}]"
+962,HOME,[]
+963,OKE,"[{'ticker': 'OKE', 'exDate': '2012-06-04', 'paymentDate': '2012-06-04', 'ratio': 0.5}, {'ticker': 'OKE', 'exDate': '2001-06-12', 'paymentDate': '2001-06-12', 'ratio': 0.5}]"
+964,AMWL,[]
+965,GDRX,[]
+966,SONO,[]
+967,WEN,[]
+968,VRM,[]
+969,NCTY,"[{'ticker': 'NCTY', 'exDate': '2020-10-19', 'paymentDate': '2020-10-19', 'declaredDate': '2020-10-19', 'ratio': 10, 'tofactor': 10, 'forfactor': 1}, {'ticker': 'NCTY', 'exDate': '2018-05-09', 'paymentDate': '2018-05-09', 'declaredDate': '2018-05-09', 'ratio': 3, 'tofactor': 3, 'forfactor': 1}]"
+970,PACB,[]
+971,LGVW,[]
+972,SPR,"[{'ticker': 'SPR', 'exDate': '2013-12-19', 'paymentDate': '2013-12-19', 'ratio': 100}, {'ticker': 'SPR', 'exDate': '2011-06-07', 'paymentDate': '2011-06-07', 'ratio': 3}]"
+973,NK,[]
+974,TTCF,[]
+975,WISH,[]
+976,GSK,[]
+977,STOR,[]
+978,DOW,[]
+979,UAA,"[{'ticker': 'UAA', 'exDate': '2012-07-10', 'paymentDate': '2012-07-10', 'ratio': 0.5}]"
+980,SOL,"[{'ticker': 'SOL', 'exDate': '2017-02-10', 'paymentDate': '2017-02-10', 'declaredDate': '2017-02-10', 'ratio': 5, 'tofactor': 5, 'forfactor': 1}]"
+981,XL,[]
+982,NLS,"[{'ticker': 'NLS', 'exDate': '2001-08-14', 'paymentDate': '2001-08-14', 'ratio': 0.6666666666666666}, {'ticker': 'NLS', 'exDate': '2001-01-16', 'paymentDate': '2001-01-16', 'ratio': 0.6666666666666666}, {'ticker': 'NLS', 'exDate': '2000-08-15', 'paymentDate': '2000-08-15', 'ratio': 0.6666666666666666}]"
+983,PSTH,[]
+984,LTHM,[]
+985,MPC,"[{'ticker': 'MPC', 'exDate': '2015-06-11', 'paymentDate': '2015-06-10', 'declaredDate': '2015-04-29', 'ratio': 0.5, 'tofactor': 1, 'forfactor': 2}]"
+986,ZI,[]
+987,FCX,"[{'ticker': 'FCX', 'exDate': '2011-02-02', 'paymentDate': '2011-02-02', 'ratio': 0.5}]"
+988,THCB,[]
+989,COP,"[{'ticker': 'COP', 'exDate': '2012-04-29', 'paymentDate': '2012-05-01', 'ratio': 0.762316558049262}, {'ticker': 'COP', 'exDate': '2005-06-02', 'paymentDate': '2005-06-02', 'ratio': 0.5}]"
+990,FEYE,[]
+991,NGA,[]
+992,MPW,[]
+993,USFD,[]
+994,USB,"[{'ticker': 'USB', 'exDate': '2001-02-26', 'paymentDate': '2001-02-26', 'ratio': 0.790513833992095}, {'ticker': 'USB', 'exDate': '1999-04-14', 'paymentDate': '1999-04-14', 'ratio': 0.3333333333333333}, {'ticker': 'USB', 'exDate': '1998-05-19', 'paymentDate': '1998-05-19', 'ratio': 0.3333333333333333}]"
+995,CARR,[]
+996,GLW,"[{'ticker': 'GLW', 'exDate': '2000-10-04', 'paymentDate': '2000-10-04', 'ratio': 0.3333333333333333}]"
+997,SLB,"[{'ticker': 'SLB', 'exDate': '2006-04-10', 'paymentDate': '2006-04-10', 'ratio': 0.5}]"
+998,MP,[]
+999,LVS,[]
+1000,MGNI,[]
+1001,LB,"[{'ticker': 'LB', 'exDate': '2000-05-31', 'paymentDate': '2000-05-31', 'ratio': 0.5}, {'ticker': 'LB', 'exDate': '1998-06-01', 'paymentDate': '1998-06-01', 'ratio': 0.9827}]"
+1002,STWD,[]
+1003,CSIQ,[]
+1004,VER,"[{'ticker': 'VER', 'exDate': '2020-12-18', 'paymentDate': '2020-12-18', 'declaredDate': '2020-12-18', 'ratio': 5, 'tofactor': 5, 'forfactor': 1}]"
+1005,BJ,[]
+1006,SNY,"[{'ticker': 'SNY', 'exDate': '2013-09-29', 'paymentDate': '2013-09-29', 'ratio': 0.2}, {'ticker': 'SNY', 'exDate': '2010-11-16', 'paymentDate': '2010-11-16', 'ratio': 0.1}]"
+1007,ENB,"[{'ticker': 'ENB', 'exDate': '2011-06-01', 'paymentDate': '2011-06-01', 'ratio': 0.5}, {'ticker': 'ENB', 'exDate': '2011-05-19', 'paymentDate': '2011-05-19', 'ratio': 0.5}, {'ticker': 'ENB', 'exDate': '2005-05-31', 'paymentDate': '2005-05-31', 'ratio': 0.5}, {'ticker': 'ENB', 'exDate': '1999-05-06', 'paymentDate': '1999-05-06', 'ratio': 0.5}]"
+1008,HUYA,[]
+1009,NLOK,[]
+1010,HPQ,"[{'ticker': 'HPQ', 'exDate': '2000-10-30', 'paymentDate': '2000-10-30', 'ratio': 0.5}]"
+1011,OPEN,[]
+1012,NIU,"[{'ticker': 'NIU', 'exDate': '2011-05-11', 'paymentDate': '2011-05-11', 'ratio': 0.05}, {'ticker': 'NIU', 'exDate': '2000-05-01', 'paymentDate': '2000-05-01', 'ratio': 5}]"
+1013,ELY,[]
+1014,MPLX,[]
+1015,IVZ,"[{'ticker': 'IVZ', 'exDate': '2007-11-01', 'paymentDate': '2007-11-01', 'ratio': 2}, {'ticker': 'IVZ', 'exDate': '2000-11-08', 'paymentDate': '2000-11-08', 'ratio': 0.4}, {'ticker': 'IVZ', 'exDate': '1998-04-27', 'paymentDate': '1998-04-27', 'ratio': 0.5}]"
+1016,DT,[]
+1017,REAL,[]
+1018,ACTC,[]
+1019,AA,"[{'ticker': 'AA', 'exDate': '2016-10-06', 'paymentDate': '2016-10-06', 'declaredDate': '2016-10-06', 'ratio': 3, 'tofactor': 3, 'forfactor': 1}, {'ticker': 'AA', 'exDate': '2000-06-11', 'paymentDate': '2000-06-11', 'ratio': 0.5}, {'ticker': 'AA', 'exDate': '1999-02-25', 'paymentDate': '1999-02-25', 'ratio': 0.5}]"
+1020,AES,"[{'ticker': 'AES', 'exDate': '2000-06-02', 'paymentDate': '2000-06-02', 'ratio': 0.5}]"
+1021,HSBC,[]
+1022,SKLZ,[]
+1023,NOVA,"[{'ticker': 'NOVA', 'exDate': '2010-06-02', 'paymentDate': '2010-06-02', 'ratio': 3.000030000300003}]"
+1024,AEO,"[{'ticker': 'AEO', 'exDate': '2006-12-19', 'paymentDate': '2006-12-19', 'ratio': 0.6666666666666666}, {'ticker': 'AEO', 'exDate': '2005-03-08', 'paymentDate': '2005-03-08', 'ratio': 0.5}, {'ticker': 'AEO', 'exDate': '2001-02-26', 'paymentDate': '2001-02-26', 'ratio': 0.6666666666666666}, {'ticker': 'AEO', 'exDate': '1999-05-04', 'paymentDate': '1999-05-04', 'ratio': 0.5}, {'ticker': 'AEO', 'exDate': '1998-05-11', 'paymentDate': '1998-05-11', 'ratio': 0.6666666666666666}, {'ticker': 'AEO', 'exDate': '1998-01-06', 'paymentDate': '1998-01-06', 'ratio': 0.6666666666666666}]"
+1025,TRIP,[]
+1026,TPR,"[{'ticker': 'TPR', 'exDate': '2005-04-05', 'paymentDate': '2005-04-05', 'ratio': 0.5}, {'ticker': 'TPR', 'exDate': '2003-10-02', 'paymentDate': '2003-10-02', 'ratio': 0.5}, {'ticker': 'TPR', 'exDate': '2002-07-05', 'paymentDate': '2002-07-05', 'ratio': 0.5}]"
+1027,UNM,[]
+1028,SYF,[]
+1029,BAM,"[{'ticker': 'BAM', 'exDate': '2020-04-02', 'paymentDate': '2020-04-01', 'declaredDate': '2020-02-12', 'ratio': 0.6666666666666666, 'tofactor': 2, 'forfactor': 3}, {'ticker': 'BAM', 'exDate': '2015-05-13', 'paymentDate': '2015-05-12', 'declaredDate': '2015-04-09', 'ratio': 0.6666666666666666, 'tofactor': 2, 'forfactor': 3}, {'ticker': 'BAM', 'exDate': '2013-04-14', 'paymentDate': '2013-04-14', 'ratio': 0.968054211035818}, {'ticker': 'BAM', 'exDate': '2012-04-30', 'paymentDate': '2012-04-30', 'ratio': 0.890149}, {'ticker': 'BAM', 'exDate': '2007-06-04', 'paymentDate': '2007-06-04', 'ratio': 0.6666666666666666}, {'ticker': 'BAM', 'exDate': '2006-04-28', 'paymentDate': '2006-04-28', 'ratio': 0.6666666666666666}, {'ticker': 'BAM', 'exDate': '2004-06-02', 'paymentDate': '2004-06-02', 'ratio': 0.6666666666666666}]"
+1030,BEN,"[{'ticker': 'BEN', 'exDate': '2013-07-26', 'paymentDate': '2013-07-26', 'ratio': 0.3333333333333333}, {'ticker': 'BEN', 'exDate': '1998-01-16', 'paymentDate': '1998-01-16', 'ratio': 0.5}]"
+1031,TAP,"[{'ticker': 'TAP', 'exDate': '2007-10-04', 'paymentDate': '2007-10-04', 'ratio': 0.5}]"
+1032,FLIR,"[{'ticker': 'FLIR', 'exDate': '2007-12-11', 'paymentDate': '2007-12-11', 'ratio': 0.5}, {'ticker': 'FLIR', 'exDate': '2005-02-03', 'paymentDate': '2005-02-03', 'ratio': 0.5}, {'ticker': 'FLIR', 'exDate': '2003-05-30', 'paymentDate': '2003-05-30', 'ratio': 0.5}]"
+1033,HOG,"[{'ticker': 'HOG', 'exDate': '2000-04-10', 'paymentDate': '2000-04-10', 'ratio': 0.5}]"
+1034,TIGR,[]
+1035,OVV,[]
+1036,VTR,[]
+1037,DM,[]
+1038,SFM,[]
+1039,AU,[]
+1040,TME,[]
+1041,CHNG,[]
+1042,XRX,"[{'ticker': 'XRX', 'exDate': '2017-06-15', 'paymentDate': '2017-06-15', 'declaredDate': '2017-06-15', 'ratio': 4, 'tofactor': 4, 'forfactor': 1}, {'ticker': 'XRX', 'exDate': '1999-02-24', 'paymentDate': '1999-02-24', 'ratio': 0.5}]"
+1043,NRG,"[{'ticker': 'NRG', 'exDate': '2007-06-01', 'paymentDate': '2007-06-01', 'ratio': 0.5}]"
+1044,CAH,"[{'ticker': 'CAH', 'exDate': '2001-04-23', 'paymentDate': '2001-04-23', 'ratio': 0.6666666666666666}, {'ticker': 'CAH', 'exDate': '1998-11-02', 'paymentDate': '1998-11-02', 'ratio': 0.6666666666666666}]"
+1045,NTNX,[]
+1046,EXEL,[]
+1047,FE,"[{'ticker': 'FE', 'exDate': '2003-04-03', 'paymentDate': '2003-04-03', 'ratio': 3}]"
+1048,GIS,"[{'ticker': 'GIS', 'exDate': '2010-06-09', 'paymentDate': '2010-06-09', 'ratio': 0.5}, {'ticker': 'GIS', 'exDate': '1999-11-09', 'paymentDate': '1999-11-09', 'ratio': 0.5}]"
+1049,CLR,"[{'ticker': 'CLR', 'exDate': '2014-09-09', 'paymentDate': '2014-09-10', 'declaredDate': '2014-08-19', 'ratio': 0.5, 'tofactor': 1, 'forfactor': 2}]"
+1050,STPK,[]
+1051,DADA,[]
+1052,TOL,"[{'ticker': 'TOL', 'exDate': '2005-07-11', 'paymentDate': '2005-07-11', 'ratio': 0.5}, {'ticker': 'TOL', 'exDate': '2002-04-01', 'paymentDate': '2002-04-01', 'ratio': 0.5}]"
+1053,WPM,[]
+1054,SCHW,"[{'ticker': 'SCHW', 'exDate': '2000-05-31', 'paymentDate': '2000-05-31', 'ratio': 0.6666666666666666}, {'ticker': 'SCHW', 'exDate': '1999-07-02', 'paymentDate': '1999-07-02', 'ratio': 0.5}, {'ticker': 'SCHW', 'exDate': '1998-12-14', 'paymentDate': '1998-12-14', 'ratio': 0.6666666666666666}]"
+1055,STM,"[{'ticker': 'STM', 'exDate': '2000-05-09', 'paymentDate': '2000-05-09', 'ratio': 0.3333333333333333}, {'ticker': 'STM', 'exDate': '1999-06-18', 'paymentDate': '1999-06-18', 'ratio': 0.5}]"
+1056,CPB,[]
+1057,AFL,"[{'ticker': 'AFL', 'exDate': '2018-03-19', 'paymentDate': '2018-03-19', 'ratio': 0.5, 'tofactor': 1, 'forfactor': 2}, {'ticker': 'AFL', 'exDate': '2018-03-16', 'paymentDate': '2018-03-16', 'ratio': 1, 'tofactor': 1, 'forfactor': 1}, {'ticker': 'AFL', 'exDate': '2001-03-19', 'paymentDate': '2001-03-19', 'ratio': 0.5}, {'ticker': 'AFL', 'exDate': '1998-06-09', 'paymentDate': '1998-06-09', 'ratio': 0.5}]"
+1058,FPRX,[]
+1059,PAAS,[]
+1060,TOT,"[{'ticker': 'TOT', 'exDate': '2006-05-23', 'paymentDate': '2006-05-23', 'ratio': 0.5}]"
+1061,VIPS,"[{'ticker': 'VIPS', 'exDate': '2014-11-04', 'paymentDate': '2014-11-03', 'declaredDate': '2014-10-20', 'ratio': 0.1, 'tofactor': 1, 'forfactor': 10}]"
+1062,TTM,[]
+1063,KDP,[]
+1064,TPX,"[{'ticker': 'TPX', 'exDate': '2020-11-24', 'paymentDate': '2020-11-23', 'ratio': 0.25, 'tofactor': 1, 'forfactor': 4}]"
+1065,MT,"[{'ticker': 'MT', 'exDate': '2017-05-22', 'paymentDate': '2017-05-22', 'declaredDate': '2017-05-22', 'ratio': 3, 'tofactor': 3, 'forfactor': 1}]"
+1066,PSTG,[]
+1067,WOOF,"[{'ticker': 'WOOF', 'exDate': '2004-08-26', 'paymentDate': '2004-08-26', 'ratio': 0.5}]"
+1068,ADM,"[{'ticker': 'ADM', 'exDate': '2001-08-29', 'paymentDate': '2001-08-29', 'ratio': 0.952380952380952}, {'ticker': 'ADM', 'exDate': '2000-08-23', 'paymentDate': '2000-08-23', 'ratio': 0.952380952380952}, {'ticker': 'ADM', 'exDate': '1999-08-18', 'paymentDate': '1999-08-18', 'ratio': 0.952380952380952}, {'ticker': 'ADM', 'exDate': '1998-08-19', 'paymentDate': '1998-08-19', 'ratio': 0.952380952380952}]"
+1069,AIG,"[{'ticker': 'AIG', 'exDate': '2009-07-01', 'paymentDate': '2009-07-01', 'ratio': 20}, {'ticker': 'AIG', 'exDate': '2000-07-31', 'paymentDate': '2000-07-31', 'ratio': 0.6666666666666666}, {'ticker': 'AIG', 'exDate': '1999-08-02', 'paymentDate': '1999-08-02', 'ratio': 0.8}, {'ticker': 'AIG', 'exDate': '1998-08-03', 'paymentDate': '1998-08-03', 'ratio': 0.6666666666666666}]"
+1070,K,[]
+1071,DXC,"[{'ticker': 'DXC', 'exDate': '1998-03-23', 'paymentDate': '1998-03-23', 'ratio': 0.5}]"
+1072,NWL,[]
+1073,PS,[]
+1074,IP,[]
+1075,ROOT,[]
+1076,WY,"[{'ticker': 'WY', 'exDate': '2010-07-19', 'paymentDate': '2010-07-19', 'ratio': 0.5}]"
+1077,CFG,[]
+1078,AVTR,[]
+1079,BTI,"[{'ticker': 'BTI', 'exDate': '2017-02-14', 'paymentDate': '2017-02-13', 'declaredDate': '2017-01-13', 'ratio': 0.5, 'tofactor': 1, 'forfactor': 2}]"
+1080,PRTS,[]
+1081,RPRX,"[{'ticker': 'RPRX', 'exDate': '2010-10-15', 'paymentDate': '2010-10-15', 'ratio': 4}]"
+1082,TGTX,"[{'ticker': 'TGTX', 'exDate': '2012-04-30', 'paymentDate': '2012-04-30', 'ratio': 56.242969628796395}, {'ticker': 'TGTX', 'exDate': '2011-07-14', 'paymentDate': '2011-07-14', 'ratio': 50}]"
+1083,EOG,"[{'ticker': 'EOG', 'exDate': '2014-04-01', 'paymentDate': '2014-03-31', 'declaredDate': '2014-02-24', 'ratio': 0.5, 'tofactor': 1, 'forfactor': 2}, {'ticker': 'EOG', 'exDate': '2005-03-02', 'paymentDate': '2005-03-02', 'ratio': 0.5}]"
+1084,BSX,"[{'ticker': 'BSX', 'exDate': '2003-11-06', 'paymentDate': '2003-11-06', 'ratio': 0.5}, {'ticker': 'BSX', 'exDate': '1998-12-01', 'paymentDate': '1998-12-01', 'ratio': 0.5}]"
+1085,PEAK,"[{'ticker': 'PEAK', 'exDate': '2004-03-01', 'paymentDate': '2004-03-01', 'ratio': 2}]"
+1086,MET,[]
+1087,ARRY,[]
+1088,ON,[]
+1089,CAG,[]
+1090,FITB,"[{'ticker': 'FITB', 'exDate': '2000-07-17', 'paymentDate': '2000-07-17', 'ratio': 0.6666666666666666}, {'ticker': 'FITB', 'exDate': '1998-04-16', 'paymentDate': '1998-04-16', 'ratio': 0.6666666666666666}]"
+1091,YALA,[]
+1092,ACRS,[]
+1093,PPL,"[{'ticker': 'PPL', 'exDate': '2005-08-25', 'paymentDate': '2005-08-25', 'ratio': 0.5}]"
+1094,EGHT,[]
+1095,CPRI,[]
+1096,HRL,"[{'ticker': 'HRL', 'exDate': '2016-02-10', 'paymentDate': '2016-02-09', 'declaredDate': '2015-11-25', 'ratio': 0.5, 'tofactor': 1, 'forfactor': 2}, {'ticker': 'HRL', 'exDate': '2011-02-15', 'paymentDate': '2011-02-15', 'ratio': 0.5}, {'ticker': 'HRL', 'exDate': '2000-02-16', 'paymentDate': '2000-02-16', 'ratio': 0.5}]"
+1097,CNQ,"[{'ticker': 'CNQ', 'exDate': '2010-06-01', 'paymentDate': '2010-06-01', 'ratio': 0.5}, {'ticker': 'CNQ', 'exDate': '2005-05-31', 'paymentDate': '2005-05-31', 'ratio': 0.5}, {'ticker': 'CNQ', 'exDate': '2004-06-01', 'paymentDate': '2004-06-01', 'ratio': 0.5}]"
+1098,BKR,[]
+1099,TRGP,[]
+1100,NUAN,[]
+1101,BHC,"[{'ticker': 'BHC', 'exDate': '2000-10-16', 'paymentDate': '2000-10-16', 'ratio': 0.5}, {'ticker': 'BHC', 'exDate': '2000-01-20', 'paymentDate': '2000-01-20', 'ratio': 0.5}]"
+1102,DISH,"[{'ticker': 'DISH', 'exDate': '2000-03-23', 'paymentDate': '2000-03-23', 'ratio': 0.5}, {'ticker': 'DISH', 'exDate': '1999-10-26', 'paymentDate': '1999-10-26', 'ratio': 0.5}, {'ticker': 'DISH', 'exDate': '1999-07-20', 'paymentDate': '1999-07-20', 'ratio': 0.5}]"
+1103,VNO,"[{'ticker': 'VNO', 'exDate': '1998-10-18', 'paymentDate': '1998-10-18', 'ratio': 0.987}]"
+1104,FOXA,[]
+1105,TFC,"[{'ticker': 'TFC', 'exDate': '1998-08-03', 'paymentDate': '1998-08-03', 'ratio': 2}]"
+1106,CNC,"[{'ticker': 'CNC', 'exDate': '2019-02-07', 'paymentDate': '2019-02-06', 'ratio': 0.5, 'tofactor': 1, 'forfactor': 2}, {'ticker': 'CNC', 'exDate': '2015-02-18', 'paymentDate': '2015-02-19', 'declaredDate': '2015-02-03', 'ratio': 0.5, 'tofactor': 1, 'forfactor': 2}, {'ticker': 'CNC', 'exDate': '2004-12-20', 'paymentDate': '2004-12-20', 'ratio': 0.5}, {'ticker': 'CNC', 'exDate': '2003-07-14', 'paymentDate': '2003-07-14', 'ratio': 0.6666666666666666}]"
+1107,MOS,[]
+1108,MDLZ,[]
+1109,VICI,[]
+1110,DISCA,[]
+1111,VNET,[]
+1112,INVH,[]
+1113,PHM,"[{'ticker': 'PHM', 'exDate': '2005-09-02', 'paymentDate': '2005-09-02', 'ratio': 0.5}, {'ticker': 'PHM', 'exDate': '2004-01-05', 'paymentDate': '2004-01-05', 'ratio': 0.5}, {'ticker': 'PHM', 'exDate': '1998-06-02', 'paymentDate': '1998-06-02', 'ratio': 0.5}]"
+1114,HFC,"[{'ticker': 'HFC', 'exDate': '2011-09-01', 'paymentDate': '2011-09-01', 'ratio': 0.5}, {'ticker': 'HFC', 'exDate': '2006-06-02', 'paymentDate': '2006-06-02', 'ratio': 0.5}, {'ticker': 'HFC', 'exDate': '2004-08-31', 'paymentDate': '2004-08-31', 'ratio': 0.5}, {'ticker': 'HFC', 'exDate': '2001-07-09', 'paymentDate': '2001-07-09', 'ratio': 0.5}]"
+1115,BK,"[{'ticker': 'BK', 'exDate': '2007-07-01', 'paymentDate': '2007-07-01', 'ratio': 1.05999576001696}, {'ticker': 'BK', 'exDate': '1998-08-14', 'paymentDate': '1998-08-14', 'ratio': 0.5}]"
+1116,CNP,"[{'ticker': 'CNP', 'exDate': '2002-09-30', 'paymentDate': '2002-09-30', 'ratio': 0.843}]"
+1117,TPGY,[]
+1118,VST,"[{'ticker': 'VST', 'exDate': '2013-08-08', 'paymentDate': '2013-08-08', 'ratio': 0.02}, {'ticker': 'VST', 'exDate': '2004-10-31', 'paymentDate': '2004-10-31', 'ratio': 0.1}, {'ticker': 'VST', 'exDate': '2003-02-26', 'paymentDate': '2003-02-26', 'ratio': 3}]"
+1119,ZTO,[]
+1120,WU,[]
+1121,KKR,[]
+1122,FAST,"[{'ticker': 'FAST', 'exDate': '2019-05-23', 'paymentDate': '2019-05-22', 'declaredDate': '2019-04-18', 'ratio': 0.5, 'tofactor': 1, 'forfactor': 2}, {'ticker': 'FAST', 'exDate': '2011-05-23', 'paymentDate': '2011-05-23', 'ratio': 0.5}, {'ticker': 'FAST', 'exDate': '2005-11-14', 'paymentDate': '2005-11-14', 'ratio': 0.5}, {'ticker': 'FAST', 'exDate': '2002-05-13', 'paymentDate': '2002-05-13', 'ratio': 0.5}]"
+1123,JCI,"[{'ticker': 'JCI', 'exDate': '2012-09-30', 'paymentDate': '2012-09-30', 'ratio': 0.4971}, {'ticker': 'JCI', 'exDate': '2007-10-03', 'paymentDate': '2007-10-03', 'ratio': 0.3333333333333333}, {'ticker': 'JCI', 'exDate': '2007-07-01', 'paymentDate': '2007-07-01', 'ratio': 4}, {'ticker': 'JCI', 'exDate': '2004-01-05', 'paymentDate': '2004-01-05', 'ratio': 0.5}, {'ticker': 'JCI', 'exDate': '1999-10-21', 'paymentDate': '1999-10-21', 'ratio': 0.5}]"
+1124,EXC,"[{'ticker': 'EXC', 'exDate': '2004-05-06', 'paymentDate': '2004-05-06', 'ratio': 0.5}]"
+1125,IPG,"[{'ticker': 'IPG', 'exDate': '1999-07-16', 'paymentDate': '1999-07-16', 'ratio': 0.5}]"
+1126,AER,[]
+1127,ELAN,[]
+1128,JNPR,"[{'ticker': 'JNPR', 'exDate': '2000-06-16', 'paymentDate': '2000-06-16', 'ratio': 0.5}, {'ticker': 'JNPR', 'exDate': '2000-01-18', 'paymentDate': '2000-01-18', 'ratio': 0.3333333333333333}]"
+1129,CTVA,[]
+1130,BLDR,[]
+1131,BWA,"[{'ticker': 'BWA', 'exDate': '2013-12-17', 'paymentDate': '2013-12-17', 'ratio': 0.5}, {'ticker': 'BWA', 'exDate': '2007-12-18', 'paymentDate': '2007-12-18', 'ratio': 0.5}, {'ticker': 'BWA', 'exDate': '2004-05-18', 'paymentDate': '2004-05-18', 'ratio': 0.5}]"
+1132,VRT,[]
+1133,DRE,[]
+1134,HWM,[]
+1135,YSG,[]
+1136,KNX,"[{'ticker': 'KNX', 'exDate': '2005-12-26', 'paymentDate': '2005-12-26', 'ratio': 0.666666666666667}, {'ticker': 'KNX', 'exDate': '2004-07-20', 'paymentDate': '2004-07-20', 'ratio': 0.666666666666667}, {'ticker': 'KNX', 'exDate': '2001-12-30', 'paymentDate': '2001-12-30', 'ratio': 0.666666666666667}, {'ticker': 'KNX', 'exDate': '2001-06-03', 'paymentDate': '2001-06-03', 'ratio': 0.666666666666667}, {'ticker': 'KNX', 'exDate': '1998-05-18', 'paymentDate': '1998-05-18', 'ratio': 0.666666666666667}]"
+1137,NYT,"[{'ticker': 'NYT', 'exDate': '1998-07-02', 'paymentDate': '1998-07-02', 'ratio': 0.5}]"
+1138,STL,"[{'ticker': 'STL', 'exDate': '2004-01-15', 'paymentDate': '2004-01-15', 'ratio': 0.22563176895306858}]"
+1139,CF,"[{'ticker': 'CF', 'exDate': '2015-06-18', 'paymentDate': '2015-06-18', 'declaredDate': '2015-05-15', 'ratio': 0.2, 'tofactor': 1, 'forfactor': 5}]"
+1140,TCOM,"[{'ticker': 'TCOM', 'exDate': '2010-01-20', 'paymentDate': '2010-01-20', 'ratio': 2}, {'ticker': 'TCOM', 'exDate': '2007-07-30', 'paymentDate': '2007-07-30', 'ratio': 2}, {'ticker': 'TCOM', 'exDate': '2006-04-10', 'paymentDate': '2006-04-10', 'ratio': 2}]"
+1141,EVRG,[]
+1142,ATUS,[]
+1143,NI,"[{'ticker': 'NI', 'exDate': '1998-02-23', 'paymentDate': '1998-02-23', 'ratio': 0.5}]"
+1144,HIG,"[{'ticker': 'HIG', 'exDate': '1998-07-16', 'paymentDate': '1998-07-16', 'ratio': 0.5}]"
+1145,MAS,"[{'ticker': 'MAS', 'exDate': '1998-07-13', 'paymentDate': '1998-07-13', 'ratio': 0.5}]"
+1146,IR,"[{'ticker': 'IR', 'exDate': '2013-12-01', 'paymentDate': '2013-12-01', 'ratio': 0.798722044728435}, {'ticker': 'IR', 'exDate': '2005-09-02', 'paymentDate': '2005-09-02', 'ratio': 0.5}]"
+1147,UDR,[]
+1148,DISCK,[]
+1149,PEG,"[{'ticker': 'PEG', 'exDate': '2008-02-05', 'paymentDate': '2008-02-05', 'ratio': 0.5}]"
+1150,NLSN,[]
+1151,AXTA,[]
+1152,AIRC,[]
+1153,VNT,[]
+1154,OAS,[]
+1155,EQH,[]
+1156,NWSA,[]
+1157,ACGL,"[{'ticker': 'ACGL', 'exDate': '2018-06-21', 'paymentDate': '2018-06-21', 'declaredDate': '2018-06-09', 'ratio': 0.3333333333333333, 'tofactor': 1, 'forfactor': 3}, {'ticker': 'ACGL', 'exDate': '2011-05-12', 'paymentDate': '2011-05-12', 'ratio': 0.3333333333333333}]"
+1158,PLTK,[]
+1159,AAPL,"[{'ticker': 'AAPL', 'exDate': '2020-08-31', 'paymentDate': '2020-08-28', 'declaredDate': '2020-07-30', 'ratio': 0.25, 'tofactor': 1, 'forfactor': 4}, {'ticker': 'AAPL', 'exDate': '2014-06-09', 'paymentDate': '2014-06-10', 'ratio': 0.14285714285714285, 'tofactor': 1, 'forfactor': 7}, {'ticker': 'AAPL', 'exDate': '2005-02-28', 'paymentDate': '2005-02-28', 'ratio': 0.5}, {'ticker': 'AAPL', 'exDate': '2000-06-21', 'paymentDate': '2000-06-21', 'ratio': 0.5}]"
+1160,AMD,"[{'ticker': 'AMD', 'exDate': '2000-08-22', 'paymentDate': '2000-08-22', 'ratio': 0.5}]"
+1161,SBUX,"[{'ticker': 'SBUX', 'exDate': '2015-04-09', 'paymentDate': '2015-04-08', 'declaredDate': '2015-03-18', 'ratio': 0.5, 'tofactor': 1, 'forfactor': 2}, {'ticker': 'SBUX', 'exDate': '2005-10-24', 'paymentDate': '2005-10-24', 'ratio': 0.5}, {'ticker': 'SBUX', 'exDate': '2001-04-30', 'paymentDate': '2001-04-30', 'ratio': 0.5}, {'ticker': 'SBUX', 'exDate': '1999-03-22', 'paymentDate': '1999-03-22', 'ratio': 0.5}]"
+1162,WMT,"[{'ticker': 'WMT', 'exDate': '1999-04-20', 'paymentDate': '1999-04-20', 'ratio': 0.5}]"
+1163,DKNG,[]
+1164,PLUG,"[{'ticker': 'PLUG', 'exDate': '2011-05-20', 'paymentDate': '2011-05-20', 'ratio': 10}]"
+1165,NKE,"[{'ticker': 'NKE', 'exDate': '2015-12-24', 'paymentDate': '2015-12-23', 'declaredDate': '2015-11-20', 'ratio': 0.5, 'tofactor': 1, 'forfactor': 2}, {'ticker': 'NKE', 'exDate': '2012-12-26', 'paymentDate': '2012-12-26', 'ratio': 0.5}, {'ticker': 'NKE', 'exDate': '2007-04-03', 'paymentDate': '2007-04-03', 'ratio': 0.5}]"
+1166,JPM,"[{'ticker': 'JPM', 'exDate': '2000-06-12', 'paymentDate': '2000-06-12', 'ratio': 0.6666666666666666}, {'ticker': 'JPM', 'exDate': '1998-06-15', 'paymentDate': '1998-06-15', 'ratio': 0.5}]"
+1167,ABBV,[]
+1168,PINS,[]
+1169,SNAP,[]
+1170,PTON,[]
+1171,RCL,"[{'ticker': 'RCL', 'exDate': '1998-08-03', 'paymentDate': '1998-08-03', 'ratio': 0.5}]"
+1172,IBM,"[{'ticker': 'IBM', 'exDate': '1999-05-27', 'paymentDate': '1999-05-27', 'ratio': 0.5}]"
+1173,CHWY,[]
+1174,QCOM,"[{'ticker': 'QCOM', 'exDate': '2004-08-16', 'paymentDate': '2004-08-16', 'ratio': 0.5}, {'ticker': 'QCOM', 'exDate': '1999-12-31', 'paymentDate': '1999-12-31', 'ratio': 0.25}, {'ticker': 'QCOM', 'exDate': '1999-05-11', 'paymentDate': '1999-05-11', 'ratio': 0.5}]"
+1175,PENN,"[{'ticker': 'PENN', 'exDate': '2013-11-03', 'paymentDate': '2013-11-03', 'ratio': 0.226090888537192}, {'ticker': 'PENN', 'exDate': '2005-03-08', 'paymentDate': '2005-03-08', 'ratio': 0.5}, {'ticker': 'PENN', 'exDate': '2002-06-26', 'paymentDate': '2002-06-26', 'ratio': 0.5}]"
+1176,LMND,[]
+1177,PG,"[{'ticker': 'PG', 'exDate': '2004-06-21', 'paymentDate': '2004-06-21', 'ratio': 0.5}]"
+1178,TMUS,"[{'ticker': 'TMUS', 'exDate': '2013-05-01', 'paymentDate': '2013-05-01', 'ratio': 2}]"
+1179,GILD,"[{'ticker': 'GILD', 'exDate': '2013-01-28', 'paymentDate': '2013-01-28', 'ratio': 0.5}, {'ticker': 'GILD', 'exDate': '2007-06-25', 'paymentDate': '2007-06-25', 'ratio': 0.5}, {'ticker': 'GILD', 'exDate': '2004-09-07', 'paymentDate': '2004-09-07', 'ratio': 0.5}, {'ticker': 'GILD', 'exDate': '2002-03-08', 'paymentDate': '2002-03-08', 'ratio': 0.5}, {'ticker': 'GILD', 'exDate': '2001-02-22', 'paymentDate': '2001-02-22', 'ratio': 0.5}]"
+1180,CVS,"[{'ticker': 'CVS', 'exDate': '2005-06-07', 'paymentDate': '2005-06-07', 'ratio': 0.5}, {'ticker': 'CVS', 'exDate': '1998-06-16', 'paymentDate': '1998-06-16', 'ratio': 0.5}]"
+1181,FSLY,[]
+1182,JD,[]
+1183,JMIA,[]
+1184,ATVI,"[{'ticker': 'ATVI', 'exDate': '2008-09-08', 'paymentDate': '2008-09-08', 'ratio': 0.5}, {'ticker': 'ATVI', 'exDate': '2005-10-25', 'paymentDate': '2005-10-25', 'ratio': 0.7500018750046875}, {'ticker': 'ATVI', 'exDate': '2005-03-23', 'paymentDate': '2005-03-23', 'ratio': 0.7500018750046875}, {'ticker': 'ATVI', 'exDate': '2004-03-16', 'paymentDate': '2004-03-16', 'ratio': 0.6666666666666666}, {'ticker': 'ATVI', 'exDate': '2003-06-09', 'paymentDate': '2003-06-09', 'ratio': 0.6666666666666666}, {'ticker': 'ATVI', 'exDate': '2001-11-21', 'paymentDate': '2001-11-21', 'ratio': 0.6666666666666666}]"
+1185,WM,[]
+1186,NEE,"[{'ticker': 'NEE', 'exDate': '2020-10-27', 'paymentDate': '2020-10-26', 'declaredDate': '2020-09-14', 'ratio': 0.25, 'tofactor': 1, 'forfactor': 4}, {'ticker': 'NEE', 'exDate': '2005-03-16', 'paymentDate': '2005-03-16', 'ratio': 0.5}]"
+1187,SFIX,[]
+1188,C,"[{'ticker': 'C', 'exDate': '2011-05-09', 'paymentDate': '2011-05-09', 'ratio': 10}, {'ticker': 'C', 'exDate': '2000-08-28', 'paymentDate': '2000-08-28', 'ratio': 0.7500018750046875}, {'ticker': 'C', 'exDate': '1999-06-01', 'paymentDate': '1999-06-01', 'ratio': 0.6666666666666666}]"
+1189,MU,"[{'ticker': 'MU', 'exDate': '2000-05-02', 'paymentDate': '2000-05-02', 'ratio': 0.5}]"
+1190,O,"[{'ticker': 'O', 'exDate': '2005-01-03', 'paymentDate': '2005-01-03', 'ratio': 0.5}]"
+1191,TSM,"[{'ticker': 'TSM', 'exDate': '2009-07-14', 'paymentDate': '2009-07-14', 'ratio': 0.995024875621891}, {'ticker': 'TSM', 'exDate': '2006-06-19', 'paymentDate': '2006-06-19', 'ratio': 0.970873786407767}, {'ticker': 'TSM', 'exDate': '2005-06-12', 'paymentDate': '2005-06-12', 'ratio': 0.952380952380952}, {'ticker': 'TSM', 'exDate': '2004-06-13', 'paymentDate': '2004-06-13', 'ratio': 0.87719298245614}, {'ticker': 'TSM', 'exDate': '2003-07-06', 'paymentDate': '2003-07-06', 'ratio': 0.925925925925926}, {'ticker': 'TSM', 'exDate': '2002-06-18', 'paymentDate': '2002-06-18', 'ratio': 0.909090909090909}, {'ticker': 'TSM', 'exDate': '2001-06-25', 'paymentDate': '2001-06-25', 'ratio': 0.714285714285714}, {'ticker': 'TSM', 'exDate': '2000-05-14', 'paymentDate': '2000-05-14', 'ratio': 0.78125}, {'ticker': 'TSM', 'exDate': '1999-08-15', 'paymentDate': '1999-08-15', 'ratio': 0.813008130081301}, {'ticker': 'TSM', 'exDate': '1998-08-25', 'paymentDate': '1998-08-25', 'ratio': 0.689655172413793}]"
+1192,BNTX,[]
+1193,GRWG,[]
+1194,EBAY,"[{'ticker': 'EBAY', 'exDate': '2005-02-17', 'paymentDate': '2005-02-17', 'ratio': 0.5}, {'ticker': 'EBAY', 'exDate': '2003-08-29', 'paymentDate': '2003-08-29', 'ratio': 0.5}, {'ticker': 'EBAY', 'exDate': '2000-05-25', 'paymentDate': '2000-05-25', 'ratio': 0.5}, {'ticker': 'EBAY', 'exDate': '1999-03-02', 'paymentDate': '1999-03-02', 'ratio': 0.3333333333333333}]"
+1195,OSTK,[]
+1196,EA,"[{'ticker': 'EA', 'exDate': '2003-11-18', 'paymentDate': '2003-11-18', 'ratio': 0.5}, {'ticker': 'EA', 'exDate': '2000-09-11', 'paymentDate': '2000-09-11', 'ratio': 0.5}]"
+1197,NET,[]
+1198,SPG,"[{'ticker': 'SPG', 'exDate': '2009-11-11', 'paymentDate': '2009-11-11', 'ratio': 0.993739441518434}, {'ticker': 'SPG', 'exDate': '2009-08-12', 'paymentDate': '2009-08-12', 'ratio': 0.992831754730843}]"
+1199,D,"[{'ticker': 'D', 'exDate': '2007-11-20', 'paymentDate': '2007-11-20', 'ratio': 0.5}]"
+1200,DUK,"[{'ticker': 'DUK', 'exDate': '2012-07-03', 'paymentDate': '2012-07-03', 'ratio': 3.000030000300003}, {'ticker': 'DUK', 'exDate': '2007-01-02', 'paymentDate': '2007-01-02', 'ratio': 0.5811}, {'ticker': 'DUK', 'exDate': '2001-01-29', 'paymentDate': '2001-01-29', 'ratio': 0.5}]"
+1201,RUN,[]
+1202,ABT,"[{'ticker': 'ABT', 'exDate': '2013-01-01', 'paymentDate': '2013-01-01', 'ratio': 0.4798}, {'ticker': 'ABT', 'exDate': '2004-05-02', 'paymentDate': '2004-05-02', 'ratio': 0.9356}, {'ticker': 'ABT', 'exDate': '1998-06-01', 'paymentDate': '1998-06-01', 'ratio': 0.5}]"
+1203,CZR,[]
+1204,ORCL,"[{'ticker': 'ORCL', 'exDate': '2000-10-13', 'paymentDate': '2000-10-13', 'ratio': 0.5}, {'ticker': 'ORCL', 'exDate': '2000-01-19', 'paymentDate': '2000-01-19', 'ratio': 0.5}, {'ticker': 'ORCL', 'exDate': '1999-03-01', 'paymentDate': '1999-03-01', 'ratio': 0.6666666666666666}]"
+1205,CVX,"[{'ticker': 'CVX', 'exDate': '2004-09-13', 'paymentDate': '2004-09-13', 'ratio': 0.5}]"
+1206,BUD,[]
+1207,DDOG,[]
+1208,APPS,"[{'ticker': 'APPS', 'exDate': '2013-04-15', 'paymentDate': '2013-04-15', 'ratio': 5}, {'ticker': 'APPS', 'exDate': '2006-08-18', 'paymentDate': '2006-08-18', 'ratio': 0.4}]"
+1209,RTX,[]
+1210,BIGC,"[{'ticker': 'BIGC', 'exDate': '1998-06-24', 'paymentDate': '1998-06-24', 'ratio': 5}]"
+1211,MAR,"[{'ticker': 'MAR', 'exDate': '2011-11-21', 'paymentDate': '2011-11-21', 'ratio': 0.942507068803016}, {'ticker': 'MAR', 'exDate': '2009-11-16', 'paymentDate': '2009-11-16', 'ratio': 0.997008973080758}, {'ticker': 'MAR', 'exDate': '2009-08-17', 'paymentDate': '2009-08-17', 'ratio': 0.99601593625498}, {'ticker': 'MAR', 'exDate': '2009-06-22', 'paymentDate': '2009-06-22', 'ratio': 0.99601593625498}, {'ticker': 'MAR', 'exDate': '2006-06-12', 'paymentDate': '2006-06-12', 'ratio': 0.5}]"
+1212,U,[]
+1213,AXP,"[{'ticker': 'AXP', 'exDate': '2005-10-02', 'paymentDate': '2005-10-02', 'ratio': 0.8753}, {'ticker': 'AXP', 'exDate': '2000-05-11', 'paymentDate': '2000-05-11', 'ratio': 0.3333333333333333}]"
+1214,JKS,[]
+1215,WYNN,[]
+1216,CHGG,[]
+1217,DFS,[]
+1218,FANG,[]
+1219,RDFN,[]
+1220,VIR,[]
+1221,BMY,"[{'ticker': 'BMY', 'exDate': '2001-08-06', 'paymentDate': '2001-08-06', 'ratio': 0.951777}, {'ticker': 'BMY', 'exDate': '1999-03-01', 'paymentDate': '1999-03-01', 'ratio': 0.5}]"
+1222,NNOX,[]
+1223,BBY,"[{'ticker': 'BBY', 'exDate': '2005-08-04', 'paymentDate': '2005-08-04', 'ratio': 0.6666666666666666}, {'ticker': 'BBY', 'exDate': '2002-05-13', 'paymentDate': '2002-05-13', 'ratio': 0.6666666666666666}, {'ticker': 'BBY', 'exDate': '1999-03-19', 'paymentDate': '1999-03-19', 'ratio': 0.5}, {'ticker': 'BBY', 'exDate': '1998-05-27', 'paymentDate': '1998-05-27', 'ratio': 0.5}]"
+1224,LYV,[]
+1225,SAVA,[]
+1226,AMAT,"[{'ticker': 'AMAT', 'exDate': '2002-04-17', 'paymentDate': '2002-04-17', 'ratio': 0.5}, {'ticker': 'AMAT', 'exDate': '2000-03-16', 'paymentDate': '2000-03-16', 'ratio': 0.5}]"
+1227,AFRM,[]
+1228,DQ,"[{'ticker': 'DQ', 'exDate': '2020-11-17', 'paymentDate': '2020-11-16', 'ratio': 0.2, 'tofactor': 1, 'forfactor': 5}, {'ticker': 'DQ', 'exDate': '2012-12-21', 'paymentDate': '2012-12-21', 'ratio': 5}]"
+1229,DRI,"[{'ticker': 'DRI', 'exDate': '2002-05-02', 'paymentDate': '2002-05-02', 'ratio': 0.6666666666666666}]"
+1230,WDC,[]
+1231,ARCT,[]
+1232,MRK,"[{'ticker': 'MRK', 'exDate': '1999-02-17', 'paymentDate': '1999-02-17', 'ratio': 0.5}]"
+1233,PEP,[]
+1234,PSX,[]
+1235,TSN,[]
+1236,FSLR,[]
+1237,TJX,"[{'ticker': 'TJX', 'exDate': '2018-11-07', 'paymentDate': '2018-11-06', 'ratio': 0.5, 'tofactor': 1, 'forfactor': 2}, {'ticker': 'TJX', 'exDate': '2012-02-03', 'paymentDate': '2012-02-03', 'ratio': 0.5}, {'ticker': 'TJX', 'exDate': '2002-05-09', 'paymentDate': '2002-05-09', 'ratio': 0.5}, {'ticker': 'TJX', 'exDate': '1998-06-26', 'paymentDate': '1998-06-26', 'ratio': 0.5}]"
+1238,NEM,[]
+1239,HLT,"[{'ticker': 'HLT', 'exDate': '2017-01-04', 'paymentDate': '2017-01-04', 'declaredDate': '2017-01-04', 'ratio': 3, 'tofactor': 3, 'forfactor': 1}, {'ticker': 'HLT', 'exDate': '2017-01-03', 'paymentDate': '2017-01-03', 'declaredDate': '2017-01-03', 'ratio': 3, 'tofactor': 3, 'forfactor': 1}]"
+1240,STNE,[]
+1241,SYY,"[{'ticker': 'SYY', 'exDate': '2000-12-18', 'paymentDate': '2000-12-18', 'ratio': 0.5}, {'ticker': 'SYY', 'exDate': '1998-03-23', 'paymentDate': '1998-03-23', 'ratio': 0.5}]"
+1242,COF,"[{'ticker': 'COF', 'exDate': '1999-06-02', 'paymentDate': '1999-06-02', 'ratio': 0.3333333333333333}]"
+1243,VLO,"[{'ticker': 'VLO', 'exDate': '2013-05-01', 'paymentDate': '2013-05-01', 'ratio': 0.914076782449726}, {'ticker': 'VLO', 'exDate': '2005-12-16', 'paymentDate': '2005-12-16', 'ratio': 0.5}, {'ticker': 'VLO', 'exDate': '2004-10-08', 'paymentDate': '2004-10-08', 'ratio': 0.5}]"
+1244,BILI,[]
+1245,EDIT,[]
+1246,PLNT,[]
+1247,MS,"[{'ticker': 'MS', 'exDate': '2000-01-27', 'paymentDate': '2000-01-27', 'ratio': 0.5}]"
+1248,EXPE,"[{'ticker': 'EXPE', 'exDate': '2011-12-22', 'paymentDate': '2011-12-22', 'ratio': 2}]"
+1249,EH,[]
+1250,BIG,[]
+1251,VMW,[]
+1252,FUTU,[]
+1253,DELL,[]
+1254,MDT,"[{'ticker': 'MDT', 'exDate': '1999-09-27', 'paymentDate': '1999-09-27', 'ratio': 0.5}]"
+1255,XLNX,"[{'ticker': 'XLNX', 'exDate': '1999-12-28', 'paymentDate': '1999-12-28', 'ratio': 0.5}, {'ticker': 'XLNX', 'exDate': '1999-03-12', 'paymentDate': '1999-03-12', 'ratio': 0.5}]"
+1256,DLTR,"[{'ticker': 'DLTR', 'exDate': '2012-06-27', 'paymentDate': '2012-06-27', 'ratio': 0.5}, {'ticker': 'DLTR', 'exDate': '2010-06-25', 'paymentDate': '2010-06-25', 'ratio': 0.6666666666666666}, {'ticker': 'DLTR', 'exDate': '2000-06-20', 'paymentDate': '2000-06-20', 'ratio': 0.6666666666666666}, {'ticker': 'DLTR', 'exDate': '1998-06-30', 'paymentDate': '1998-06-30', 'ratio': 0.6666666666666666}]"
+1257,APTV,[]
+1258,TER,"[{'ticker': 'TER', 'exDate': '1999-09-01', 'paymentDate': '1999-09-01', 'ratio': 0.5}]"
+1259,YUM,"[{'ticker': 'YUM', 'exDate': '2007-06-27', 'paymentDate': '2007-06-27', 'ratio': 0.5}, {'ticker': 'YUM', 'exDate': '2002-06-18', 'paymentDate': '2002-06-18', 'ratio': 0.5}]"
+1260,DD,"[{'ticker': 'DD', 'exDate': '2000-06-19', 'paymentDate': '2000-06-19', 'ratio': 0.3333333333333333}]"
+1261,UPST,[]
+1262,FTCH,[]
+1263,BX,[]
+1264,POSH,[]
+1265,DKS,"[{'ticker': 'DKS', 'exDate': '2007-10-22', 'paymentDate': '2007-10-22', 'ratio': 0.5}, {'ticker': 'DKS', 'exDate': '2004-04-06', 'paymentDate': '2004-04-06', 'ratio': 0.5}]"
+1266,SO,"[{'ticker': 'SO', 'exDate': '2001-04-02', 'paymentDate': '2001-04-02', 'ratio': 0.6109}]"
+1267,KMB,[]
+1268,DHI,"[{'ticker': 'DHI', 'exDate': '2005-03-17', 'paymentDate': '2005-03-17', 'ratio': 0.7500018750046875}, {'ticker': 'DHI', 'exDate': '2004-01-13', 'paymentDate': '2004-01-13', 'ratio': 0.6666666666666666}, {'ticker': 'DHI', 'exDate': '2002-04-10', 'paymentDate': '2002-04-10', 'ratio': 0.6666666666666666}, {'ticker': 'DHI', 'exDate': '2001-03-06', 'paymentDate': '2001-03-06', 'ratio': 0.900900900900901}, {'ticker': 'DHI', 'exDate': '2000-09-13', 'paymentDate': '2000-09-13', 'ratio': 0.917431192660551}]"
+1269,PRU,[]
+1270,EXAS,[]
+1271,PM,[]
+1272,NTLA,[]
+1273,WELL,[]
+1274,LITE,[]
+1275,SRPT,"[{'ticker': 'SRPT', 'exDate': '2012-07-12', 'paymentDate': '2012-07-12', 'ratio': 5.9998800023999515}]"
+1276,CDNS,[]
+1277,KMX,"[{'ticker': 'KMX', 'exDate': '2007-03-27', 'paymentDate': '2007-03-27', 'ratio': 0.5}]"
+1278,ED,[]
+1279,SLG,"[{'ticker': 'SLG', 'exDate': '2021-01-21', 'paymentDate': '2021-01-21', 'declaredDate': '2021-01-21', 'ratio': 0.971, 'tofactor': 1, 'forfactor': 1}]"
+1280,PLD,[]
+1281,KC,[]
+1282,STX,[]
+1283,DLR,[]
+1284,NVS,"[{'ticker': 'NVS', 'exDate': '2000-05-11', 'paymentDate': '2000-05-11', 'ratio': 0.5}]"
+1285,CL,"[{'ticker': 'CL', 'exDate': '2013-05-16', 'paymentDate': '2013-05-16', 'ratio': 0.5}, {'ticker': 'CL', 'exDate': '1999-07-01', 'paymentDate': '1999-07-01', 'ratio': 0.5}]"
+1286,FISV,"[{'ticker': 'FISV', 'exDate': '2018-03-20', 'paymentDate': '2018-03-19', 'declaredDate': '2018-02-21', 'ratio': 0.5, 'tofactor': 1, 'forfactor': 2}, {'ticker': 'FISV', 'exDate': '2013-12-17', 'paymentDate': '2013-12-17', 'ratio': 0.5}, {'ticker': 'FISV', 'exDate': '2001-09-04', 'paymentDate': '2001-09-04', 'ratio': 0.6666666666666666}, {'ticker': 'FISV', 'exDate': '1999-05-03', 'paymentDate': '1999-05-03', 'ratio': 0.6666666666666666}, {'ticker': 'FISV', 'exDate': '1998-06-01', 'paymentDate': '1998-06-01', 'ratio': 0.6666666666666666}]"
+1287,ROST,"[{'ticker': 'ROST', 'exDate': '2015-06-12', 'paymentDate': '2015-06-11', 'declaredDate': '2015-03-24', 'ratio': 0.5, 'tofactor': 1, 'forfactor': 2}, {'ticker': 'ROST', 'exDate': '2011-12-16', 'paymentDate': '2011-12-16', 'ratio': 0.5}, {'ticker': 'ROST', 'exDate': '2003-12-19', 'paymentDate': '2003-12-19', 'ratio': 0.5}, {'ticker': 'ROST', 'exDate': '1999-09-23', 'paymentDate': '1999-09-23', 'ratio': 0.5}]"
+1288,GSX,[]
+1289,A,[]
+1290,NTAP,"[{'ticker': 'NTAP', 'exDate': '2000-03-23', 'paymentDate': '2000-03-23', 'ratio': 0.5}, {'ticker': 'NTAP', 'exDate': '1999-12-21', 'paymentDate': '1999-12-21', 'ratio': 0.5}, {'ticker': 'NTAP', 'exDate': '1998-12-22', 'paymentDate': '1998-12-22', 'ratio': 0.5}]"
+1291,LEN,"[{'ticker': 'LEN', 'exDate': '2004-01-21', 'paymentDate': '2004-01-21', 'ratio': 0.5}]"
+1292,ICE,"[{'ticker': 'ICE', 'exDate': '2016-11-04', 'paymentDate': '2016-11-03', 'declaredDate': '2016-08-03', 'ratio': 0.2, 'tofactor': 1, 'forfactor': 5}]"
+1293,RIO,"[{'ticker': 'RIO', 'exDate': '2010-04-30', 'paymentDate': '2010-04-30', 'ratio': 0.25}]"
+1294,AKAM,[]
+1295,CTXS,"[{'ticker': 'CTXS', 'exDate': '2017-02-01', 'paymentDate': '2017-01-31', 'ratio': 0.5, 'tofactor': 1, 'forfactor': 2}, {'ticker': 'CTXS', 'exDate': '2000-02-17', 'paymentDate': '2000-02-17', 'ratio': 0.5}, {'ticker': 'CTXS', 'exDate': '1999-03-26', 'paymentDate': '1999-03-26', 'ratio': 0.5}, {'ticker': 'CTXS', 'exDate': '1998-02-23', 'paymentDate': '1998-02-23', 'ratio': 0.6666666666666666}]"
+1296,AEP,[]
+1297,LYB,[]
+1298,PLAN,[]
+1299,HOLX,"[{'ticker': 'HOLX', 'exDate': '2008-04-03', 'paymentDate': '2008-04-03', 'ratio': 0.5}, {'ticker': 'HOLX', 'exDate': '2005-12-01', 'paymentDate': '2005-12-01', 'ratio': 0.5}]"
+1300,CREE,"[{'ticker': 'CREE', 'exDate': '2000-12-11', 'paymentDate': '2000-12-11', 'ratio': 0.5}, {'ticker': 'CREE', 'exDate': '1999-08-02', 'paymentDate': '1999-08-02', 'ratio': 0.5}]"
+1301,EMR,"[{'ticker': 'EMR', 'exDate': '2006-12-12', 'paymentDate': '2006-12-12', 'ratio': 0.5}]"
+1302,VFC,"[{'ticker': 'VFC', 'exDate': '2013-12-23', 'paymentDate': '2013-12-23', 'ratio': 0.25}]"
+1303,EQR,"[{'ticker': 'EQR', 'exDate': '2001-10-12', 'paymentDate': '2001-10-12', 'ratio': 0.5}]"
+1304,NTES,"[{'ticker': 'NTES', 'exDate': '2020-10-02', 'paymentDate': '2020-10-01', 'declaredDate': '2020-09-18', 'ratio': 0.2, 'tofactor': 1, 'forfactor': 5}, {'ticker': 'NTES', 'exDate': '2020-10-02', 'paymentDate': '2020-10-01', 'declaredDate': '2020-09-18', 'ratio': 0.2, 'tofactor': 1, 'forfactor': 5}, {'ticker': 'NTES', 'exDate': '2006-03-28', 'paymentDate': '2006-03-28', 'ratio': 0.25}]"
+1305,HZNP,[]
+1306,BHP,"[{'ticker': 'BHP', 'exDate': '2001-07-12', 'paymentDate': '2001-07-12', 'ratio': 0.484238051426081}]"
+1307,BEKE,[]
+1308,MNST,"[{'ticker': 'MNST', 'exDate': '2016-11-10', 'paymentDate': '2016-11-09', 'declaredDate': '2016-10-14', 'ratio': 0.3333333333333333, 'tofactor': 1, 'forfactor': 3}, {'ticker': 'MNST', 'exDate': '2012-02-16', 'paymentDate': '2012-02-16', 'ratio': 0.5}, {'ticker': 'MNST', 'exDate': '2006-07-10', 'paymentDate': '2006-07-10', 'ratio': 0.25}, {'ticker': 'MNST', 'exDate': '2005-08-09', 'paymentDate': '2005-08-09', 'ratio': 0.5}]"
+1309,PGR,"[{'ticker': 'PGR', 'exDate': '2006-05-19', 'paymentDate': '2006-05-19', 'ratio': 0.25}, {'ticker': 'PGR', 'exDate': '2002-04-23', 'paymentDate': '2002-04-23', 'ratio': 0.3333333333333333}]"
+1310,YNDX,[]
+1311,STT,"[{'ticker': 'STT', 'exDate': '2001-05-31', 'paymentDate': '2001-05-31', 'ratio': 0.5}]"
+1312,PXD,[]
+1313,EV,"[{'ticker': 'EV', 'exDate': '2005-01-18', 'paymentDate': '2005-01-18', 'ratio': 0.5}, {'ticker': 'EV', 'exDate': '2000-11-14', 'paymentDate': '2000-11-14', 'ratio': 0.5}, {'ticker': 'EV', 'exDate': '1998-09-01', 'paymentDate': '1998-09-01', 'ratio': 0.5}]"
+1314,HES,"[{'ticker': 'HES', 'exDate': '2006-06-01', 'paymentDate': '2006-06-01', 'ratio': 0.3333333333333333}]"
+1315,ALL,"[{'ticker': 'ALL', 'exDate': '1998-07-02', 'paymentDate': '1998-07-02', 'ratio': 0.5}]"
+1316,EW,"[{'ticker': 'EW', 'exDate': '2020-06-01', 'paymentDate': '2020-05-29', 'declaredDate': '2020-05-07', 'ratio': 0.3333333333333333, 'tofactor': 1, 'forfactor': 3}, {'ticker': 'EW', 'exDate': '2015-12-14', 'paymentDate': '2015-12-11', 'declaredDate': '2015-11-20', 'ratio': 0.5, 'tofactor': 1, 'forfactor': 2}, {'ticker': 'EW', 'exDate': '2010-05-28', 'paymentDate': '2010-05-28', 'ratio': 0.5}]"
+1317,OTIS,[]
+1318,PAYX,"[{'ticker': 'PAYX', 'exDate': '2000-05-23', 'paymentDate': '2000-05-23', 'ratio': 0.6666666666666666}, {'ticker': 'PAYX', 'exDate': '1999-05-24', 'paymentDate': '1999-05-24', 'ratio': 0.6666666666666666}, {'ticker': 'PAYX', 'exDate': '1998-05-26', 'paymentDate': '1998-05-26', 'ratio': 0.6666666666666666}]"
+1319,YY,[]
+1320,CSX,"[{'ticker': 'CSX', 'exDate': '2011-06-16', 'paymentDate': '2011-06-16', 'ratio': 0.3333333333333333}, {'ticker': 'CSX', 'exDate': '2006-08-16', 'paymentDate': '2006-08-16', 'ratio': 0.5}]"
+1321,BLL,"[{'ticker': 'BLL', 'exDate': '2017-05-17', 'paymentDate': '2017-05-16', 'ratio': 0.5, 'tofactor': 1, 'forfactor': 2}, {'ticker': 'BLL', 'exDate': '2011-02-16', 'paymentDate': '2011-02-16', 'ratio': 0.5}, {'ticker': 'BLL', 'exDate': '2004-08-24', 'paymentDate': '2004-08-24', 'ratio': 0.5}, {'ticker': 'BLL', 'exDate': '2002-02-25', 'paymentDate': '2002-02-25', 'ratio': 0.5}]"
+1322,BAX,"[{'ticker': 'BAX', 'exDate': '2015-07-01', 'paymentDate': '2015-07-01', 'ratio': 0.5431}, {'ticker': 'BAX', 'exDate': '2001-05-31', 'paymentDate': '2001-05-31', 'ratio': 0.5}]"
+1323,ETN,"[{'ticker': 'ETN', 'exDate': '2011-03-01', 'paymentDate': '2011-03-01', 'ratio': 0.5}, {'ticker': 'ETN', 'exDate': '2004-02-24', 'paymentDate': '2004-02-24', 'ratio': 0.5}, {'ticker': 'ETN', 'exDate': '2001-01-01', 'paymentDate': '2001-01-01', 'ratio': 0.8677}]"
+1324,OMC,"[{'ticker': 'OMC', 'exDate': '2007-06-26', 'paymentDate': '2007-06-26', 'ratio': 0.5}]"
+1325,SRE,[]
+1326,FIS,[]
+1327,CMA,"[{'ticker': 'CMA', 'exDate': '1998-04-02', 'paymentDate': '1998-04-02', 'ratio': 0.6666666666666666}]"
+1328,LNG,"[{'ticker': 'LNG', 'exDate': '2005-04-25', 'paymentDate': '2005-04-25', 'ratio': 0.5}, {'ticker': 'LNG', 'exDate': '2000-10-18', 'paymentDate': '2000-10-18', 'ratio': 4}]"
+1329,INFO,[]
+1330,CBRE,"[{'ticker': 'CBRE', 'exDate': '2006-06-02', 'paymentDate': '2006-06-02', 'ratio': 0.3333333333333333}]"
+1331,MXIM,"[{'ticker': 'MXIM', 'exDate': '1999-12-22', 'paymentDate': '1999-12-22', 'ratio': 0.5}]"
+1332,XEL,"[{'ticker': 'XEL', 'exDate': '1998-06-02', 'paymentDate': '1998-06-02', 'ratio': 0.5}]"
+1333,TRMB,"[{'ticker': 'TRMB', 'exDate': '2013-03-21', 'paymentDate': '2013-03-21', 'ratio': 0.5}, {'ticker': 'TRMB', 'exDate': '2007-02-23', 'paymentDate': '2007-02-23', 'ratio': 0.5}, {'ticker': 'TRMB', 'exDate': '2004-03-05', 'paymentDate': '2004-03-05', 'ratio': 0.6666666666666666}]"
+1334,CHD,"[{'ticker': 'CHD', 'exDate': '2016-08-31', 'paymentDate': '2016-08-31', 'ratio': 0.5, 'tofactor': 1, 'forfactor': 2}, {'ticker': 'CHD', 'exDate': '2011-06-02', 'paymentDate': '2011-06-02', 'ratio': 0.5}, {'ticker': 'CHD', 'exDate': '2004-09-02', 'paymentDate': '2004-09-02', 'ratio': 0.6666666666666666}, {'ticker': 'CHD', 'exDate': '1999-09-02', 'paymentDate': '1999-09-02', 'ratio': 0.5}]"
+1335,CTSH,"[{'ticker': 'CTSH', 'exDate': '2014-03-06', 'paymentDate': '2014-03-07', 'declaredDate': '2014-02-04', 'ratio': 0.5, 'tofactor': 1, 'forfactor': 2}, {'ticker': 'CTSH', 'exDate': '2007-10-17', 'paymentDate': '2007-10-17', 'ratio': 0.5}, {'ticker': 'CTSH', 'exDate': '2004-06-18', 'paymentDate': '2004-06-18', 'ratio': 0.5}, {'ticker': 'CTSH', 'exDate': '2003-04-02', 'paymentDate': '2003-04-02', 'ratio': 0.3333333333333333}, {'ticker': 'CTSH', 'exDate': '2000-03-17', 'paymentDate': '2000-03-17', 'ratio': 0.5}]"
+1336,TAL,"[{'ticker': 'TAL', 'exDate': '2017-08-16', 'paymentDate': '2017-08-15', 'ratio': 0.16666666666666666, 'tofactor': 1, 'forfactor': 6}]"
+1337,CERN,"[{'ticker': 'CERN', 'exDate': '2013-07-01', 'paymentDate': '2013-07-01', 'ratio': 0.5}, {'ticker': 'CERN', 'exDate': '2011-06-27', 'paymentDate': '2011-06-27', 'ratio': 0.5}, {'ticker': 'CERN', 'exDate': '2006-01-10', 'paymentDate': '2006-01-10', 'ratio': 0.5}]"
+1338,PCAR,"[{'ticker': 'PCAR', 'exDate': '2007-10-10', 'paymentDate': '2007-10-10', 'ratio': 0.6666666666666666}, {'ticker': 'PCAR', 'exDate': '2006-08-11', 'paymentDate': '2006-08-11', 'ratio': 0.6666666666666666}, {'ticker': 'PCAR', 'exDate': '2004-02-06', 'paymentDate': '2004-02-06', 'ratio': 0.6666666666666666}, {'ticker': 'PCAR', 'exDate': '2002-05-29', 'paymentDate': '2002-05-29', 'ratio': 0.6666666666666666}]"
+1339,FTV,"[{'ticker': 'FTV', 'exDate': '2020-10-09', 'paymentDate': '2020-10-09', 'declaredDate': '2020-09-09', 'ratio': 0.5012531328, 'tofactor': 1000, 'forfactor': 1195}]"
+1340,ACIA,[]
+1341,IFF,[]
+1342,RP,[]
+1343,AEE,[]
+1344,MMC,"[{'ticker': 'MMC', 'exDate': '2002-07-01', 'paymentDate': '2002-07-01', 'ratio': 0.5}, {'ticker': 'MMC', 'exDate': '1998-06-29', 'paymentDate': '1998-06-29', 'ratio': 0.6666666666666666}]"
+1345,TEL,[]
